@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>TossGuru — Daily Cricket Toss Predictions</title>
+  <meta name="description" content="Daily cricket toss winner predictions for all major matches. For entertainment purposes only." />
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🪙</text></svg>" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="assets/style.css" />
+</head>
+<body>
+
+  <!-- ============ HEADER ============ -->
+  <header class="site-header">
+    <div class="container header-inner">
+      <a class="brand" href="index.html">
+        <span class="brand-coin">🪙</span>
+        <span class="brand-text">Toss<span>Guru</span></span>
+      </a>
+      <nav class="main-nav">
+        <a href="index.html" class="active">Today's Matches</a>
+        <a href="#how-it-works">How It Works</a>
+        <a href="#disclaimer">Disclaimer</a>
+      </nav>
+    </div>
+  </header>
+
+  <!-- ============ HERO ============ -->
+  <section class="hero">
+    <div class="container">
+      <div class="hero-badge">🏏 Daily Toss Predictions</div>
+      <h1>Who Wins The <span class="grad">Toss</span> Today?</h1>
+      <p class="hero-sub">One simple prediction per match — the team we think wins the toss. Updated daily by our admin. Purely for entertainment.</p>
+      <div class="hero-stats" id="heroStats">
+        <div class="stat"><span class="stat-num" id="statMatches">0</span><span class="stat-label">Matches Today</span></div>
+        <div class="stat"><span class="stat-num" id="statDate">—</span><span class="stat-label">Last Updated</span></div>
+        <div class="stat"><span class="stat-num">100%</span><span class="stat-label">Fun, 0% Betting</span></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============ MATCHES ============ -->
+  <main class="container">
+    <div class="section-head">
+      <h2>🔴 Live Toss Board</h2>
+      <span class="updated-pill" id="updatedPill">Loading…</span>
+    </div>
+
+    <div id="matchList" class="match-list">
+      <div class="loading-card">Loading today's matches…</div>
+    </div>
+
+    <!-- ============ HOW IT WORKS ============ -->
+    <section id="how-it-works" class="info-section">
+      <h2>⚙️ How It Works</h2>
+      <div class="info-grid">
+        <div class="info-card">
+          <div class="info-icon">📋</div>
+          <h3>1. We List Matches</h3>
+          <p>Every day our admin lists all the major cricket matches being played around the world.</p>
+        </div>
+        <div class="info-card">
+          <div class="info-icon">🪙</div>
+          <h3>2. One Toss Pick</h3>
+          <p>For each match we publish exactly one thing — the team we predict will win the toss. No bat/bowl, no heads/tails noise.</p>
+        </div>
+        <div class="info-card">
+          <div class="info-icon">🎉</div>
+          <h3>3. Just For Fun</h3>
+          <p>A coin toss is 50/50 — nobody can truly predict it. Treat every pick as entertainment, never as betting advice.</p>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <!-- ============ FOOTER ============ -->
+  <footer class="site-footer" id="disclaimer">
+    <div class="container">
+      <div class="footer-brand">🪙 TossGuru</div>
+      <p class="disclaimer-text">
+        <strong>⚠️ Disclaimer:</strong> This website is for <strong>entertainment purposes only</strong>.
+        Toss predictions are random guesses — a coin toss cannot be predicted. We do not promote,
+        encourage, or facilitate betting or gambling of any kind. No real-money games are offered here.
+        If you or someone you know has a gambling problem, please seek help.
+      </p>
+      <p class="footer-meta">© <span id="year"></span> TossGuru · Made with ❤️ for cricket fans · <a href="admin.html">Admin</a></p>
+    </div>
+  </footer>
+
+  <script src="assets/app.js"></script>
+</body>
+</html>

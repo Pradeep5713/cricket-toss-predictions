@@ -1,0 +1,47 @@
+{
+  "updated": "2026-06-12T09:00:00+05:30",
+  "matches": [
+    {
+      "id": "m1",
+      "series": "Indian T20 League",
+      "matchNo": "Match 42",
+      "format": "T20",
+      "teamA": { "name": "Mumbai", "code": "MUM", "color": "#1d4ed8" },
+      "teamB": { "name": "Chennai", "code": "CHE", "color": "#eab308" },
+      "venue": "Wankhede Stadium, Mumbai",
+      "time": "2026-06-12T19:30:00+05:30",
+      "prediction": "Chennai",
+      "confidence": 78,
+      "status": "upcoming",
+      "result": "pending"
+    },
+    {
+      "id": "m2",
+      "series": "England T20 Blast",
+      "matchNo": "North Group",
+      "format": "T20",
+      "teamA": { "name": "Lancashire", "code": "LAN", "color": "#dc2626" },
+      "teamB": { "name": "Yorkshire", "code": "YOR", "color": "#0ea5e9" },
+      "venue": "Old Trafford, Manchester",
+      "time": "2026-06-12T23:00:00+05:30",
+      "prediction": "Lancashire",
+      "confidence": 64,
+      "status": "upcoming",
+      "result": "pending"
+    },
+    {
+      "id": "m3",
+      "series": "Pakistan Super League",
+      "matchNo": "Qualifier 1",
+      "format": "T20",
+      "teamA": { "name": "Lahore", "code": "LAH", "color": "#16a34a" },
+      "teamB": { "name": "Karachi", "code": "KAR", "color": "#7c3aed" },
+      "venue": "Gaddafi Stadium, Lahore",
+      "time": "2026-06-12T20:00:00+05:30",
+      "prediction": "Karachi",
+      "confidence": 71,
+      "status": "upcoming",
+      "result": "pending"
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Admin — TossGuru</title>
+  <meta name="robots" content="noindex, nofollow" />
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🪙</text></svg>" />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="assets/style.css" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="container header-inner">
+      <a class="brand" href="index.html">
+        <span class="brand-coin">🪙</span>
+        <span class="brand-text">Toss<span>Guru</span> Admin</span>
+      </a>
+      <nav class="main-nav"><a href="index.html">← View Site</a></nav>
+    </div>
+  </header>
+
+  <div class="admin-wrap">
+    <div id="notice"></div>
+
+    <!-- GitHub connection -->
+    <div class="admin-card">
+      <h2>🔑 GitHub Connection (one-time setup)</h2>
+      <div class="field-row">
+        <div class="field">
+          <label>GitHub Username</label>
+          <input id="ghOwner" placeholder="your-github-username" />
+        </div>
+        <div class="field">
+          <label>Repository Name</label>
+          <input id="ghRepo" placeholder="cricket-toss-predictions" />
+        </div>
+      </div>
+      <div class="field">
+        <label>Personal Access Token</label>
+        <input id="ghToken" type="password" placeholder="github_pat_… or ghp_…" />
+        <div class="hint">
+          Create a <a href="https://github.com/settings/personal-access-tokens/new" target="_blank" rel="noopener">fine-grained token</a>
+          → select only this repository → Permissions → <b>Contents: Read and write</b>.
+          The token is saved only in this browser (localStorage), never in the website code.
+        </div>
+      </div>
+      <button class="btn btn-ghost" id="saveConn">💾 Save Connection</button>
+    </div>
+
+    <!-- Add / edit match -->
+    <div class="admin-card">
+      <h2 id="formTitle">➕ Add Match</h2>
+      <div class="field">
+        <label>Series / League</label>
+        <input id="fSeries" placeholder="e.g. Indian T20 League" />
+      </div>
+      <div class="field-row">
+        <div class="field">
+          <label>Match No / Stage</label>
+          <input id="fMatchNo" placeholder="e.g. Match 42 / Final" />
+        </div>
+        <div class="field">
+          <label>Match Time</label>
+          <input id="fTime" type="datetime-local" />
+        </div>
+      </div>
+      <div class="field-row">
+        <div class="field">
+          <label>Team A Name</label>
+          <input id="fTeamA" placeholder="e.g. Mumbai" />
+        </div>
+        <div class="field">
+          <label>Team A Color</label>
+          <input id="fColorA" type="color" value="#1d4ed8" style="height:46px;padding:4px" />
+        </div>
+      </div>
+      <div class="field-row">
+        <div class="field">
+          <label>Team B Name</label>
+          <input id="fTeamB" placeholder="e.g. Chennai" />
+        </div>
+        <div class="field">
+          <label>Team B Color</label>
+          <input id="fColorB" type="color" value="#eab308" style="height:46px;padding:4px" />
+        </div>
+      </div>
+      <div class="field">
+        <label>Venue (optional)</label>
+        <input id="fVenue" placeholder="e.g. Wankhede Stadium, Mumbai" />
+      </div>
+      <div class="field-row">
+        <div class="field">
+          <label>🪙 Toss Winner Prediction</label>
+          <select id="fPrediction">
+            <option value="">— pick a team —</option>
+          </select>
+        </div>
+        <div class="field">
+          <label>Confidence % (optional)</label>
+          <input id="fConfidence" type="number" min="50" max="99" placeholder="e.g. 70" />
+        </div>
+      </div>
+      <div class="field-row">
+        <div class="field">
+          <label>Status</label>
+          <select id="fStatus">
+            <option value="upcoming">Upcoming</option>
+            <option value="live">Live</option>
+            <option value="done">Done</option>
+          </select>
+        </div>
+        <div class="field">
+          <label>Prediction Result</label>
+          <select id="fResult">
+            <option value="pending">Pending</option>
+            <option value="won">Won ✓</option>
+            <option value="lost">Lost ✗</option>
+          </select>
+        </div>
+      </div>
+      <button class="btn btn-primary" id="saveMatch">💾 Save Match</button>
+      <button class="btn btn-ghost" id="cancelEdit" style="display:none">Cancel</button>
+    </div>
+
+    <!-- Current matches -->
+    <div class="admin-card">
+      <h2>📋 Today's Matches</h2>
+      <div id="adminList"><em style="color:var(--muted)">Loading…</em></div>
+      <div style="margin-top:18px;display:flex;gap:10px;flex-wrap:wrap">
+        <button class="btn btn-gold" id="publish">🚀 Publish to Website</button>
+        <button class="btn btn-ghost" id="clearAll">🗑️ Clear All Matches</button>
+        <button class="btn btn-ghost" id="downloadJson">⬇️ Download JSON (backup)</button>
+      </div>
+      <div class="hint" style="margin-top:10px">
+        “Publish” commits <code>data/matches.json</code> to GitHub. The live site updates in ~1 minute.
+      </div>
+    </div>
+  </div>
+
+  <script src="assets/admin.js"></script>
+</body>
+</html>
