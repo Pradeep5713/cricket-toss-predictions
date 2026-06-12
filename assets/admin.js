@@ -80,7 +80,6 @@
     const series = $('fSeries').value.trim();
     const prediction = $('fPrediction').value;
     if (!series || !teamA || !teamB) return notice('Series, Team A and Team B are required.', 'err');
-    if (!prediction) return notice('Please pick the toss winner prediction.', 'err');
 
     const m = {
       id: editingId || genId(),
@@ -140,11 +139,20 @@
       el.innerHTML = '<em style="color:var(--muted)">No matches in draft. Add one above.</em>';
       return;
     }
+    const fmtT = (iso) => {
+      const d = new Date(iso);
+      return isNaN(d) ? '' : d.toLocaleTimeString('en-IN', { hour: 'numeric', minute: '2-digit', hour12: true });
+    };
     el.innerHTML = data.matches.map((m) => `
       <div class="admin-match-row">
         <div class="admin-match-info">
-          <div>${m.teamA.name} vs ${m.teamB.name} <span style="color:var(--muted)">· ${m.series}</span></div>
-          <div>🪙 Pick: <b>${m.prediction}</b> · ${m.result === 'won' ? '✅ won' : m.result === 'lost' ? '❌ lost' : '⏳ pending'}</div>
+          <div><b style="color:var(--text)">${m.teamA.name} vs ${m.teamB.name}</b> <span style="color:var(--muted)">· ${m.series}${m.time ? ' · ' + fmtT(m.time) : ''}</span></div>
+          <div>🪙 Toss pick: <b>${m.prediction || '— not set —'}</b> · ${m.result === 'won' ? '✅ won' : m.result === 'lost' ? '❌ lost' : '⏳ pending'}</div>
+          <div class="pick-btns">
+            <span class="pick-label">Set toss winner:</span>
+            <button class="btn btn-sm btn-pick ${m.prediction === m.teamA.name ? 'active' : ''}" data-act="pickA" data-id="${m.id}">${m.teamA.name}</button>
+            <button class="btn btn-sm btn-pick ${m.prediction === m.teamB.name ? 'active' : ''}" data-act="pickB" data-id="${m.id}">${m.teamB.name}</button>
+          </div>
         </div>
         <div class="admin-match-actions">
           <button class="btn btn-ghost btn-sm" data-act="won" data-id="${m.id}">✓ Won</button>
@@ -163,6 +171,8 @@
           if (!confirm(`Delete ${m.teamA.name} vs ${m.teamB.name}?`)) return;
           data.matches = data.matches.filter((x) => x.id !== id);
         }
+        if (act === 'pickA') m.prediction = m.teamA.name;
+        if (act === 'pickB') m.prediction = m.teamB.name;
         if (act === 'won') { m.result = 'won'; m.status = 'done'; }
         if (act === 'lost') { m.result = 'lost'; m.status = 'done'; }
         saveDraft();
@@ -170,6 +180,14 @@
       };
     });
   }
+
+  $('reloadLive').onclick = () => {
+    if (!confirm('Replace your draft with the currently published website data?')) return;
+    fetch('data/matches.json?v=' + Date.now())
+      .then((r) => r.json())
+      .then((d) => { data = d; saveDraft(); renderList(); notice('Draft reloaded from the live website ✓', 'ok'); })
+      .catch(() => notice('Could not load the live data.', 'err'));
+  };
 
   $('clearAll').onclick = () => {
     if (!confirm('Remove ALL matches from the draft?')) return;

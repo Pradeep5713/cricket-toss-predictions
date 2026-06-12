@@ -65,10 +65,12 @@
             ${teamHtml(m.teamB, pickB, true)}
           </div>
           ${m.venue ? `<div class="venue">📍 ${esc(m.venue)}</div>` : ''}
-          <div class="prediction-box">
+          <div class="prediction-box ${m.prediction ? '' : 'tba'}">
             <div>
               <div class="prediction-label">Toss Winner Prediction</div>
-              <div class="prediction-team">🏆 ${esc(m.prediction || 'Coming soon')}</div>
+              ${m.prediction
+                ? `<div class="prediction-team">🏆 ${esc(m.prediction)}</div>`
+                : '<div class="prediction-team tba-text">🪙 To Be Announced</div>'}
             </div>
             <div style="text-align:right">
               ${m.confidence ? `<div class="confidence">Confidence <b>${esc(m.confidence)}%</b></div>` : ''}
