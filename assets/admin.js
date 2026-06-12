@@ -29,7 +29,7 @@
   /* ---------- connection ---------- */
   function loadConn() {
     const c = getConn();
-    $('ghOwner').value = c.owner || '';
+    $('ghOwner').value = c.owner || 'Pradeep5713';
     $('ghRepo').value = c.repo || 'cricket-toss-predictions';
     $('ghToken').value = c.token || '';
   }
