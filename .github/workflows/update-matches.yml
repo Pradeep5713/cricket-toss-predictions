@@ -1,0 +1,37 @@
+name: Update daily matches
+
+on:
+  schedule:
+    # 03:00 UTC = 08:30 AM IST, every day
+    - cron: "0 3 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Fetch today's matches
+        env:
+          CRICKET_API_KEY: ${{ secrets.CRICKET_API_KEY }}
+        run: node scripts/update-matches.mjs
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "tossguru-bot"
+          git config user.email "actions@github.com"
+          git add data/matches.json
+          if git diff --cached --quiet; then
+            echo "No changes today"
+          else
+            git commit -m "Auto-update matches for $(TZ=Asia/Kolkata date +%d-%b-%Y)"
+            git push
+          fi

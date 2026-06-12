@@ -32,9 +32,13 @@
   }
 
   function teamHtml(team, isPick, right) {
+    const initials = esc(team.code || team.name.slice(0, 3).toUpperCase());
+    const badge = team.logo
+      ? `<div class="team-badge has-logo"><img src="${esc(team.logo)}" alt="" loading="lazy" onerror="this.parentNode.classList.remove('has-logo');this.replaceWith('${initials}')"></div>`
+      : `<div class="team-badge" style="background:${esc(team.color || '#374151')}">${initials}</div>`;
     return `
       <div class="team ${right ? 'right' : ''}">
-        <div class="team-badge" style="background:${esc(team.color || '#374151')}">${esc(team.code || team.name.slice(0, 3).toUpperCase())}</div>
+        ${badge}
         <div class="team-name ${isPick ? 'winner-pick' : ''}">${esc(team.name)}${isPick ? ' 🪙' : ''}</div>
       </div>`;
   }
