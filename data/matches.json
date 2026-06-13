@@ -1,683 +1,349 @@
 {
-  "updated": "2026-06-12T09:55:34.182Z",
+  "updated": "2026-06-13T06:56:35.638Z",
   "matches": [
     {
-      "id": "m01",
-      "series": "English County Cricket",
-      "matchNo": "",
-      "format": "County",
-      "teamA": {
-        "name": "Yorkshire",
-        "code": "YOR",
-        "color": "#1e3a8a"
-      },
-      "teamB": {
-        "name": "Warwickshire",
-        "code": "WAR",
-        "color": "#b45309"
-      },
-      "venue": "",
-      "time": "2026-06-12T14:55:00+05:30",
-      "prediction": "Yorkshire",
-      "confidence": null,
-      "status": "done",
-      "result": "won"
-    },
-    {
-      "id": "m02",
-      "series": "English County Cricket",
-      "matchNo": "",
-      "format": "County",
-      "teamA": {
-        "name": "Leicestershire",
-        "code": "LEI",
-        "color": "#b91c1c"
-      },
-      "teamB": {
-        "name": "Essex",
-        "code": "ESS",
-        "color": "#7c3aed"
-      },
-      "venue": "",
-      "time": "2026-06-12T14:55:00+05:30",
-      "prediction": "Leicestershire",
-      "confidence": null,
-      "status": "done",
-      "result": "won"
-    },
-    {
-      "id": "m03",
-      "series": "English County Cricket",
-      "matchNo": "",
-      "format": "County",
-      "teamA": {
-        "name": "Sussex",
-        "code": "SUS",
-        "color": "#0369a1"
-      },
-      "teamB": {
-        "name": "Glamorgan",
-        "code": "GLA",
-        "color": "#ca8a04"
-      },
-      "venue": "",
-      "time": "2026-06-12T14:55:00+05:30",
-      "prediction": "Glamorgan",
-      "confidence": null,
-      "status": "done",
-      "result": "won"
-    },
-    {
-      "id": "m04",
-      "series": "English County Cricket",
-      "matchNo": "",
-      "format": "County",
-      "teamA": {
-        "name": "Nottinghamshire",
-        "code": "NOT",
-        "color": "#15803d"
-      },
-      "teamB": {
-        "name": "Somerset",
-        "code": "SOM",
-        "color": "#9f1239"
-      },
-      "venue": "",
-      "time": "2026-06-12T14:55:00+05:30",
-      "prediction": "",
-      "confidence": null,
-      "status": "upcoming",
-      "result": "pending"
-    },
-    {
-      "id": "m05",
-      "series": "English County Cricket",
-      "matchNo": "",
-      "format": "County",
-      "teamA": {
-        "name": "Northamptonshire",
-        "code": "NOR",
-        "color": "#86198f"
-      },
-      "teamB": {
-        "name": "Gloucestershire",
-        "code": "GLO",
-        "color": "#0e7490"
-      },
-      "venue": "",
-      "time": "2026-06-12T14:55:00+05:30",
-      "prediction": "",
-      "confidence": null,
-      "status": "upcoming",
-      "result": "pending"
-    },
-    {
-      "id": "m06",
-      "series": "English County Cricket",
-      "matchNo": "",
-      "format": "County",
-      "teamA": {
-        "name": "Lancashire",
-        "code": "LAN",
-        "color": "#dc2626"
-      },
-      "teamB": {
-        "name": "Kent",
-        "code": "KEN",
-        "color": "#1d4ed8"
-      },
-      "venue": "",
-      "time": "2026-06-12T14:55:00+05:30",
-      "prediction": "",
-      "confidence": null,
-      "status": "upcoming",
-      "result": "pending"
-    },
-    {
-      "id": "m07",
-      "series": "English County Cricket",
-      "matchNo": "",
-      "format": "County",
-      "teamA": {
-        "name": "Worcestershire",
-        "code": "WOR",
-        "color": "#16a34a"
-      },
-      "teamB": {
-        "name": "Middlesex",
-        "code": "MID",
-        "color": "#be185d"
-      },
-      "venue": "",
-      "time": "2026-06-12T14:55:00+05:30",
-      "prediction": "",
-      "confidence": null,
-      "status": "upcoming",
-      "result": "pending"
-    },
-    {
-      "id": "m08",
-      "series": "English County Cricket",
-      "matchNo": "",
-      "format": "County",
-      "teamA": {
-        "name": "Durham",
-        "code": "DUR",
-        "color": "#4338ca"
-      },
-      "teamB": {
-        "name": "Derbyshire",
-        "code": "DER",
-        "color": "#a16207"
-      },
-      "venue": "",
-      "time": "2026-06-12T14:55:00+05:30",
-      "prediction": "",
-      "confidence": null,
-      "status": "upcoming",
-      "result": "pending"
-    },
-    {
-      "id": "m09",
-      "series": "European Cricket Series",
-      "matchNo": "T10",
-      "format": "T10",
-      "teamA": {
-        "name": "Anchor Sports",
-        "code": "ANC",
-        "color": "#0f766e"
-      },
-      "teamB": {
-        "name": "Markhor London",
-        "code": "MAR",
-        "color": "#7e22ce"
-      },
-      "venue": "",
-      "time": "2026-06-12T15:05:00+05:30",
-      "prediction": "",
-      "confidence": null,
-      "status": "upcoming",
-      "result": "pending"
-    },
-    {
-      "id": "m10",
-      "series": "ECS Belgium",
-      "matchNo": "T10",
-      "format": "T10",
-      "teamA": {
-        "name": "Akcel United Brussels",
-        "code": "AUB",
-        "color": "#b91c1c"
-      },
-      "teamB": {
-        "name": "Ghent Gladiators",
-        "code": "GHE",
-        "color": "#1e40af"
-      },
-      "venue": "",
-      "time": "2026-06-12T15:25:00+05:30",
-      "prediction": "",
-      "confidence": null,
-      "status": "upcoming",
-      "result": "pending"
-    },
-    {
-      "id": "m11",
-      "series": "ECS Germany",
-      "matchNo": "T10",
-      "format": "T10",
-      "teamA": {
-        "name": "Berlin Eagles CC",
-        "code": "BEC",
-        "color": "#374151"
-      },
-      "teamB": {
-        "name": "Rugby Cricket Dresden",
-        "code": "RCD",
-        "color": "#ea580c"
-      },
-      "venue": "",
-      "time": "2026-06-12T15:25:00+05:30",
-      "prediction": "",
-      "confidence": null,
-      "status": "upcoming",
-      "result": "pending"
-    },
-    {
-      "id": "m12",
-      "series": "Women's International",
+      "id": "27bc6105-f2b4-4c76-950c-353c63d7f5a8",
+      "series": "Madhya Pradesh Premier League",
       "matchNo": "",
       "format": "T20",
       "teamA": {
-        "name": "Brazil Women",
-        "code": "BRA",
-        "color": "#15803d"
+        "name": "Jabalpur Royal Lions",
+        "code": "JRL",
+        "color": "#0369a1"
       },
       "teamB": {
-        "name": "Zimbabwe Women",
-        "code": "ZIM",
-        "color": "#b91c1c"
+        "name": "Malwa Stallions",
+        "code": "MAL",
+        "color": "#1e3a8a"
       },
       "venue": "",
-      "time": "2026-06-12T16:25:00+05:30",
+      "time": "2026-06-13T04:30:00.000Z",
       "prediction": "",
       "confidence": null,
-      "status": "upcoming",
+      "status": "live",
       "result": "pending"
     },
     {
-      "id": "m13",
-      "series": "ECS Germany",
-      "matchNo": "T10",
-      "format": "T10",
+      "id": "b6a3617f-e99b-459e-a6ad-fb631ecd8582",
+      "series": "Tri Nation A Series in Sri Lanka",
+      "matchNo": "",
+      "format": "ODI",
       "teamA": {
-        "name": "Frankfurt CC Zedman",
-        "code": "FRA",
-        "color": "#0e7490"
+        "name": "Afghanistan A",
+        "code": "AA",
+        "color": "#0369a1",
+        "logo": "https://g.cricapi.com/iapi/1-637877075587179422.webp?w=96"
       },
       "teamB": {
-        "name": "St Ottilien",
-        "code": "STO",
-        "color": "#a21caf"
+        "name": "Sri Lanka A",
+        "code": "SLA",
+        "color": "#a16207",
+        "logo": "https://g.cricapi.com/iapi/4191-638101639309122979.webp?w=96"
       },
       "venue": "",
-      "time": "2026-06-12T17:05:00+05:30",
+      "time": "2026-06-13T04:30:00.000Z",
+      "prediction": "",
+      "confidence": null,
+      "status": "live",
+      "result": "pending"
+    },
+    {
+      "id": "c15cf4cd-8437-4750-82d2-dceb7960499a",
+      "series": "ACC Women's T20I Premier Cup",
+      "matchNo": "",
+      "format": "T20",
+      "teamA": {
+        "name": "Thailand Women",
+        "code": "THW",
+        "color": "#0369a1",
+        "logo": "https://g.cricapi.com/iapi/2351-637985730472466346.webp?w=96"
+      },
+      "teamB": {
+        "name": "United Arab Emirates Women",
+        "code": "UAEW",
+        "color": "#b91c1c",
+        "logo": "https://g.cricapi.com/iapi/1136-637877081374906304.webp?w=96"
+      },
+      "venue": "",
+      "time": "2026-06-13T06:00:00.000Z",
+      "prediction": "",
+      "confidence": null,
+      "status": "live",
+      "result": "pending"
+    },
+    {
+      "id": "5b1be3df-350a-4fe8-86a7-58ca910b1e92",
+      "series": "Andhra Premier League",
+      "matchNo": "",
+      "format": "T20",
+      "teamA": {
+        "name": "Bhimavaram Bulls",
+        "code": "BB",
+        "color": "#9f1239"
+      },
+      "teamB": {
+        "name": "Simhadri Vizag Lions",
+        "code": "SVL",
+        "color": "#16a34a"
+      },
+      "venue": "",
+      "time": "2026-06-13T08:00:00.000Z",
       "prediction": "",
       "confidence": null,
       "status": "upcoming",
       "result": "pending"
     },
     {
-      "id": "m14",
-      "series": "T20 International",
+      "id": "8ae09b34-0122-453b-89d6-83def2cc06a6",
+      "series": "Afghanistan tour of India",
+      "matchNo": "",
+      "format": "T20",
+      "teamA": {
+        "name": "Afghanistan",
+        "code": "AFG",
+        "color": "#ca8a04",
+        "logo": "https://g.cricapi.com/iapi/1-637877075587179422.webp?w=96"
+      },
+      "teamB": {
+        "name": "India",
+        "code": "IND",
+        "color": "#ea580c",
+        "logo": "https://g.cricapi.com/iapi/31-637877061080567215.webp?w=96"
+      },
+      "venue": "",
+      "time": "2026-06-13T08:00:00.000Z",
+      "prediction": "",
+      "confidence": null,
+      "status": "upcoming",
+      "result": "pending"
+    },
+    {
+      "id": "68cf0cbc-8b89-45b0-bc83-94bdc6530d4e",
+      "series": "Viking Cup",
+      "matchNo": "",
+      "format": "T20",
+      "teamA": {
+        "name": "Finland",
+        "code": "FIN",
+        "color": "#be185d",
+        "logo": "https://g.cricapi.com/iapi/604-637871098066577941.webp?w=96"
+      },
+      "teamB": {
+        "name": "Norway",
+        "code": "NOR",
+        "color": "#dc2626",
+        "logo": "https://g.cricapi.com/iapi/636-637867647006202380.webp?w=96"
+      },
+      "venue": "",
+      "time": "2026-06-13T08:30:00.000Z",
+      "prediction": "",
+      "confidence": null,
+      "status": "upcoming",
+      "result": "pending"
+    },
+    {
+      "id": "3fb10526-583e-4667-9c84-6a4c6af3eb05",
+      "series": "ICC Women's T20 World Cup",
+      "matchNo": "",
+      "format": "T20",
+      "teamA": {
+        "name": "Ireland Women",
+        "code": "IRW",
+        "color": "#0369a1",
+        "logo": "https://g.cricapi.com/iapi/1420-637926315409640205.png?w=96"
+      },
+      "teamB": {
+        "name": "Scotland Women",
+        "code": "SCOW",
+        "color": "#dc2626",
+        "logo": "https://g.cricapi.com/iapi/2216-637981637047617665.webp?w=96"
+      },
+      "venue": "",
+      "time": "2026-06-13T09:30:00.000Z",
+      "prediction": "",
+      "confidence": null,
+      "status": "upcoming",
+      "result": "pending"
+    },
+    {
+      "id": "e8a2a7a9-72df-4cfa-8f33-9c635b834dad",
+      "series": "Madhya Pradesh Premier League",
+      "matchNo": "",
+      "format": "T20",
+      "teamA": {
+        "name": "Bundelkhand Bulls",
+        "code": "BB",
+        "color": "#a16207"
+      },
+      "teamB": {
+        "name": "Gwalior Cheetahs",
+        "code": "GC",
+        "color": "#9f1239"
+      },
+      "venue": "",
+      "time": "2026-06-13T09:30:00.000Z",
+      "prediction": "",
+      "confidence": null,
+      "status": "upcoming",
+      "result": "pending"
+    },
+    {
+      "id": "a210c3a6-bb7f-4efe-9dcb-97c4cb209ec1",
+      "series": "Madhya Pradesh Premier League",
+      "matchNo": "",
+      "format": "T20",
+      "teamA": {
+        "name": "Rewa Jaguars",
+        "code": "RJ",
+        "color": "#a16207"
+      },
+      "teamB": {
+        "name": "Ujjain Falcons",
+        "code": "UJJ",
+        "color": "#7c3aed"
+      },
+      "venue": "",
+      "time": "2026-06-13T09:30:00.000Z",
+      "prediction": "",
+      "confidence": null,
+      "status": "upcoming",
+      "result": "pending"
+    },
+    {
+      "id": "b667aecd-fca7-43cd-8178-f6181752c098",
+      "series": "Viking Cup",
       "matchNo": "",
       "format": "T20",
       "teamA": {
         "name": "Austria",
         "code": "AUT",
-        "color": "#dc2626"
+        "color": "#0369a1",
+        "logo": "https://g.cricapi.com/iapi/581-637867646191086862.webp?w=96"
       },
       "teamB": {
-        "name": "Norway",
-        "code": "NOR",
-        "color": "#1d4ed8"
+        "name": "Sweden",
+        "code": "SWE",
+        "color": "#9f1239",
+        "logo": "https://g.cricapi.com/iapi/659-637869111698226088.webp?w=96"
       },
       "venue": "",
-      "time": "2026-06-12T17:25:00+05:30",
+      "time": "2026-06-13T12:30:00.000Z",
       "prediction": "",
       "confidence": null,
       "status": "upcoming",
       "result": "pending"
     },
     {
-      "id": "m15",
-      "series": "ECS Germany",
-      "matchNo": "T10",
-      "format": "T10",
-      "teamA": {
-        "name": "Berlin CC",
-        "code": "BER",
-        "color": "#4338ca"
-      },
-      "teamB": {
-        "name": "SC Naumburg",
-        "code": "SCN",
-        "color": "#16a34a"
-      },
-      "venue": "",
-      "time": "2026-06-12T17:25:00+05:30",
-      "prediction": "",
-      "confidence": null,
-      "status": "upcoming",
-      "result": "pending"
-    },
-    {
-      "id": "m16",
-      "series": "Jharkhand T20",
-      "matchNo": "",
-      "format": "T20",
-      "teamA": {
-        "name": "Jamshedpur Steelers",
-        "code": "JAM",
-        "color": "#b45309"
-      },
-      "teamB": {
-        "name": "Dhanbad Diamonds",
-        "code": "DHA",
-        "color": "#0369a1"
-      },
-      "venue": "",
-      "time": "2026-06-12T17:55:00+05:30",
-      "prediction": "",
-      "confidence": null,
-      "status": "upcoming",
-      "result": "pending"
-    },
-    {
-      "id": "m17",
+      "id": "bb0d0156-c5d7-4403-a7ca-33aeec5fefe7",
       "series": "Andhra Premier League",
       "matchNo": "",
       "format": "T20",
       "teamA": {
-        "name": "Tungabhadra Warriors",
-        "code": "TUN",
-        "color": "#7c3aed"
+        "name": "Kakinada Kings",
+        "code": "KK",
+        "color": "#1d4ed8"
       },
       "teamB": {
-        "name": "Royals of Rayalaseema",
-        "code": "ROR",
-        "color": "#ca8a04"
-      },
-      "venue": "",
-      "time": "2026-06-12T18:10:00+05:30",
-      "prediction": "",
-      "confidence": null,
-      "status": "upcoming",
-      "result": "pending"
-    },
-    {
-      "id": "m18",
-      "series": "Kuwait T20",
-      "matchNo": "",
-      "format": "T20",
-      "teamA": {
-        "name": "Jahra Sporting Club",
-        "code": "JAH",
+        "name": "Tungabhadra Warriors",
+        "code": "TW",
         "color": "#15803d"
       },
-      "teamB": {
-        "name": "Telugu Star 11s",
-        "code": "TS1",
-        "color": "#be185d"
-      },
       "venue": "",
-      "time": "2026-06-12T18:22:00+05:30",
+      "time": "2026-06-13T13:00:00.000Z",
       "prediction": "",
       "confidence": null,
       "status": "upcoming",
       "result": "pending"
     },
     {
-      "id": "m19",
-      "series": "Bengal Pro T20",
+      "id": "a453b3e5-570e-4e1f-8039-2aa4ec753333",
+      "series": "ICC Women's T20 World Cup",
       "matchNo": "",
       "format": "T20",
       "teamA": {
-        "name": "Tigers of Kolkata",
-        "code": "TOK",
-        "color": "#ea580c"
+        "name": "Australia Women",
+        "code": "AUSW",
+        "color": "#dc2626",
+        "logo": "https://g.cricapi.com/iapi/7-637877070884402012.webp?w=96"
       },
       "teamB": {
-        "name": "Malda Smashers",
-        "code": "MAL",
-        "color": "#1e40af"
+        "name": "South Africa Women",
+        "code": "RSAW",
+        "color": "#86198f",
+        "logo": "https://g.cricapi.com/iapi/83-637877067733114809.webp?w=96"
       },
       "venue": "",
-      "time": "2026-06-12T18:25:00+05:30",
+      "time": "2026-06-13T13:30:00.000Z",
       "prediction": "",
       "confidence": null,
       "status": "upcoming",
       "result": "pending"
     },
     {
-      "id": "m20",
-      "series": "Indian Domestic T20",
+      "id": "7995d41a-ddd1-45dc-b188-d57e4b9cba97",
+      "series": "T20 Mumbai",
       "matchNo": "",
       "format": "T20",
       "teamA": {
-        "name": "Mumbai Marines",
-        "code": "MUM",
-        "color": "#0369a1"
-      },
-      "teamB": {
-        "name": "UP Brij Stars",
-        "code": "UPB",
-        "color": "#b91c1c"
-      },
-      "venue": "",
-      "time": "2026-06-12T18:25:00+05:30",
-      "prediction": "",
-      "confidence": null,
-      "status": "upcoming",
-      "result": "pending"
-    },
-    {
-      "id": "m21",
-      "series": "Indian Domestic T20",
-      "matchNo": "",
-      "format": "T20",
-      "teamA": {
-        "name": "Bharat Rangers",
-        "code": "BHA",
-        "color": "#16a34a"
-      },
-      "teamB": {
-        "name": "Pagariya Strikers",
-        "code": "PAG",
-        "color": "#86198f"
-      },
-      "venue": "",
-      "time": "2026-06-12T18:25:00+05:30",
-      "prediction": "",
-      "confidence": null,
-      "status": "upcoming",
-      "result": "pending"
-    },
-    {
-      "id": "m22",
-      "series": "Indian Domestic T20",
-      "matchNo": "",
-      "format": "T20",
-      "teamA": {
-        "name": "Ghaziabad Royals",
-        "code": "GHA",
-        "color": "#a16207"
-      },
-      "teamB": {
-        "name": "Summercool Tigers",
-        "code": "SUM",
-        "color": "#0f766e"
-      },
-      "venue": "",
-      "time": "2026-06-12T18:25:00+05:30",
-      "prediction": "",
-      "confidence": null,
-      "status": "upcoming",
-      "result": "pending"
-    },
-    {
-      "id": "m23",
-      "series": "Women's Domestic T20",
-      "matchNo": "",
-      "format": "T20",
-      "teamA": {
-        "name": "Bundelkhand Bulls Women",
-        "code": "BBW",
+        "name": "Arcs Andheri",
+        "code": "AA",
         "color": "#9f1239"
       },
       "teamB": {
-        "name": "Gwalior Shernis",
-        "code": "GWA",
-        "color": "#4338ca"
-      },
-      "venue": "",
-      "time": "2026-06-12T18:25:00+05:30",
-      "prediction": "",
-      "confidence": null,
-      "status": "upcoming",
-      "result": "pending"
-    },
-    {
-      "id": "m24",
-      "series": "Indian Domestic T20",
-      "matchNo": "",
-      "format": "T20",
-      "teamA": {
-        "name": "A4 Power Strikers",
-        "code": "A4P",
-        "color": "#dc2626"
-      },
-      "teamB": {
-        "name": "Alembic Warriors",
-        "code": "ALE",
-        "color": "#1d4ed8"
-      },
-      "venue": "",
-      "time": "2026-06-12T18:55:00+05:30",
-      "prediction": "",
-      "confidence": null,
-      "status": "upcoming",
-      "result": "pending"
-    },
-    {
-      "id": "m25",
-      "series": "Chhattisgarh T20",
-      "matchNo": "",
-      "format": "T20",
-      "teamA": {
-        "name": "Raipur Rhinos",
-        "code": "RAI",
-        "color": "#7e22ce"
-      },
-      "teamB": {
-        "name": "Raigarh Lions",
-        "code": "RGL",
-        "color": "#ca8a04"
-      },
-      "venue": "",
-      "time": "2026-06-12T18:55:00+05:30",
-      "prediction": "",
-      "confidence": null,
-      "status": "upcoming",
-      "result": "pending"
-    },
-    {
-      "id": "m26",
-      "series": "ECS Portugal",
-      "matchNo": "T10",
-      "format": "T10",
-      "teamA": {
-        "name": "Anchor Sports",
-        "code": "ANC",
-        "color": "#0f766e"
-      },
-      "teamB": {
-        "name": "Lisbon Capitals",
-        "code": "LIS",
-        "color": "#be185d"
-      },
-      "venue": "",
-      "time": "2026-06-12T19:05:00+05:30",
-      "prediction": "",
-      "confidence": null,
-      "status": "upcoming",
-      "result": "pending"
-    },
-    {
-      "id": "m27",
-      "series": "ECS Belgium",
-      "matchNo": "T10",
-      "format": "T10",
-      "teamA": {
-        "name": "Antwerp",
-        "code": "ANT",
-        "color": "#b91c1c"
-      },
-      "teamB": {
-        "name": "JB Bruges",
-        "code": "JBB",
-        "color": "#0e7490"
-      },
-      "venue": "",
-      "time": "2026-06-12T19:25:00+05:30",
-      "prediction": "",
-      "confidence": null,
-      "status": "upcoming",
-      "result": "pending"
-    },
-    {
-      "id": "m28",
-      "series": "ECS Germany",
-      "matchNo": "T10",
-      "format": "T10",
-      "teamA": {
-        "name": "Rugby Cricket Dresden",
-        "code": "RCD",
-        "color": "#ea580c"
-      },
-      "teamB": {
-        "name": "SC Naumburg",
-        "code": "SCN",
-        "color": "#16a34a"
-      },
-      "venue": "",
-      "time": "2026-06-12T19:25:00+05:30",
-      "prediction": "",
-      "confidence": null,
-      "status": "upcoming",
-      "result": "pending"
-    },
-    {
-      "id": "m29",
-      "series": "T20 International",
-      "matchNo": "",
-      "format": "T20",
-      "teamA": {
-        "name": "Canada",
-        "code": "CAN",
-        "color": "#dc2626"
-      },
-      "teamB": {
-        "name": "United States of America",
-        "code": "USA",
-        "color": "#1e40af"
-      },
-      "venue": "",
-      "time": "2026-06-12T19:55:00+05:30",
-      "prediction": "",
-      "confidence": null,
-      "status": "upcoming",
-      "result": "pending"
-    },
-    {
-      "id": "m30",
-      "series": "T20 League",
-      "matchNo": "",
-      "format": "T20",
-      "teamA": {
-        "name": "Golden Eagles",
-        "code": "GOL",
-        "color": "#a16207"
-      },
-      "teamB": {
-        "name": "Ramana XI CC",
-        "code": "RAM",
-        "color": "#15803d"
-      },
-      "venue": "",
-      "time": "2026-06-12T21:52:00+05:30",
-      "prediction": "",
-      "confidence": null,
-      "status": "upcoming",
-      "result": "pending"
-    },
-    {
-      "id": "m31",
-      "series": "Women's International",
-      "matchNo": "",
-      "format": "T20",
-      "teamA": {
-        "name": "England Women",
-        "code": "ENG",
-        "color": "#1e3a8a"
-      },
-      "teamB": {
-        "name": "Sri Lanka Women",
-        "code": "SL",
+        "name": "Msc Maratha Royals",
+        "code": "MSC",
         "color": "#0369a1"
       },
       "venue": "",
-      "time": "2026-06-12T22:25:00+05:30",
+      "time": "2026-06-13T13:30:00.000Z",
+      "prediction": "",
+      "confidence": null,
+      "status": "upcoming",
+      "result": "pending"
+    },
+    {
+      "id": "6701dc74-6c3b-464a-b36d-864136496b21",
+      "series": "Sri Lanka tour of West Indies",
+      "matchNo": "",
+      "format": "T20",
+      "teamA": {
+        "name": "Sri Lanka",
+        "code": "SL",
+        "color": "#4338ca",
+        "logo": "https://g.cricapi.com/iapi/4191-638101639309122979.webp?w=96"
+      },
+      "teamB": {
+        "name": "West Indies",
+        "code": "WI",
+        "color": "#4338ca",
+        "logo": "https://g.cricapi.com/iapi/100-637877077978319234.webp?w=96"
+      },
+      "venue": "",
+      "time": "2026-06-13T16:30:00.000Z",
+      "prediction": "",
+      "confidence": null,
+      "status": "upcoming",
+      "result": "pending"
+    },
+    {
+      "id": "4e2fa39e-5865-4c21-9835-d7e20deac835",
+      "series": "ICC Women's T20 World Cup",
+      "matchNo": "",
+      "format": "T20",
+      "teamA": {
+        "name": "New Zealand Women",
+        "code": "NZW",
+        "color": "#16a34a",
+        "logo": "https://g.cricapi.com/iapi/58-637877077173296488.webp?w=96"
+      },
+      "teamB": {
+        "name": "West Indies Women",
+        "code": "WIW",
+        "color": "#ea580c",
+        "logo": "https://g.cricapi.com/iapi/102-637877078650138806.webp?w=96"
+      },
+      "venue": "",
+      "time": "2026-06-13T17:30:00.000Z",
       "prediction": "",
       "confidence": null,
       "status": "upcoming",
