@@ -1,54 +1,32 @@
 {
-  "updated": "2026-06-14T07:20:42.683Z",
+  "updated": "2026-06-15T08:59:12.713Z",
   "matches": [
     {
-      "id": "c1c9b182-2669-446b-af40-75acc1c1ef64",
-      "series": "ICC Cricket World Cup League Two",
+      "id": "89a2cb54-c35e-4405-a4b8-aa954254d9d6",
+      "series": "Tri Nation A Series in Sri Lanka",
       "matchNo": "",
       "format": "ODI",
       "teamA": {
-        "name": "Netherlands",
-        "code": "NED",
-        "color": "#1d4ed8",
-        "logo": "https://g.cricapi.com/iapi/55-637877084465746618.webp?w=96"
+        "name": "India A",
+        "code": "INA",
+        "color": "#0f766e",
+        "logo": "https://g.cricapi.com/iapi/2206-637976248888288069.webp?w=96"
       },
       "teamB": {
-        "name": "United States of America",
-        "code": "US",
-        "color": "#be185d",
-        "logo": "https://g.cricapi.com/iapi/93-637877085206398451.webp?w=96"
+        "name": "Sri Lanka A",
+        "code": "SLA",
+        "color": "#a16207",
+        "logo": "https://g.cricapi.com/iapi/4191-638101639309122979.webp?w=96"
       },
       "venue": "",
-      "time": "2026-06-14T00:00:00.000Z",
+      "time": "2026-06-15T04:30:00.000Z",
       "prediction": "",
       "confidence": null,
       "status": "live",
       "result": "pending"
     },
     {
-      "id": "3cf66e71-9e1f-4c36-9109-8bffd7c1ed80",
-      "series": "Madhya Pradesh Premier League",
-      "matchNo": "",
-      "format": "T20",
-      "teamA": {
-        "name": "Chambal Ghariyals",
-        "code": "CG",
-        "color": "#15803d"
-      },
-      "teamB": {
-        "name": "Indore Pink Panthers",
-        "code": "IPP",
-        "color": "#15803d"
-      },
-      "venue": "",
-      "time": "2026-06-14T04:30:00.000Z",
-      "prediction": "",
-      "confidence": null,
-      "status": "live",
-      "result": "pending"
-    },
-    {
-      "id": "64b6315d-b4ed-493a-b256-9e9e5eeb84e7",
+      "id": "856558c5-9fb2-4299-9c16-47a482c689d6",
       "series": "Kwibuka Women's T20I Tournament",
       "matchNo": "",
       "format": "T20",
@@ -59,136 +37,42 @@
         "logo": "https://g.cricapi.com/iapi/590-637928918903393620.png?w=96"
       },
       "teamB": {
-        "name": "Rwanda Women",
-        "code": "RW",
-        "color": "#1e3a8a",
-        "logo": "https://g.cricapi.com/iapi/4218-638101636238742992.webp?w=96"
+        "name": "Nigeria Women",
+        "code": "NGW",
+        "color": "#16a34a",
+        "logo": "https://g.cricapi.com/iapi/635-637867646765235442.webp?w=96"
       },
       "venue": "",
-      "time": "2026-06-14T07:45:00.000Z",
+      "time": "2026-06-15T07:45:00.000Z",
       "prediction": "",
       "confidence": null,
-      "status": "upcoming",
+      "status": "live",
       "result": "pending"
     },
     {
-      "id": "8572ea11-17e8-4773-9391-a0d58c479373",
-      "series": "Andhra Premier League",
-      "matchNo": "",
-      "format": "T20",
-      "teamA": {
-        "name": "Bhimavaram Bulls",
-        "code": "BB",
-        "color": "#9f1239"
-      },
-      "teamB": {
-        "name": "Capital Amaravati Royals",
-        "code": "CAP",
-        "color": "#1d4ed8"
-      },
-      "venue": "",
-      "time": "2026-06-14T08:00:00.000Z",
-      "prediction": "",
-      "confidence": null,
-      "status": "upcoming",
-      "result": "pending"
-    },
-    {
-      "id": "37e9ebb8-dd94-4ec5-b349-a265c7b9ead7",
-      "series": "Australia tour of Bangladesh",
-      "matchNo": "",
-      "format": "T20",
-      "teamA": {
-        "name": "Australia",
-        "code": "AUS",
-        "color": "#1d4ed8",
-        "logo": "https://g.cricapi.com/iapi/6-637877070670541994.webp?w=96"
-      },
-      "teamB": {
-        "name": "Bangladesh",
-        "code": "BAN",
-        "color": "#7c3aed",
-        "logo": "https://g.cricapi.com/iapi/9-637877074109248302.webp?w=96"
-      },
-      "venue": "",
-      "time": "2026-06-14T08:00:00.000Z",
-      "prediction": "",
-      "confidence": null,
-      "status": "upcoming",
-      "result": "pending"
-    },
-    {
-      "id": "f47eab7b-a111-4026-8e1c-3f2b94d9dbdd",
-      "series": "Guernsey Women tour of Jersey",
-      "matchNo": "",
-      "format": "T20",
-      "teamA": {
-        "name": "Guernsey Women",
-        "code": "GU-W",
-        "color": "#15803d",
-        "logo": "https://g.cricapi.com/iapi/1630-637926301892137556.webp?w=96"
-      },
-      "teamB": {
-        "name": "Jersey Women",
-        "code": "JERW",
-        "color": "#dc2626",
-        "logo": "https://g.cricapi.com/iapi/1178-637877088776576806.webp?w=96"
-      },
-      "venue": "",
-      "time": "2026-06-14T09:00:00.000Z",
-      "prediction": "",
-      "confidence": null,
-      "status": "upcoming",
-      "result": "pending"
-    },
-    {
-      "id": "80090700-29ef-4937-9a5f-1c82c417522d",
-      "series": "ICC Women's T20 World Cup",
-      "matchNo": "",
-      "format": "T20",
-      "teamA": {
-        "name": "Bangladesh Women",
-        "code": "BANW",
-        "color": "#b91c1c",
-        "logo": "https://g.cricapi.com/iapi/10-637877074628008258.webp?w=96"
-      },
-      "teamB": {
-        "name": "Netherlands Women",
-        "code": "NET-",
-        "color": "#dc2626",
-        "logo": "https://g.cricapi.com/iapi/1639-637926301346986959.webp?w=96"
-      },
-      "venue": "",
-      "time": "2026-06-14T09:30:00.000Z",
-      "prediction": "",
-      "confidence": null,
-      "status": "upcoming",
-      "result": "pending"
-    },
-    {
-      "id": "bb52b7be-8fdd-46a0-b5d2-67eda46e02b1",
+      "id": "9c5d3d32-9a47-4aa8-8cab-f321272959e7",
       "series": "Madhya Pradesh Premier League",
       "matchNo": "",
       "format": "T20",
       "teamA": {
-        "name": "Royal Nimar Eagles",
-        "code": "ROY",
-        "color": "#0369a1"
+        "name": "Gwalior Cheetahs",
+        "code": "GC",
+        "color": "#9f1239"
       },
       "teamB": {
-        "name": "Ujjain Falcons",
-        "code": "UJJ",
-        "color": "#7c3aed"
+        "name": "Rewa Jaguars",
+        "code": "RJ",
+        "color": "#a16207"
       },
       "venue": "",
-      "time": "2026-06-14T09:30:00.000Z",
+      "time": "2026-06-15T09:30:00.000Z",
       "prediction": "",
       "confidence": null,
       "status": "upcoming",
       "result": "pending"
     },
     {
-      "id": "81916947-40b5-4341-9584-bc5db6f1af2b",
+      "id": "08786101-8d60-4a24-af00-90d18864f74a",
       "series": "Kwibuka Women's T20I Tournament",
       "matchNo": "",
       "format": "T20",
@@ -199,195 +83,35 @@
         "logo": "https://g.cricapi.com/iapi/624-637869397422129750.webp?w=96"
       },
       "teamB": {
-        "name": "Nigeria Women",
-        "code": "NGW",
-        "color": "#16a34a",
-        "logo": "https://g.cricapi.com/iapi/635-637867646765235442.webp?w=96"
+        "name": "Rwanda Women",
+        "code": "RW",
+        "color": "#1e3a8a",
+        "logo": "https://g.cricapi.com/iapi/4218-638101636238742992.webp?w=96"
       },
       "venue": "",
-      "time": "2026-06-14T11:30:00.000Z",
+      "time": "2026-06-15T11:30:00.000Z",
       "prediction": "",
       "confidence": null,
       "status": "upcoming",
       "result": "pending"
     },
     {
-      "id": "7909fa21-d274-468a-821d-3171c9d164ec",
-      "series": "Andhra Premier League",
+      "id": "b8dbafd2-2665-4f60-ae4b-0a47ed81ae47",
+      "series": "Madhya Pradesh Premier League",
       "matchNo": "",
       "format": "T20",
       "teamA": {
-        "name": "Simhadri Vizag Lions",
-        "code": "SVL",
-        "color": "#16a34a"
+        "name": "Bhopal Leopards",
+        "code": "BL",
+        "color": "#0f766e"
       },
       "teamB": {
-        "name": "Vijayawada Sunshiners",
-        "code": "VS",
-        "color": "#ea580c"
-      },
-      "venue": "",
-      "time": "2026-06-14T13:00:00.000Z",
-      "prediction": "",
-      "confidence": null,
-      "status": "upcoming",
-      "result": "pending"
-    },
-    {
-      "id": "4bc3a2aa-60e4-488a-9693-6de3229a6dde",
-      "series": "Womens T20 Blast League Two",
-      "matchNo": "",
-      "format": "T20",
-      "teamA": {
-        "name": "Gloucestershire Women",
-        "code": "GLO",
-        "color": "#a16207"
-      },
-      "teamB": {
-        "name": "Sussex Women",
-        "code": "SUS",
-        "color": "#7c3aed"
-      },
-      "venue": "",
-      "time": "2026-06-14T13:30:00.000Z",
-      "prediction": "",
-      "confidence": null,
-      "status": "upcoming",
-      "result": "pending"
-    },
-    {
-      "id": "6d910674-96e3-4f92-bb39-52adce14d51a",
-      "series": "Womens T20 Blast League Two",
-      "matchNo": "",
-      "format": "T20",
-      "teamA": {
-        "name": "Derbyshire Women",
-        "code": "DER",
-        "color": "#1e3a8a"
-      },
-      "teamB": {
-        "name": "Northamptonshire Women",
-        "code": "NOR",
-        "color": "#b91c1c"
-      },
-      "venue": "",
-      "time": "2026-06-14T13:30:00.000Z",
-      "prediction": "",
-      "confidence": null,
-      "status": "upcoming",
-      "result": "pending"
-    },
-    {
-      "id": "4d6091c1-f753-4160-a6f3-073940ef1758",
-      "series": "Womens T20 Blast League Two",
-      "matchNo": "",
-      "format": "T20",
-      "teamA": {
-        "name": "Middlesex Women",
-        "code": "MID",
-        "color": "#16a34a"
-      },
-      "teamB": {
-        "name": "Worcestershire Women",
-        "code": "WOR",
-        "color": "#86198f"
-      },
-      "venue": "",
-      "time": "2026-06-14T13:30:00.000Z",
-      "prediction": "",
-      "confidence": null,
-      "status": "upcoming",
-      "result": "pending"
-    },
-    {
-      "id": "d7d31fbf-91a3-417c-a44a-ee4d42a6b3b4",
-      "series": "Womens T20 Blast League Two",
-      "matchNo": "",
-      "format": "T20",
-      "teamA": {
-        "name": "Kent Women",
-        "code": "KEN",
-        "color": "#dc2626"
-      },
-      "teamB": {
-        "name": "Leicestershire Women",
-        "code": "LEI",
+        "name": "Jabalpur Royal Lions",
+        "code": "JRL",
         "color": "#0369a1"
       },
       "venue": "",
-      "time": "2026-06-14T13:30:00.000Z",
-      "prediction": "",
-      "confidence": null,
-      "status": "upcoming",
-      "result": "pending"
-    },
-    {
-      "id": "1e841dd6-1b8c-4baf-9c08-b6d1f52ff3e6",
-      "series": "Guernsey Women tour of Jersey",
-      "matchNo": "",
-      "format": "T20",
-      "teamA": {
-        "name": "Guernsey Women",
-        "code": "GU-W",
-        "color": "#15803d",
-        "logo": "https://g.cricapi.com/iapi/1630-637926301892137556.webp?w=96"
-      },
-      "teamB": {
-        "name": "Jersey Women",
-        "code": "JERW",
-        "color": "#dc2626",
-        "logo": "https://g.cricapi.com/iapi/1178-637877088776576806.webp?w=96"
-      },
-      "venue": "",
-      "time": "2026-06-14T13:30:00.000Z",
-      "prediction": "",
-      "confidence": null,
-      "status": "upcoming",
-      "result": "pending"
-    },
-    {
-      "id": "c263e869-f024-49ed-9d06-f5405ab9d496",
-      "series": "ICC Women's T20 World Cup",
-      "matchNo": "",
-      "format": "T20",
-      "teamA": {
-        "name": "India Women",
-        "code": "INDW",
-        "color": "#0369a1",
-        "logo": "https://g.cricapi.com/iapi/32-637877061328728555.webp?w=96"
-      },
-      "teamB": {
-        "name": "Pakistan Women",
-        "code": "PAKW",
-        "color": "#86198f",
-        "logo": "https://g.cricapi.com/iapi/67-637877074931980375.webp?w=96"
-      },
-      "venue": "",
-      "time": "2026-06-14T13:30:00.000Z",
-      "prediction": "",
-      "confidence": null,
-      "status": "upcoming",
-      "result": "pending"
-    },
-    {
-      "id": "7ffca827-b52d-4a0e-b893-c79093995a04",
-      "series": "Sri Lanka tour of West Indies",
-      "matchNo": "",
-      "format": "T20",
-      "teamA": {
-        "name": "Sri Lanka",
-        "code": "SL",
-        "color": "#4338ca",
-        "logo": "https://g.cricapi.com/iapi/4191-638101639309122979.webp?w=96"
-      },
-      "teamB": {
-        "name": "West Indies",
-        "code": "WI",
-        "color": "#4338ca",
-        "logo": "https://g.cricapi.com/iapi/100-637877077978319234.webp?w=96"
-      },
-      "venue": "",
-      "time": "2026-06-14T16:30:00.000Z",
+      "time": "2026-06-15T14:00:00.000Z",
       "prediction": "",
       "confidence": null,
       "status": "upcoming",
