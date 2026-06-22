@@ -1,30 +1,30 @@
 {
-  "updated": "2026-06-21T07:57:41.395Z",
+  "updated": "2026-06-22T08:55:41.387Z",
   "matches": [
     {
-      "id": "f970cee4-07a1-48f7-85a3-6bc0105ecd4d",
+      "id": "14736c19-0ded-45dd-b94d-ab4af49eb97b",
       "series": "Major League Cricket",
       "matchNo": "",
       "format": "T20",
       "teamA": {
-        "name": "Los Angeles Knight Riders",
-        "code": "LAKR",
-        "color": "#86198f"
-      },
-      "teamB": {
         "name": "San Francisco Unicorns",
         "code": "SFU",
         "color": "#86198f"
       },
+      "teamB": {
+        "name": "Texas Super Kings",
+        "code": "TSK",
+        "color": "#1d4ed8"
+      },
       "venue": "",
-      "time": "2026-06-20T20:30:00.000Z",
+      "time": "2026-06-21T20:30:00.000Z",
       "prediction": "",
       "confidence": null,
       "status": "done",
       "result": "pending"
     },
     {
-      "id": "fd098f43-7f8c-4216-b594-a110d3c45dde",
+      "id": "e52edc0a-13a1-410c-bbe4-f6d3f1c7d045",
       "series": "Major League Cricket",
       "matchNo": "",
       "format": "T20",
@@ -34,196 +34,102 @@
         "color": "#7c3aed"
       },
       "teamB": {
-        "name": "Washington Freedom",
-        "code": "WF",
-        "color": "#be185d"
+        "name": "Texas Super Kings",
+        "code": "TSK",
+        "color": "#1d4ed8"
       },
       "venue": "",
-      "time": "2026-06-21T00:30:00.000Z",
+      "time": "2026-06-22T00:30:00.000Z",
       "prediction": "",
       "confidence": null,
       "status": "done",
       "result": "pending"
     },
     {
-      "id": "a0a41106-b101-45f0-aab5-ffdcf2759c8d",
-      "series": "Tri Nation A Series in Sri Lanka",
+      "id": "93cb9a53-d35e-4217-acde-dc8fe9ce892b",
+      "series": " Asia Pacific Cricket Champions Trophy",
       "matchNo": "",
-      "format": "ODI",
+      "format": "T20",
       "teamA": {
-        "name": "India A",
-        "code": "INA",
-        "color": "#0f766e",
-        "logo": "https://g.cricapi.com/iapi/2206-637976248888288069.webp?w=96"
+        "name": "Indonesia",
+        "code": "IDN",
+        "color": "#ca8a04",
+        "logo": "https://g.cricapi.com/iapi/614-637928918114057334.png?w=96"
       },
       "teamB": {
-        "name": "Sri Lanka A",
-        "code": "SLA",
-        "color": "#a16207",
-        "logo": "https://g.cricapi.com/iapi/4191-638101639309122979.webp?w=96"
+        "name": "Thailand",
+        "code": "THAI",
+        "color": "#ea580c",
+        "logo": "https://g.cricapi.com/iapi/661-637873698140793668.webp?w=96"
       },
       "venue": "",
-      "time": "2026-06-21T04:30:00.000Z",
+      "time": "2026-06-22T05:30:00.000Z",
       "prediction": "",
       "confidence": null,
       "status": "live",
       "result": "pending"
     },
     {
-      "id": "678a2ca5-c2b7-4eac-91ce-251c987eae34",
-      "series": "Andhra Premier League",
-      "matchNo": "",
-      "format": "T20",
-      "teamA": {
-        "name": "Royals Of Rayalaseema",
-        "code": "ROR",
-        "color": "#be185d"
-      },
-      "teamB": {
-        "name": "Tungabhadra Warriors",
-        "code": "TW",
-        "color": "#15803d"
-      },
-      "venue": "",
-      "time": "2026-06-21T08:00:00.000Z",
-      "prediction": "",
-      "confidence": null,
-      "status": "upcoming",
-      "result": "pending"
-    },
-    {
-      "id": "3c8a4266-d70d-408d-9472-b1e5cab26649",
-      "series": "Australia tour of Bangladesh",
-      "matchNo": "",
-      "format": "T20",
-      "teamA": {
-        "name": "Australia",
-        "code": "AUS",
-        "color": "#1d4ed8",
-        "logo": "https://g.cricapi.com/iapi/6-637877070670541994.webp?w=96"
-      },
-      "teamB": {
-        "name": "Bangladesh",
-        "code": "BAN",
-        "color": "#7c3aed",
-        "logo": "https://g.cricapi.com/iapi/9-637877074109248302.webp?w=96"
-      },
-      "venue": "",
-      "time": "2026-06-21T08:00:00.000Z",
-      "prediction": "",
-      "confidence": null,
-      "status": "upcoming",
-      "result": "pending"
-    },
-    {
-      "id": "3a3526e9-7c48-4a47-8dda-a836f6f1d11c",
-      "series": "ICC Women's T20 World Cup",
-      "matchNo": "",
-      "format": "T20",
-      "teamA": {
-        "name": "Sri Lanka Women",
-        "code": "SLW",
-        "color": "#ea580c",
-        "logo": "https://g.cricapi.com/iapi/4191-638101639309122979.webp?w=96"
-      },
-      "teamB": {
-        "name": "West Indies Women",
-        "code": "WIW",
-        "color": "#ea580c",
-        "logo": "https://g.cricapi.com/iapi/102-637877078650138806.webp?w=96"
-      },
-      "venue": "",
-      "time": "2026-06-21T09:30:00.000Z",
-      "prediction": "",
-      "confidence": null,
-      "status": "upcoming",
-      "result": "pending"
-    },
-    {
-      "id": "6090a6e9-9a27-4fe1-8a1c-bdfe48d645b1",
+      "id": "d073993d-2daf-44f3-8b95-72ec0e8d7674",
       "series": "Madhya Pradesh Premier League",
       "matchNo": "",
       "format": "T20",
       "teamA": {
-        "name": "Gwalior Cheetahs",
-        "code": "GC",
-        "color": "#9f1239"
+        "name": "Bhopal Leopards",
+        "code": "BL",
+        "color": "#0f766e"
       },
       "teamB": {
-        "name": "Jabalpur Royal Lions",
-        "code": "JRL",
+        "name": "Royal Nimar Eagles",
+        "code": "ROY",
         "color": "#0369a1"
       },
       "venue": "",
-      "time": "2026-06-21T09:30:00.000Z",
+      "time": "2026-06-22T09:30:00.000Z",
       "prediction": "",
       "confidence": null,
       "status": "upcoming",
       "result": "pending"
     },
     {
-      "id": "ee953bab-c26e-4626-91a8-2512c1108540",
-      "series": "Andhra Premier League",
+      "id": "899844f1-9955-414c-964e-f26c85fe39d4",
+      "series": " Asia Pacific Cricket Champions Trophy",
       "matchNo": "",
       "format": "T20",
       "teamA": {
-        "name": "Kakinada Kings",
-        "code": "KK",
-        "color": "#1d4ed8"
+        "name": "Singapore",
+        "code": "SGP",
+        "color": "#ca8a04"
       },
       "teamB": {
-        "name": "Vijayawada Sunshiners",
-        "code": "VS",
-        "color": "#ea580c"
+        "name": "Uzbekistan",
+        "code": "UZB",
+        "color": "#ca8a04"
       },
       "venue": "",
-      "time": "2026-06-21T13:00:00.000Z",
+      "time": "2026-06-22T10:30:00.000Z",
       "prediction": "",
       "confidence": null,
       "status": "upcoming",
       "result": "pending"
     },
     {
-      "id": "28ee6eb6-6a56-4295-acb2-00b6854a9618",
-      "series": "ICC Women's T20 World Cup",
-      "matchNo": "",
-      "format": "T20",
-      "teamA": {
-        "name": "India Women",
-        "code": "INDW",
-        "color": "#0369a1",
-        "logo": "https://g.cricapi.com/iapi/32-637877061328728555.webp?w=96"
-      },
-      "teamB": {
-        "name": "South Africa Women",
-        "code": "RSAW",
-        "color": "#86198f",
-        "logo": "https://g.cricapi.com/iapi/83-637877067733114809.webp?w=96"
-      },
-      "venue": "",
-      "time": "2026-06-21T13:30:00.000Z",
-      "prediction": "",
-      "confidence": null,
-      "status": "upcoming",
-      "result": "pending"
-    },
-    {
-      "id": "7937a600-344c-43e5-a60b-60cabcadbe67",
+      "id": "908efb12-b1c6-4bca-9695-06f45943f771",
       "series": "Madhya Pradesh Premier League",
       "matchNo": "",
       "format": "T20",
       "teamA": {
-        "name": "Bundelkhand Bulls",
-        "code": "BB",
-        "color": "#a16207"
+        "name": "Malwa Stallions",
+        "code": "MAL",
+        "color": "#1e3a8a"
       },
       "teamB": {
-        "name": "Ujjain Falcons",
-        "code": "UJJ",
-        "color": "#7c3aed"
+        "name": "Rewa Jaguars",
+        "code": "RJ",
+        "color": "#a16207"
       },
       "venue": "",
-      "time": "2026-06-21T14:00:00.000Z",
+      "time": "2026-06-22T14:00:00.000Z",
       "prediction": "",
       "confidence": null,
       "status": "upcoming",
