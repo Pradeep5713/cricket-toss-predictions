@@ -1,8 +1,30 @@
 {
-  "updated": "2026-06-24T06:44:39.932Z",
+  "updated": "2026-06-25T06:44:17.677Z",
   "matches": [
     {
-      "id": "5b9ff30f-9d44-4f02-84bf-f080aef9d265",
+      "id": "616ecc07-06f0-447a-973d-8febb0d9564b",
+      "series": "Major League Cricket",
+      "matchNo": "",
+      "format": "T20",
+      "teamA": {
+        "name": "San Francisco Unicorns",
+        "code": "SFU",
+        "color": "#86198f"
+      },
+      "teamB": {
+        "name": "Texas Super Kings",
+        "code": "TSK",
+        "color": "#1d4ed8"
+      },
+      "venue": "",
+      "time": "2026-06-25T01:30:00.000Z",
+      "prediction": "",
+      "confidence": null,
+      "status": "done",
+      "result": "pending"
+    },
+    {
+      "id": "60fd49ef-451e-486b-9249-85d52ac0f844",
       "series": "Andhra Premier League",
       "matchNo": "",
       "format": "T20",
@@ -12,70 +34,26 @@
         "color": "#be185d"
       },
       "teamB": {
-        "name": "Simhadri Vizag Lions",
-        "code": "SVL",
-        "color": "#16a34a"
+        "name": "Vijayawada Sunshiners",
+        "code": "VS",
+        "color": "#ea580c"
       },
       "venue": "",
-      "time": "2026-06-24T08:00:00.000Z",
+      "time": "2026-06-25T08:00:00.000Z",
       "prediction": "",
       "confidence": null,
       "status": "upcoming",
       "result": "pending"
     },
     {
-      "id": "fd681e32-8e57-4b0b-9e48-8f7f10acb195",
+      "id": "ae9b065a-da93-4415-a6f7-3ea086d0e85e",
       "series": "Madhya Pradesh Premier League",
       "matchNo": "",
       "format": "T20",
       "teamA": {
-        "name": "Bundelkhand Bulls",
-        "code": "BB",
+        "name": "Rewa Jaguars",
+        "code": "RJ",
         "color": "#a16207"
-      },
-      "teamB": {
-        "name": "Jabalpur Royal Lions",
-        "code": "JRL",
-        "color": "#0369a1"
-      },
-      "venue": "",
-      "time": "2026-06-24T09:30:00.000Z",
-      "prediction": "",
-      "confidence": null,
-      "status": "upcoming",
-      "result": "pending"
-    },
-    {
-      "id": "1f70405d-9781-4b8a-a700-ea2992666b47",
-      "series": "Andhra Premier League",
-      "matchNo": "",
-      "format": "T20",
-      "teamA": {
-        "name": "Bhimavaram Bulls",
-        "code": "BB",
-        "color": "#9f1239"
-      },
-      "teamB": {
-        "name": "Capital Amaravati Royals",
-        "code": "CAP",
-        "color": "#1d4ed8"
-      },
-      "venue": "",
-      "time": "2026-06-24T13:00:00.000Z",
-      "prediction": "",
-      "confidence": null,
-      "status": "upcoming",
-      "result": "pending"
-    },
-    {
-      "id": "2a74387f-e6ae-4bb7-b8ee-a9687efc7237",
-      "series": "Madhya Pradesh Premier League",
-      "matchNo": "",
-      "format": "T20",
-      "teamA": {
-        "name": "Gwalior Cheetahs",
-        "code": "GC",
-        "color": "#9f1239"
       },
       "teamB": {
         "name": "Royal Nimar Eagles",
@@ -83,31 +61,169 @@
         "color": "#0369a1"
       },
       "venue": "",
-      "time": "2026-06-24T14:00:00.000Z",
+      "time": "2026-06-25T09:30:00.000Z",
       "prediction": "",
       "confidence": null,
       "status": "upcoming",
       "result": "pending"
     },
     {
-      "id": "89d1fad5-9198-4141-bf60-4b4475f9925a",
+      "id": "8b7fce1a-ca31-4057-8154-ee1ee93feef8",
+      "series": "New Zealand tour of England",
+      "matchNo": "",
+      "format": "Test",
+      "teamA": {
+        "name": "England",
+        "code": "ENG",
+        "color": "#4338ca",
+        "logo": "https://g.cricapi.com/iapi/23-637877072894080569.webp?w=96"
+      },
+      "teamB": {
+        "name": "New Zealand",
+        "code": "NZ",
+        "color": "#b91c1c",
+        "logo": "https://g.cricapi.com/iapi/57-637877076980737903.webp?w=96"
+      },
+      "venue": "",
+      "time": "2026-06-25T10:00:00.000Z",
+      "prediction": "",
+      "confidence": null,
+      "status": "upcoming",
+      "result": "pending"
+    },
+    {
+      "id": "d2ce8592-0e2b-4672-9aac-c417e78be64c",
+      "series": "Andhra Premier League",
+      "matchNo": "",
+      "format": "T20",
+      "teamA": {
+        "name": "Kakinada Kings",
+        "code": "KK",
+        "color": "#1d4ed8"
+      },
+      "teamB": {
+        "name": "Tungabhadra Warriors",
+        "code": "TW",
+        "color": "#15803d"
+      },
+      "venue": "",
+      "time": "2026-06-25T13:00:00.000Z",
+      "prediction": "",
+      "confidence": null,
+      "status": "upcoming",
+      "result": "pending"
+    },
+    {
+      "id": "ce117d86-05b7-4849-aa87-c85a767823b4",
       "series": "ICC Women's T20 World Cup",
       "matchNo": "",
       "format": "T20",
       "teamA": {
-        "name": "England Women",
-        "code": "ENGW",
-        "color": "#ea580c",
-        "logo": "https://g.cricapi.com/iapi/24-637877067109151578.webp?w=96"
+        "name": "Bangladesh Women",
+        "code": "BANW",
+        "color": "#b91c1c",
+        "logo": "https://g.cricapi.com/iapi/10-637877074628008258.webp?w=96"
       },
       "teamB": {
-        "name": "West Indies Women",
-        "code": "WIW",
-        "color": "#ea580c",
-        "logo": "https://g.cricapi.com/iapi/102-637877078650138806.webp?w=96"
+        "name": "India Women",
+        "code": "INDW",
+        "color": "#0369a1",
+        "logo": "https://g.cricapi.com/iapi/32-637877061328728555.webp?w=96"
       },
       "venue": "",
-      "time": "2026-06-24T17:30:00.000Z",
+      "time": "2026-06-25T13:30:00.000Z",
+      "prediction": "",
+      "confidence": null,
+      "status": "upcoming",
+      "result": "pending"
+    },
+    {
+      "id": "d1e7c586-1efc-42fd-88a0-d63eb7fb429d",
+      "series": "Sri Lanka tour of West Indies",
+      "matchNo": "",
+      "format": "T20",
+      "teamA": {
+        "name": "Sri Lanka",
+        "code": "SL",
+        "color": "#4338ca",
+        "logo": "https://g.cricapi.com/iapi/4191-638101639309122979.webp?w=96"
+      },
+      "teamB": {
+        "name": "West Indies",
+        "code": "WI",
+        "color": "#4338ca",
+        "logo": "https://g.cricapi.com/iapi/100-637877077978319234.webp?w=96"
+      },
+      "venue": "",
+      "time": "2026-06-25T14:00:00.000Z",
+      "prediction": "",
+      "confidence": null,
+      "status": "upcoming",
+      "result": "pending"
+    },
+    {
+      "id": "01a5fa57-2bc0-49ba-8740-186ea3f233ff",
+      "series": "Madhya Pradesh Premier League",
+      "matchNo": "",
+      "format": "T20",
+      "teamA": {
+        "name": "Chambal Ghariyals",
+        "code": "CG",
+        "color": "#15803d"
+      },
+      "teamB": {
+        "name": "Jabalpur Royal Lions",
+        "code": "JRL",
+        "color": "#0369a1"
+      },
+      "venue": "",
+      "time": "2026-06-25T14:00:00.000Z",
+      "prediction": "",
+      "confidence": null,
+      "status": "upcoming",
+      "result": "pending"
+    },
+    {
+      "id": "d554b57f-b8a7-41ce-8dc3-c16999f6a87e",
+      "series": "ICC Women's T20 World Cup",
+      "matchNo": "",
+      "format": "T20",
+      "teamA": {
+        "name": "Netherlands Women",
+        "code": "NET-",
+        "color": "#dc2626",
+        "logo": "https://g.cricapi.com/iapi/1639-637926301346986959.webp?w=96"
+      },
+      "teamB": {
+        "name": "South Africa Women",
+        "code": "RSAW",
+        "color": "#86198f",
+        "logo": "https://g.cricapi.com/iapi/83-637877067733114809.webp?w=96"
+      },
+      "venue": "",
+      "time": "2026-06-25T17:30:00.000Z",
+      "prediction": "",
+      "confidence": null,
+      "status": "upcoming",
+      "result": "pending"
+    },
+    {
+      "id": "84f0fa65-0338-4fc0-87dc-69e252a55d28",
+      "series": "India A Women tour of England",
+      "matchNo": "",
+      "format": "T20",
+      "teamA": {
+        "name": "England A Women",
+        "code": "ENG",
+        "color": "#0f766e"
+      },
+      "teamB": {
+        "name": "India A Women",
+        "code": "IND-",
+        "color": "#be185d"
+      },
+      "venue": "",
+      "time": "2026-06-25T17:30:00.000Z",
       "prediction": "",
       "confidence": null,
       "status": "upcoming",
