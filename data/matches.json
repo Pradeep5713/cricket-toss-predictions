@@ -1,37 +1,37 @@
 {
-  "updated": "2026-06-28T07:00:20.937Z",
+  "updated": "2026-06-29T07:27:35.470Z",
   "matches": [
     {
-      "id": "7dfb261c-34fd-4ced-8f10-481a71e83160",
+      "id": "ff53b22c-8951-489a-8ee8-ce3824d8427d",
       "series": "Major League Cricket",
       "matchNo": "",
       "format": "T20",
       "teamA": {
+        "name": "Los Angeles Knight Riders",
+        "code": "LAKR",
+        "color": "#86198f"
+      },
+      "teamB": {
         "name": "Mi New York",
         "code": "MNY",
         "color": "#7c3aed"
       },
-      "teamB": {
-        "name": "Texas Super Kings",
-        "code": "TSK",
-        "color": "#1d4ed8"
-      },
       "venue": "",
-      "time": "2026-06-27T21:30:00.000Z",
+      "time": "2026-06-28T21:30:00.000Z",
       "prediction": "",
       "confidence": null,
       "status": "done",
       "result": "pending"
     },
     {
-      "id": "eca6ef9e-147c-47ce-9d71-93937cd38731",
+      "id": "cb2e6fdb-731e-4d2f-b08d-dd0cfd3154e3",
       "series": "Major League Cricket",
       "matchNo": "",
       "format": "T20",
       "teamA": {
-        "name": "Texas Super Kings",
-        "code": "TSK",
-        "color": "#1d4ed8"
+        "name": "San Francisco Unicorns",
+        "code": "SFU",
+        "color": "#86198f"
       },
       "teamB": {
         "name": "Washington Freedom",
@@ -39,496 +39,82 @@
         "color": "#be185d"
       },
       "venue": "",
-      "time": "2026-06-28T01:30:00.000Z",
-      "prediction": "",
-      "confidence": null,
-      "status": "done",
-      "result": "pending"
-    },
-    {
-      "id": "82af1fda-57d2-48fa-a1d8-f36873633a3b",
-      "series": "Serbia Women tour of Bulgaria",
-      "matchNo": "",
-      "format": "T20",
-      "teamA": {
-        "name": "Bulgaria Women",
-        "code": "BW",
-        "color": "#0369a1"
-      },
-      "teamB": {
-        "name": "Serbia Women",
-        "code": "SW",
-        "color": "#0f766e"
-      },
-      "venue": "",
-      "time": "2026-06-28T06:00:00.000Z",
+      "time": "2026-06-29T01:30:00.000Z",
       "prediction": "",
       "confidence": null,
       "status": "live",
       "result": "pending"
     },
     {
-      "id": "bea5fa66-9ff5-4460-b52a-e37067354ea7",
-      "series": "Austria tour of Hungary",
-      "matchNo": "",
-      "format": "T20",
-      "teamA": {
-        "name": "Austria",
-        "code": "AUT",
-        "color": "#0369a1",
-        "logo": "https://g.cricapi.com/iapi/581-637867646191086862.webp?w=96"
-      },
-      "teamB": {
-        "name": "Hungary",
-        "code": "HUN",
-        "color": "#15803d",
-        "logo": "https://g.cricapi.com/iapi/612-637901951267363641.webp?w=96"
-      },
-      "venue": "",
-      "time": "2026-06-28T07:00:00.000Z",
-      "prediction": "",
-      "confidence": null,
-      "status": "live",
-      "result": "pending"
-    },
-    {
-      "id": "3839c08a-fa9a-43dd-8d80-b285a9660c9f",
-      "series": "Bangladesh tour of Zimbabwe",
-      "matchNo": "",
-      "format": "T20",
-      "teamA": {
-        "name": "Bangladesh",
-        "code": "BAN",
-        "color": "#7c3aed",
-        "logo": "https://g.cricapi.com/iapi/9-637877074109248302.webp?w=96"
-      },
-      "teamB": {
-        "name": "Zimbabwe",
-        "code": "ZIM",
-        "color": "#7c3aed",
-        "logo": "https://g.cricapi.com/iapi/575-637877079629985215.webp?w=96"
-      },
-      "venue": "",
-      "time": "2026-06-28T08:00:00.000Z",
-      "prediction": "",
-      "confidence": null,
-      "status": "upcoming",
-      "result": "pending"
-    },
-    {
-      "id": "9a01ece5-99d3-4a34-a9b7-f9108045cf29",
-      "series": "Women's T20I Central Europe Cup",
-      "matchNo": "",
-      "format": "T20",
-      "teamA": {
-        "name": "Czech Republic Women",
-        "code": "CZW",
-        "color": "#ea580c"
-      },
-      "teamB": {
-        "name": "Luxembourg Women",
-        "code": "LW",
-        "color": "#ca8a04"
-      },
-      "venue": "",
-      "time": "2026-06-28T08:30:00.000Z",
-      "prediction": "",
-      "confidence": null,
-      "status": "upcoming",
-      "result": "pending"
-    },
-    {
-      "id": "3c2b5eac-9fd5-442d-a58f-29bb2162f2fd",
-      "series": "Switzerland Women tour of Denmark",
-      "matchNo": "",
-      "format": "T20",
-      "teamA": {
-        "name": "Denmark Women",
-        "code": "DW",
-        "color": "#0f766e"
-      },
-      "teamB": {
-        "name": "Switzerland Women",
-        "code": "SW",
-        "color": "#b91c1c"
-      },
-      "venue": "",
-      "time": "2026-06-28T08:30:00.000Z",
-      "prediction": "",
-      "confidence": null,
-      "status": "upcoming",
-      "result": "pending"
-    },
-    {
-      "id": "2e99ea8a-fa0b-4d20-bff6-f2fd87302f0f",
+      "id": "aa4148c2-0e58-4030-8ebe-adcbe8fb0139",
       "series": "TG20",
       "matchNo": "",
       "format": "T20",
       "teamA": {
-        "name": "Karimnagar Diamonds",
-        "code": "KAR",
-        "color": "#a16207"
+        "name": "Anvita Khammam Aces",
+        "code": "ANV",
+        "color": "#7c3aed"
       },
       "teamB": {
-        "name": "Warangal Warriors",
-        "code": "WAR",
-        "color": "#ca8a04"
-      },
-      "venue": "",
-      "time": "2026-06-28T08:45:00.000Z",
-      "prediction": "",
-      "confidence": null,
-      "status": "upcoming",
-      "result": "pending"
-    },
-    {
-      "id": "d85be4fa-c0eb-4ac2-b6fe-5e1e46ac9444",
-      "series": "Central Europe Cup",
-      "matchNo": "",
-      "format": "T20",
-      "teamA": {
-        "name": "Czech Republic",
-        "code": "CZE",
-        "color": "#4338ca",
-        "logo": "https://g.cricapi.com/iapi/598-637871097134873685.webp?w=96"
-      },
-      "teamB": {
-        "name": "Luxembourg",
-        "code": "LUX",
-        "color": "#be185d",
-        "logo": "https://g.cricapi.com/iapi/623-637869397000752571.webp?w=96"
-      },
-      "venue": "",
-      "time": "2026-06-28T09:00:00.000Z",
-      "prediction": "",
-      "confidence": null,
-      "status": "upcoming",
-      "result": "pending"
-    },
-    {
-      "id": "bb7c4eda-1ea2-487d-b457-593087db46c9",
-      "series": "ICC Women's T20 World Cup",
-      "matchNo": "",
-      "format": "T20",
-      "teamA": {
-        "name": "Bangladesh Women",
-        "code": "BANW",
-        "color": "#b91c1c",
-        "logo": "https://g.cricapi.com/iapi/10-637877074628008258.webp?w=96"
-      },
-      "teamB": {
-        "name": "South Africa Women",
-        "code": "RSAW",
-        "color": "#86198f",
-        "logo": "https://g.cricapi.com/iapi/83-637877067733114809.webp?w=96"
-      },
-      "venue": "",
-      "time": "2026-06-28T09:30:00.000Z",
-      "prediction": "",
-      "confidence": null,
-      "status": "upcoming",
-      "result": "pending"
-    },
-    {
-      "id": "415980db-720c-466b-80a4-205fcc82ade6",
-      "series": "India A Women tour of England",
-      "matchNo": "",
-      "format": "T20",
-      "teamA": {
-        "name": "England A Women",
-        "code": "ENG",
-        "color": "#0f766e"
-      },
-      "teamB": {
-        "name": "India A Women",
-        "code": "IND-",
-        "color": "#be185d"
-      },
-      "venue": "",
-      "time": "2026-06-28T10:00:00.000Z",
-      "prediction": "",
-      "confidence": null,
-      "status": "upcoming",
-      "result": "pending"
-    },
-    {
-      "id": "1cf057bb-684e-4d93-87ae-d00f6e245ae6",
-      "series": "Austria tour of Hungary",
-      "matchNo": "",
-      "format": "T20",
-      "teamA": {
-        "name": "Austria",
-        "code": "AUT",
-        "color": "#0369a1",
-        "logo": "https://g.cricapi.com/iapi/581-637867646191086862.webp?w=96"
-      },
-      "teamB": {
-        "name": "Hungary",
-        "code": "HUN",
-        "color": "#15803d",
-        "logo": "https://g.cricapi.com/iapi/612-637901951267363641.webp?w=96"
-      },
-      "venue": "",
-      "time": "2026-06-28T11:30:00.000Z",
-      "prediction": "",
-      "confidence": null,
-      "status": "upcoming",
-      "result": "pending"
-    },
-    {
-      "id": "93cb3259-60c9-4016-84e1-d02fa94c639f",
-      "series": "Women's T20I Central Europe Cup",
-      "matchNo": "",
-      "format": "T20",
-      "teamA": {
-        "name": "Czech Republic Women",
-        "code": "CZW",
-        "color": "#ea580c"
-      },
-      "teamB": {
-        "name": "Norway Women",
-        "code": "NOR-",
-        "color": "#9f1239"
-      },
-      "venue": "",
-      "time": "2026-06-28T12:30:00.000Z",
-      "prediction": "",
-      "confidence": null,
-      "status": "upcoming",
-      "result": "pending"
-    },
-    {
-      "id": "f0a16cd9-e03f-419f-b961-eb9684bda297",
-      "series": "Womens T20 Blast",
-      "matchNo": "",
-      "format": "T20",
-      "teamA": {
-        "name": "Essex Women",
-        "code": "ESS",
-        "color": "#be185d"
-      },
-      "teamB": {
-        "name": "The Blaze Women",
-        "code": "THE",
-        "color": "#b91c1c"
-      },
-      "venue": "",
-      "time": "2026-06-28T13:00:00.000Z",
-      "prediction": "",
-      "confidence": null,
-      "status": "upcoming",
-      "result": "pending"
-    },
-    {
-      "id": "32d6fb8c-da6f-4c34-bff3-d682ecef9d1d",
-      "series": "Switzerland Women tour of Denmark",
-      "matchNo": "",
-      "format": "T20",
-      "teamA": {
-        "name": "Denmark Women",
-        "code": "DW",
-        "color": "#0f766e"
-      },
-      "teamB": {
-        "name": "Switzerland Women",
-        "code": "SW",
-        "color": "#b91c1c"
-      },
-      "venue": "",
-      "time": "2026-06-28T13:00:00.000Z",
-      "prediction": "",
-      "confidence": null,
-      "status": "upcoming",
-      "result": "pending"
-    },
-    {
-      "id": "325961fb-72a8-4dc2-885c-13f5becdb76c",
-      "series": "Central Europe Cup",
-      "matchNo": "",
-      "format": "T20",
-      "teamA": {
-        "name": "Czech Republic",
-        "code": "CZE",
-        "color": "#4338ca",
-        "logo": "https://g.cricapi.com/iapi/598-637871097134873685.webp?w=96"
-      },
-      "teamB": {
-        "name": "Serbia",
-        "code": "SRB",
-        "color": "#a16207",
-        "logo": "https://g.cricapi.com/iapi/651-637876983315009937.webp?w=96"
-      },
-      "venue": "",
-      "time": "2026-06-28T13:00:00.000Z",
-      "prediction": "",
-      "confidence": null,
-      "status": "upcoming",
-      "result": "pending"
-    },
-    {
-      "id": "730d3495-d7b3-4dd5-bd1d-fffc6c1acfb6",
-      "series": "T20 Blast",
-      "matchNo": "",
-      "format": "T20",
-      "teamA": {
-        "name": "Derbyshire",
-        "code": "DERB",
-        "color": "#16a34a",
-        "logo": "https://g.cricapi.com/iapi/1117-637889091569915358.webp?w=96"
-      },
-      "teamB": {
-        "name": "Yorkshire",
-        "code": "YRK",
-        "color": "#0f766e",
-        "logo": "https://g.cricapi.com/iapi/1139-637885552795894277.webp?w=96"
-      },
-      "venue": "",
-      "time": "2026-06-28T13:30:00.000Z",
-      "prediction": "",
-      "confidence": null,
-      "status": "upcoming",
-      "result": "pending"
-    },
-    {
-      "id": "abcd3089-f811-4193-ad1d-eaaaf487017f",
-      "series": "Womens T20 Blast League Two",
-      "matchNo": "",
-      "format": "T20",
-      "teamA": {
-        "name": "Kent Women",
-        "code": "KEN",
-        "color": "#dc2626"
-      },
-      "teamB": {
-        "name": "Northamptonshire Women",
-        "code": "NOR",
-        "color": "#b91c1c"
-      },
-      "venue": "",
-      "time": "2026-06-28T13:30:00.000Z",
-      "prediction": "",
-      "confidence": null,
-      "status": "upcoming",
-      "result": "pending"
-    },
-    {
-      "id": "30de68f5-396b-41d7-8cac-e06afbfb2fc9",
-      "series": "Womens T20 Blast",
-      "matchNo": "",
-      "format": "T20",
-      "teamA": {
-        "name": "Somerset Women",
-        "code": "SOM",
-        "color": "#15803d"
-      },
-      "teamB": {
-        "name": "Surrey Women",
-        "code": "SUR",
-        "color": "#ca8a04"
-      },
-      "venue": "",
-      "time": "2026-06-28T13:30:00.000Z",
-      "prediction": "",
-      "confidence": null,
-      "status": "upcoming",
-      "result": "pending"
-    },
-    {
-      "id": "d50252d9-0087-42ed-811f-de53eb6bca16",
-      "series": "Womens T20 Blast",
-      "matchNo": "",
-      "format": "T20",
-      "teamA": {
-        "name": "Lancashire Women",
-        "code": "LAN",
-        "color": "#dc2626"
-      },
-      "teamB": {
-        "name": "Warwickshire Women",
-        "code": "WAR",
+        "name": "Hyderabad E Champions",
+        "code": "HYD",
         "color": "#7c3aed"
       },
       "venue": "",
-      "time": "2026-06-28T13:30:00.000Z",
+      "time": "2026-06-29T08:45:00.000Z",
       "prediction": "",
       "confidence": null,
       "status": "upcoming",
       "result": "pending"
     },
     {
-      "id": "dac708a2-cb30-4d10-a19c-dc2e9fccb9f7",
-      "series": "T20 Blast",
+      "id": "0edb606b-7a2e-454d-b9f8-776c8305d469",
+      "series": "TG20",
       "matchNo": "",
       "format": "T20",
       "teamA": {
-        "name": "Somerset",
-        "code": "SOM",
-        "color": "#ca8a04",
-        "logo": "https://g.cricapi.com/iapi/1131-637885552070524344.webp?w=96"
+        "name": "Anurag Nalgonda Knights",
+        "code": "ANU",
+        "color": "#1d4ed8"
       },
       "teamB": {
-        "name": "Worcestershire",
-        "code": "WRCS",
-        "color": "#1e3a8a",
-        "logo": "https://g.cricapi.com/iapi/1138-637889091123850841.webp?w=96"
+        "name": "Palamuru Strikers",
+        "code": "PAL",
+        "color": "#15803d"
       },
       "venue": "",
-      "time": "2026-06-28T13:30:00.000Z",
+      "time": "2026-06-29T08:45:00.000Z",
       "prediction": "",
       "confidence": null,
       "status": "upcoming",
       "result": "pending"
     },
     {
-      "id": "17fb9312-efe0-46da-b2a9-da89e83ff78f",
-      "series": "T20 Blast",
+      "id": "16a0f2a8-250c-4dc7-b755-9ec34e0c4ee5",
+      "series": "Maharaja Trophy KSCA T20",
       "matchNo": "",
       "format": "T20",
       "teamA": {
-        "name": "Leicestershire",
-        "code": "LECS",
-        "color": "#ea580c",
-        "logo": "https://g.cricapi.com/iapi/1126-637889090878436462.webp?w=96"
+        "name": "Gulbarga Mystics",
+        "code": "GUM",
+        "color": "#86198f",
+        "logo": "https://g.cricapi.com/iapi/1977-637992886521127923.webp?w=96"
       },
       "teamB": {
-        "name": "Nottinghamshire",
-        "code": "NOT",
-        "color": "#ca8a04",
-        "logo": "https://g.cricapi.com/iapi/1130-637889092060873937.webp?w=96"
+        "name": "Hubli Tigers",
+        "code": "HT",
+        "color": "#15803d",
+        "logo": "https://g.cricapi.com/iapi/179-637945148469792913.webp?w=96"
       },
       "venue": "",
-      "time": "2026-06-28T13:30:00.000Z",
+      "time": "2026-06-29T09:00:00.000Z",
       "prediction": "",
       "confidence": null,
       "status": "upcoming",
       "result": "pending"
     },
     {
-      "id": "34cd65a9-4c68-4f20-8d09-d3df0eaa2a1c",
-      "series": "T20 Blast",
-      "matchNo": "",
-      "format": "T20",
-      "teamA": {
-        "name": "Durham",
-        "code": "DURH",
-        "color": "#7c3aed",
-        "logo": "https://g.cricapi.com/iapi/1118-637889090599643548.webp?w=96"
-      },
-      "teamB": {
-        "name": "Middlesex",
-        "code": "MDX",
-        "color": "#b91c1c",
-        "logo": "https://g.cricapi.com/iapi/1127-637889091340507643.webp?w=96"
-      },
-      "venue": "",
-      "time": "2026-06-28T13:30:00.000Z",
-      "prediction": "",
-      "confidence": null,
-      "status": "upcoming",
-      "result": "pending"
-    },
-    {
-      "id": "0d2c9091-041b-479e-8b3e-ba288f46a3e5",
+      "id": "19c0effc-e08d-4229-9085-d22d419af39f",
       "series": "Maharaja Trophy KSCA T20",
       "matchNo": "",
       "format": "T20",
@@ -538,270 +124,12 @@
         "color": "#1e3a8a"
       },
       "teamB": {
-        "name": "Shivamogga Yodhas",
-        "code": "SHI",
-        "color": "#9f1239"
+        "name": "Kalyani Bengaluru Blasters",
+        "code": "KAL",
+        "color": "#ca8a04"
       },
       "venue": "",
-      "time": "2026-06-28T13:30:00.000Z",
-      "prediction": "",
-      "confidence": null,
-      "status": "upcoming",
-      "result": "pending"
-    },
-    {
-      "id": "2adcb44d-356f-4e35-83bb-a4cdd3c20cb8",
-      "series": "Womens T20 Blast League Two",
-      "matchNo": "",
-      "format": "T20",
-      "teamA": {
-        "name": "Sussex Women",
-        "code": "SUS",
-        "color": "#7c3aed"
-      },
-      "teamB": {
-        "name": "Worcestershire Women",
-        "code": "WOR",
-        "color": "#86198f"
-      },
-      "venue": "",
-      "time": "2026-06-28T13:30:00.000Z",
-      "prediction": "",
-      "confidence": null,
-      "status": "upcoming",
-      "result": "pending"
-    },
-    {
-      "id": "440866a6-e088-4d43-934b-9e750a004de7",
-      "series": "Womens T20 Blast",
-      "matchNo": "",
-      "format": "T20",
-      "teamA": {
-        "name": "Durham Women",
-        "code": "DUR",
-        "color": "#b91c1c"
-      },
-      "teamB": {
-        "name": "Hampshire Women",
-        "code": "HAM",
-        "color": "#4338ca"
-      },
-      "venue": "",
-      "time": "2026-06-28T13:30:00.000Z",
-      "prediction": "",
-      "confidence": null,
-      "status": "upcoming",
-      "result": "pending"
-    },
-    {
-      "id": "7531e99f-04e7-4a07-8e3e-9aef81724405",
-      "series": "T20 Blast",
-      "matchNo": "",
-      "format": "T20",
-      "teamA": {
-        "name": "Somerset",
-        "code": "SOM",
-        "color": "#ca8a04",
-        "logo": "https://g.cricapi.com/iapi/1131-637885552070524344.webp?w=96"
-      },
-      "teamB": {
-        "name": "Worcestershire",
-        "code": "WRCS",
-        "color": "#1e3a8a",
-        "logo": "https://g.cricapi.com/iapi/1138-637889091123850841.webp?w=96"
-      },
-      "venue": "",
-      "time": "2026-06-28T13:30:00.000Z",
-      "prediction": "",
-      "confidence": null,
-      "status": "upcoming",
-      "result": "pending"
-    },
-    {
-      "id": "f2b204f4-0c53-4aa0-9259-983e83dc054b",
-      "series": "T20 Blast",
-      "matchNo": "",
-      "format": "T20",
-      "teamA": {
-        "name": "Durham",
-        "code": "DURH",
-        "color": "#7c3aed",
-        "logo": "https://g.cricapi.com/iapi/1118-637889090599643548.webp?w=96"
-      },
-      "teamB": {
-        "name": "Middlesex",
-        "code": "MDX",
-        "color": "#b91c1c",
-        "logo": "https://g.cricapi.com/iapi/1127-637889091340507643.webp?w=96"
-      },
-      "venue": "",
-      "time": "2026-06-28T13:30:00.000Z",
-      "prediction": "",
-      "confidence": null,
-      "status": "upcoming",
-      "result": "pending"
-    },
-    {
-      "id": "b2170447-8759-4f97-be6b-410e728696dc",
-      "series": "ICC Women's T20 World Cup",
-      "matchNo": "",
-      "format": "T20",
-      "teamA": {
-        "name": "Australia Women",
-        "code": "AUSW",
-        "color": "#dc2626",
-        "logo": "https://g.cricapi.com/iapi/7-637877070884402012.webp?w=96"
-      },
-      "teamB": {
-        "name": "India Women",
-        "code": "INDW",
-        "color": "#0369a1",
-        "logo": "https://g.cricapi.com/iapi/32-637877061328728555.webp?w=96"
-      },
-      "venue": "",
-      "time": "2026-06-28T13:30:00.000Z",
-      "prediction": "",
-      "confidence": null,
-      "status": "upcoming",
-      "result": "pending"
-    },
-    {
-      "id": "ec365609-989e-477a-95bb-397e3ef05e33",
-      "series": "T20 Blast",
-      "matchNo": "",
-      "format": "T20",
-      "teamA": {
-        "name": "Leicestershire",
-        "code": "LECS",
-        "color": "#ea580c",
-        "logo": "https://g.cricapi.com/iapi/1126-637889090878436462.webp?w=96"
-      },
-      "teamB": {
-        "name": "Nottinghamshire",
-        "code": "NOT",
-        "color": "#ca8a04",
-        "logo": "https://g.cricapi.com/iapi/1130-637889092060873937.webp?w=96"
-      },
-      "venue": "",
-      "time": "2026-06-28T13:30:00.000Z",
-      "prediction": "",
-      "confidence": null,
-      "status": "upcoming",
-      "result": "pending"
-    },
-    {
-      "id": "0838532f-196b-4156-8c8d-2c2ba21d45d0",
-      "series": "T20 Blast",
-      "matchNo": "",
-      "format": "T20",
-      "teamA": {
-        "name": "Derbyshire",
-        "code": "DERB",
-        "color": "#16a34a",
-        "logo": "https://g.cricapi.com/iapi/1117-637889091569915358.webp?w=96"
-      },
-      "teamB": {
-        "name": "Yorkshire",
-        "code": "YRK",
-        "color": "#0f766e",
-        "logo": "https://g.cricapi.com/iapi/1139-637885552795894277.webp?w=96"
-      },
-      "venue": "",
-      "time": "2026-06-28T13:30:00.000Z",
-      "prediction": "",
-      "confidence": null,
-      "status": "upcoming",
-      "result": "pending"
-    },
-    {
-      "id": "1fd19c0d-d3d9-4f0d-951b-1c875effdd76",
-      "series": "Womens T20 Blast League Two",
-      "matchNo": "",
-      "format": "T20",
-      "teamA": {
-        "name": "Glamorgan Women",
-        "code": "GLA",
-        "color": "#dc2626"
-      },
-      "teamB": {
-        "name": "Leicestershire Women",
-        "code": "LEI",
-        "color": "#0369a1"
-      },
-      "venue": "",
-      "time": "2026-06-28T13:30:00.000Z",
-      "prediction": "",
-      "confidence": null,
-      "status": "upcoming",
-      "result": "pending"
-    },
-    {
-      "id": "0487d1d6-45d8-4838-b91d-026f8fd0bf44",
-      "series": "India tour of Ireland",
-      "matchNo": "",
-      "format": "T20",
-      "teamA": {
-        "name": "India",
-        "code": "IND",
-        "color": "#ea580c",
-        "logo": "https://g.cricapi.com/iapi/31-637877061080567215.webp?w=96"
-      },
-      "teamB": {
-        "name": "Ireland",
-        "code": "IRE",
-        "color": "#ea580c",
-        "logo": "https://g.cricapi.com/iapi/33-637926315578500224.png?w=96"
-      },
-      "venue": "",
-      "time": "2026-06-28T14:00:00.000Z",
-      "prediction": "",
-      "confidence": null,
-      "status": "upcoming",
-      "result": "pending"
-    },
-    {
-      "id": "0a4dbf11-5c54-4579-945b-cbb141c73e72",
-      "series": "T20 Blast",
-      "matchNo": "",
-      "format": "T20",
-      "teamA": {
-        "name": "Hampshire",
-        "code": "HAM",
-        "color": "#86198f",
-        "logo": "https://g.cricapi.com/iapi/1122-637885550993657486.webp?w=96"
-      },
-      "teamB": {
-        "name": "Kent",
-        "code": "KENT",
-        "color": "#1d4ed8",
-        "logo": "https://g.cricapi.com/iapi/1124-637885551212175895.webp?w=96"
-      },
-      "venue": "",
-      "time": "2026-06-28T14:30:00.000Z",
-      "prediction": "",
-      "confidence": null,
-      "status": "upcoming",
-      "result": "pending"
-    },
-    {
-      "id": "daddc185-6189-47e4-80e7-74a8242fc853",
-      "series": "T20 Blast",
-      "matchNo": "",
-      "format": "T20",
-      "teamA": {
-        "name": "Hampshire",
-        "code": "HAM",
-        "color": "#86198f",
-        "logo": "https://g.cricapi.com/iapi/1122-637885550993657486.webp?w=96"
-      },
-      "teamB": {
-        "name": "Kent",
-        "code": "KENT",
-        "color": "#1d4ed8",
-        "logo": "https://g.cricapi.com/iapi/1124-637885551212175895.webp?w=96"
-      },
-      "venue": "",
-      "time": "2026-06-28T14:30:00.000Z",
+      "time": "2026-06-29T13:30:00.000Z",
       "prediction": "",
       "confidence": null,
       "status": "upcoming",
