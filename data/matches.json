@@ -1,54 +1,76 @@
 {
-  "updated": "2026-07-11T05:36:08.927Z",
+  "updated": "2026-07-12T05:53:15.587Z",
   "matches": [
     {
-      "id": "4dddd6b6-60b6-4e1e-872a-94b0442b1f05",
-      "series": "Major League Cricket",
+      "id": "c7874c75-e5fd-4d60-a50a-dcafe86732f8",
+      "series": "New Zealand tour of West Indies",
       "matchNo": "",
-      "format": "T20",
+      "format": "ODI",
       "teamA": {
-        "name": "Los Angeles Knight Riders",
-        "code": "LAKR",
-        "color": "#86198f"
+        "name": "New Zealand",
+        "code": "NZ",
+        "color": "#b91c1c",
+        "logo": "https://g.cricapi.com/iapi/57-637877076980737903.webp?w=96"
       },
       "teamB": {
-        "name": "San Francisco Unicorns",
-        "code": "SFU",
-        "color": "#86198f"
+        "name": "West Indies",
+        "code": "WI",
+        "color": "#4338ca",
+        "logo": "https://g.cricapi.com/iapi/100-637877077978319234.webp?w=96"
       },
       "venue": "",
-      "time": "2026-07-11T00:30:00.000Z",
+      "time": "2026-07-11T18:30:00.000Z",
       "prediction": "",
       "confidence": null,
       "status": "done",
       "result": "pending"
     },
     {
-      "id": "1f31d27a-64be-4607-85c3-5d234be9f93d",
-      "series": "Bangladesh tour of Zimbabwe",
+      "id": "237bdc23-34d9-4ad2-8736-6f080cfd200d",
+      "series": "Major League Cricket",
       "matchNo": "",
       "format": "T20",
       "teamA": {
-        "name": "Bangladesh",
-        "code": "BAN",
-        "color": "#7c3aed",
-        "logo": "https://g.cricapi.com/iapi/9-637877074109248302.webp?w=96"
+        "name": "Mi New York",
+        "code": "MNY",
+        "color": "#7c3aed"
       },
       "teamB": {
-        "name": "Zimbabwe",
-        "code": "ZIM",
-        "color": "#7c3aed",
-        "logo": "https://g.cricapi.com/iapi/575-637877079629985215.webp?w=96"
+        "name": "Seattle Orcas",
+        "code": "SO",
+        "color": "#a16207"
       },
       "venue": "",
-      "time": "2026-07-11T07:15:00.000Z",
+      "time": "2026-07-11T20:30:00.000Z",
       "prediction": "",
       "confidence": null,
-      "status": "upcoming",
+      "status": "done",
       "result": "pending"
     },
     {
-      "id": "0976c99d-02fa-4af5-8d24-7e111692f927",
+      "id": "4979fbf8-1af7-4f7c-b691-2eb369fee405",
+      "series": "Major League Cricket",
+      "matchNo": "",
+      "format": "T20",
+      "teamA": {
+        "name": "San Francisco Unicorns",
+        "code": "SFU",
+        "color": "#86198f"
+      },
+      "teamB": {
+        "name": "Seattle Orcas",
+        "code": "SO",
+        "color": "#a16207"
+      },
+      "venue": "",
+      "time": "2026-07-12T00:30:00.000Z",
+      "prediction": "",
+      "confidence": null,
+      "status": "done",
+      "result": "pending"
+    },
+    {
+      "id": "d3069062-0dfc-436c-8e0c-184dd8b16176",
       "series": "Switzerland Women tour of Germany",
       "matchNo": "",
       "format": "T20",
@@ -63,53 +85,735 @@
         "color": "#b91c1c"
       },
       "venue": "",
-      "time": "2026-07-11T08:30:00.000Z",
+      "time": "2026-07-12T08:00:00.000Z",
       "prediction": "",
       "confidence": null,
       "status": "upcoming",
       "result": "pending"
     },
     {
-      "id": "5310500b-809a-4b95-8e3a-3f6b69203fd2",
-      "series": "Switzerland Women tour of Germany",
+      "id": "c65ee13b-5d2a-45e0-aa92-b2af6d849e02",
+      "series": "ICC Men's T20 World Cup Europe Sub Regional Qualifier B",
       "matchNo": "",
       "format": "T20",
       "teamA": {
-        "name": "Germany Women",
-        "code": "GEMW",
-        "color": "#b91c1c"
+        "name": "Denmark",
+        "code": "DEN",
+        "color": "#a16207",
+        "logo": "https://g.cricapi.com/iapi/599-637867438645047537.webp?w=96"
       },
       "teamB": {
-        "name": "Switzerland Women",
-        "code": "SW",
-        "color": "#b91c1c"
+        "name": "Norway",
+        "code": "NOR",
+        "color": "#dc2626",
+        "logo": "https://g.cricapi.com/iapi/636-637867647006202380.webp?w=96"
       },
       "venue": "",
-      "time": "2026-07-11T13:30:00.000Z",
+      "time": "2026-07-12T08:30:00.000Z",
       "prediction": "",
       "confidence": null,
       "status": "upcoming",
       "result": "pending"
     },
     {
-      "id": "54ffa207-60d3-4d20-8df5-d19f376ef556",
-      "series": "India tour of England",
+      "id": "53fd2b88-436c-4ab2-b0b6-2caa91fc9d16",
+      "series": "ICC Men's T20 World Cup Europe Sub Regional Qualifier B",
       "matchNo": "",
       "format": "T20",
       "teamA": {
-        "name": "England",
-        "code": "ENG",
-        "color": "#4338ca",
-        "logo": "https://g.cricapi.com/iapi/23-637877072894080569.webp?w=96"
+        "name": "Belgium",
+        "code": "BEL",
+        "color": "#7c3aed",
+        "logo": "https://g.cricapi.com/iapi/585-637869109610124568.webp?w=96"
       },
       "teamB": {
-        "name": "India",
-        "code": "IND",
+        "name": "Romania",
+        "code": "ROM",
+        "color": "#0369a1",
+        "logo": "https://g.cricapi.com/iapi/645-637867439654876721.png?w=96"
+      },
+      "venue": "",
+      "time": "2026-07-12T08:30:00.000Z",
+      "prediction": "",
+      "confidence": null,
+      "status": "upcoming",
+      "result": "pending"
+    },
+    {
+      "id": "25504f95-6277-4e54-901d-421192877485",
+      "series": "West Indies Women tour of Ireland",
+      "matchNo": "",
+      "format": "ODI",
+      "teamA": {
+        "name": "Ireland Women",
+        "code": "IRW",
+        "color": "#0369a1",
+        "logo": "https://g.cricapi.com/iapi/1420-637926315409640205.png?w=96"
+      },
+      "teamB": {
+        "name": "West Indies Women",
+        "code": "WIW",
         "color": "#ea580c",
-        "logo": "https://g.cricapi.com/iapi/31-637877061080567215.webp?w=96"
+        "logo": "https://g.cricapi.com/iapi/102-637877078650138806.webp?w=96"
       },
       "venue": "",
-      "time": "2026-07-11T17:30:00.000Z",
+      "time": "2026-07-12T09:45:00.000Z",
+      "prediction": "",
+      "confidence": null,
+      "status": "upcoming",
+      "result": "pending"
+    },
+    {
+      "id": "412522df-b169-4491-b010-fe59c12ce873",
+      "series": "T20 Blast",
+      "matchNo": "",
+      "format": "T20",
+      "teamA": {
+        "name": "Durham",
+        "code": "DURH",
+        "color": "#7c3aed",
+        "logo": "https://g.cricapi.com/iapi/1118-637889090599643548.webp?w=96"
+      },
+      "teamB": {
+        "name": "Lancashire",
+        "code": "LNCS",
+        "color": "#1d4ed8",
+        "logo": "https://g.cricapi.com/iapi/1125-637885551497331567.webp?w=96"
+      },
+      "venue": "",
+      "time": "2026-07-12T11:00:00.000Z",
+      "prediction": "",
+      "confidence": null,
+      "status": "upcoming",
+      "result": "pending"
+    },
+    {
+      "id": "cfec3f88-ffdd-4506-8139-f6eae0c581de",
+      "series": "T20 Blast",
+      "matchNo": "",
+      "format": "T20",
+      "teamA": {
+        "name": "Glamorgan",
+        "code": "GLAM",
+        "color": "#1d4ed8",
+        "logo": "https://g.cricapi.com/iapi/1120-637889090390357869.webp?w=96"
+      },
+      "teamB": {
+        "name": "Gloucestershire",
+        "code": "GLOU",
+        "color": "#9f1239",
+        "logo": "https://g.cricapi.com/iapi/1121-637885550747990018.webp?w=96"
+      },
+      "venue": "",
+      "time": "2026-07-12T11:00:00.000Z",
+      "prediction": "",
+      "confidence": null,
+      "status": "upcoming",
+      "result": "pending"
+    },
+    {
+      "id": "153ef2b8-2936-4238-b61a-e9d1ee44ce80",
+      "series": "T20 Blast",
+      "matchNo": "",
+      "format": "T20",
+      "teamA": {
+        "name": "Essex",
+        "code": "ESX",
+        "color": "#0f766e",
+        "logo": "https://g.cricapi.com/iapi/1119-637885549753088458.webp?w=96"
+      },
+      "teamB": {
+        "name": "Surrey",
+        "code": "SUR",
+        "color": "#be185d",
+        "logo": "https://g.cricapi.com/iapi/1133-637885552361099530.webp?w=96"
+      },
+      "venue": "",
+      "time": "2026-07-12T11:00:00.000Z",
+      "prediction": "",
+      "confidence": null,
+      "status": "upcoming",
+      "result": "pending"
+    },
+    {
+      "id": "f9830efb-5b0b-48a4-a491-e3d87357cd88",
+      "series": "T20 Blast",
+      "matchNo": "",
+      "format": "T20",
+      "teamA": {
+        "name": "Northamptonshire",
+        "code": "NOR",
+        "color": "#7c3aed",
+        "logo": "https://g.cricapi.com/iapi/1129-637885551856435418.webp?w=96"
+      },
+      "teamB": {
+        "name": "Warwickshire",
+        "code": "WRKS",
+        "color": "#0369a1",
+        "logo": "https://g.cricapi.com/iapi/1137-637885552592685258.webp?w=96"
+      },
+      "venue": "",
+      "time": "2026-07-12T11:00:00.000Z",
+      "prediction": "",
+      "confidence": null,
+      "status": "upcoming",
+      "result": "pending"
+    },
+    {
+      "id": "fb969b7d-d12b-42ae-875c-dbbb15819f72",
+      "series": "T20 Blast",
+      "matchNo": "",
+      "format": "T20",
+      "teamA": {
+        "name": "Nottinghamshire",
+        "code": "NOT",
+        "color": "#ca8a04",
+        "logo": "https://g.cricapi.com/iapi/1130-637889092060873937.webp?w=96"
+      },
+      "teamB": {
+        "name": "Yorkshire",
+        "code": "YRK",
+        "color": "#0f766e",
+        "logo": "https://g.cricapi.com/iapi/1139-637885552795894277.webp?w=96"
+      },
+      "venue": "",
+      "time": "2026-07-12T11:00:00.000Z",
+      "prediction": "",
+      "confidence": null,
+      "status": "upcoming",
+      "result": "pending"
+    },
+    {
+      "id": "a56310eb-a611-4631-81ec-d70c2d087cc3",
+      "series": "T20 Blast",
+      "matchNo": "",
+      "format": "T20",
+      "teamA": {
+        "name": "Northamptonshire",
+        "code": "NOR",
+        "color": "#7c3aed",
+        "logo": "https://g.cricapi.com/iapi/1129-637885551856435418.webp?w=96"
+      },
+      "teamB": {
+        "name": "Warwickshire",
+        "code": "WRKS",
+        "color": "#0369a1",
+        "logo": "https://g.cricapi.com/iapi/1137-637885552592685258.webp?w=96"
+      },
+      "venue": "",
+      "time": "2026-07-12T11:00:00.000Z",
+      "prediction": "",
+      "confidence": null,
+      "status": "upcoming",
+      "result": "pending"
+    },
+    {
+      "id": "a90871d5-9801-41be-9784-c7039f71c099",
+      "series": "T20 Blast",
+      "matchNo": "",
+      "format": "T20",
+      "teamA": {
+        "name": "Nottinghamshire",
+        "code": "NOT",
+        "color": "#ca8a04",
+        "logo": "https://g.cricapi.com/iapi/1130-637889092060873937.webp?w=96"
+      },
+      "teamB": {
+        "name": "Yorkshire",
+        "code": "YRK",
+        "color": "#0f766e",
+        "logo": "https://g.cricapi.com/iapi/1139-637885552795894277.webp?w=96"
+      },
+      "venue": "",
+      "time": "2026-07-12T11:00:00.000Z",
+      "prediction": "",
+      "confidence": null,
+      "status": "upcoming",
+      "result": "pending"
+    },
+    {
+      "id": "35801a23-95c6-40d1-a358-c2a8bedf1504",
+      "series": "T20 Blast",
+      "matchNo": "",
+      "format": "T20",
+      "teamA": {
+        "name": "Kent",
+        "code": "KENT",
+        "color": "#1d4ed8",
+        "logo": "https://g.cricapi.com/iapi/1124-637885551212175895.webp?w=96"
+      },
+      "teamB": {
+        "name": "Middlesex",
+        "code": "MDX",
+        "color": "#b91c1c",
+        "logo": "https://g.cricapi.com/iapi/1127-637889091340507643.webp?w=96"
+      },
+      "venue": "",
+      "time": "2026-07-12T11:00:00.000Z",
+      "prediction": "",
+      "confidence": null,
+      "status": "upcoming",
+      "result": "pending"
+    },
+    {
+      "id": "a44d310d-478f-4626-9318-ab8753d73f60",
+      "series": "T20 Blast",
+      "matchNo": "",
+      "format": "T20",
+      "teamA": {
+        "name": "Somerset",
+        "code": "SOM",
+        "color": "#ca8a04",
+        "logo": "https://g.cricapi.com/iapi/1131-637885552070524344.webp?w=96"
+      },
+      "teamB": {
+        "name": "Worcestershire",
+        "code": "WRCS",
+        "color": "#1e3a8a",
+        "logo": "https://g.cricapi.com/iapi/1138-637889091123850841.webp?w=96"
+      },
+      "venue": "",
+      "time": "2026-07-12T11:00:00.000Z",
+      "prediction": "",
+      "confidence": null,
+      "status": "upcoming",
+      "result": "pending"
+    },
+    {
+      "id": "29a5a639-5b63-48d0-a652-74d53a224946",
+      "series": "T20 Blast",
+      "matchNo": "",
+      "format": "T20",
+      "teamA": {
+        "name": "Somerset",
+        "code": "SOM",
+        "color": "#ca8a04",
+        "logo": "https://g.cricapi.com/iapi/1131-637885552070524344.webp?w=96"
+      },
+      "teamB": {
+        "name": "Worcestershire",
+        "code": "WRCS",
+        "color": "#1e3a8a",
+        "logo": "https://g.cricapi.com/iapi/1138-637889091123850841.webp?w=96"
+      },
+      "venue": "",
+      "time": "2026-07-12T11:00:00.000Z",
+      "prediction": "",
+      "confidence": null,
+      "status": "upcoming",
+      "result": "pending"
+    },
+    {
+      "id": "9e16d812-af23-4d05-b7b7-61167ef391d7",
+      "series": "T20 Blast",
+      "matchNo": "",
+      "format": "T20",
+      "teamA": {
+        "name": "Hampshire",
+        "code": "HAM",
+        "color": "#86198f",
+        "logo": "https://g.cricapi.com/iapi/1122-637885550993657486.webp?w=96"
+      },
+      "teamB": {
+        "name": "Sussex",
+        "code": "SUSS",
+        "color": "#0369a1",
+        "logo": "https://g.cricapi.com/iapi/1134-637889091814592518.webp?w=96"
+      },
+      "venue": "",
+      "time": "2026-07-12T11:00:00.000Z",
+      "prediction": "",
+      "confidence": null,
+      "status": "upcoming",
+      "result": "pending"
+    },
+    {
+      "id": "30c2ee7a-8d8f-43ed-b74b-540068ca58d6",
+      "series": "T20 Blast",
+      "matchNo": "",
+      "format": "T20",
+      "teamA": {
+        "name": "Derbyshire",
+        "code": "DERB",
+        "color": "#16a34a",
+        "logo": "https://g.cricapi.com/iapi/1117-637889091569915358.webp?w=96"
+      },
+      "teamB": {
+        "name": "Leicestershire",
+        "code": "LECS",
+        "color": "#ea580c",
+        "logo": "https://g.cricapi.com/iapi/1126-637889090878436462.webp?w=96"
+      },
+      "venue": "",
+      "time": "2026-07-12T11:00:00.000Z",
+      "prediction": "",
+      "confidence": null,
+      "status": "upcoming",
+      "result": "pending"
+    },
+    {
+      "id": "d4c929c7-1f05-440f-ad9a-3c3609dc8220",
+      "series": "Womens T20 Blast",
+      "matchNo": "",
+      "format": "T20",
+      "teamA": {
+        "name": "Hampshire Women",
+        "code": "HAM",
+        "color": "#4338ca"
+      },
+      "teamB": {
+        "name": "Surrey Women",
+        "code": "SUR",
+        "color": "#ca8a04"
+      },
+      "venue": "",
+      "time": "2026-07-12T11:00:00.000Z",
+      "prediction": "",
+      "confidence": null,
+      "status": "upcoming",
+      "result": "pending"
+    },
+    {
+      "id": "ef8678fb-c1a5-4ca5-8da9-32e9fac539b3",
+      "series": "Womens T20 Blast",
+      "matchNo": "",
+      "format": "T20",
+      "teamA": {
+        "name": "Essex Women",
+        "code": "ESS",
+        "color": "#be185d"
+      },
+      "teamB": {
+        "name": "Somerset Women",
+        "code": "SOM",
+        "color": "#15803d"
+      },
+      "venue": "",
+      "time": "2026-07-12T11:00:00.000Z",
+      "prediction": "",
+      "confidence": null,
+      "status": "upcoming",
+      "result": "pending"
+    },
+    {
+      "id": "c53cc861-4bd7-4026-a414-2ccf5e56d2ba",
+      "series": "T20 Blast",
+      "matchNo": "",
+      "format": "T20",
+      "teamA": {
+        "name": "Hampshire",
+        "code": "HAM",
+        "color": "#86198f",
+        "logo": "https://g.cricapi.com/iapi/1122-637885550993657486.webp?w=96"
+      },
+      "teamB": {
+        "name": "Sussex",
+        "code": "SUSS",
+        "color": "#0369a1",
+        "logo": "https://g.cricapi.com/iapi/1134-637889091814592518.webp?w=96"
+      },
+      "venue": "",
+      "time": "2026-07-12T11:00:00.000Z",
+      "prediction": "",
+      "confidence": null,
+      "status": "upcoming",
+      "result": "pending"
+    },
+    {
+      "id": "6cec9352-091b-4a3a-ba6d-2a9048f9fbc2",
+      "series": "T20 Blast",
+      "matchNo": "",
+      "format": "T20",
+      "teamA": {
+        "name": "Durham",
+        "code": "DURH",
+        "color": "#7c3aed",
+        "logo": "https://g.cricapi.com/iapi/1118-637889090599643548.webp?w=96"
+      },
+      "teamB": {
+        "name": "Lancashire",
+        "code": "LNCS",
+        "color": "#1d4ed8",
+        "logo": "https://g.cricapi.com/iapi/1125-637885551497331567.webp?w=96"
+      },
+      "venue": "",
+      "time": "2026-07-12T11:00:00.000Z",
+      "prediction": "",
+      "confidence": null,
+      "status": "upcoming",
+      "result": "pending"
+    },
+    {
+      "id": "8b225b4b-5cd5-4ad8-91fe-28bcbaebec3c",
+      "series": "T20 Blast",
+      "matchNo": "",
+      "format": "T20",
+      "teamA": {
+        "name": "Kent",
+        "code": "KENT",
+        "color": "#1d4ed8",
+        "logo": "https://g.cricapi.com/iapi/1124-637885551212175895.webp?w=96"
+      },
+      "teamB": {
+        "name": "Middlesex",
+        "code": "MDX",
+        "color": "#b91c1c",
+        "logo": "https://g.cricapi.com/iapi/1127-637889091340507643.webp?w=96"
+      },
+      "venue": "",
+      "time": "2026-07-12T11:00:00.000Z",
+      "prediction": "",
+      "confidence": null,
+      "status": "upcoming",
+      "result": "pending"
+    },
+    {
+      "id": "3dfa5d57-1b0a-4d91-98fd-26eabe4cc48c",
+      "series": "Womens T20 Blast League Two",
+      "matchNo": "",
+      "format": "T20",
+      "teamA": {
+        "name": "Gloucestershire Women",
+        "code": "GLO",
+        "color": "#a16207"
+      },
+      "teamB": {
+        "name": "Kent Women",
+        "code": "KEN",
+        "color": "#dc2626"
+      },
+      "venue": "",
+      "time": "2026-07-12T11:00:00.000Z",
+      "prediction": "",
+      "confidence": null,
+      "status": "upcoming",
+      "result": "pending"
+    },
+    {
+      "id": "e847f176-5ea3-4b06-8dcd-194f062e30ef",
+      "series": "T20 Blast",
+      "matchNo": "",
+      "format": "T20",
+      "teamA": {
+        "name": "Derbyshire",
+        "code": "DERB",
+        "color": "#16a34a",
+        "logo": "https://g.cricapi.com/iapi/1117-637889091569915358.webp?w=96"
+      },
+      "teamB": {
+        "name": "Leicestershire",
+        "code": "LECS",
+        "color": "#ea580c",
+        "logo": "https://g.cricapi.com/iapi/1126-637889090878436462.webp?w=96"
+      },
+      "venue": "",
+      "time": "2026-07-12T11:00:00.000Z",
+      "prediction": "",
+      "confidence": null,
+      "status": "upcoming",
+      "result": "pending"
+    },
+    {
+      "id": "86071d63-4cbd-4ecf-843d-169a41c40f55",
+      "series": "Womens T20 Blast",
+      "matchNo": "",
+      "format": "T20",
+      "teamA": {
+        "name": "Durham Women",
+        "code": "DUR",
+        "color": "#b91c1c"
+      },
+      "teamB": {
+        "name": "Lancashire Women",
+        "code": "LAN",
+        "color": "#dc2626"
+      },
+      "venue": "",
+      "time": "2026-07-12T11:00:00.000Z",
+      "prediction": "",
+      "confidence": null,
+      "status": "upcoming",
+      "result": "pending"
+    },
+    {
+      "id": "fab54555-266c-4310-bbea-0fcc07a05c7b",
+      "series": "T20 Blast",
+      "matchNo": "",
+      "format": "T20",
+      "teamA": {
+        "name": "Glamorgan",
+        "code": "GLAM",
+        "color": "#1d4ed8",
+        "logo": "https://g.cricapi.com/iapi/1120-637889090390357869.webp?w=96"
+      },
+      "teamB": {
+        "name": "Gloucestershire",
+        "code": "GLOU",
+        "color": "#9f1239",
+        "logo": "https://g.cricapi.com/iapi/1121-637885550747990018.webp?w=96"
+      },
+      "venue": "",
+      "time": "2026-07-12T11:00:00.000Z",
+      "prediction": "",
+      "confidence": null,
+      "status": "upcoming",
+      "result": "pending"
+    },
+    {
+      "id": "c5995fd1-db48-419f-af86-0c258d6ebafb",
+      "series": "Womens T20 Blast",
+      "matchNo": "",
+      "format": "T20",
+      "teamA": {
+        "name": "The Blaze Women",
+        "code": "THE",
+        "color": "#b91c1c"
+      },
+      "teamB": {
+        "name": "Yorkshire Women",
+        "code": "YOR",
+        "color": "#be185d"
+      },
+      "venue": "",
+      "time": "2026-07-12T11:00:00.000Z",
+      "prediction": "",
+      "confidence": null,
+      "status": "upcoming",
+      "result": "pending"
+    },
+    {
+      "id": "18ba1762-afe4-411f-9ac5-08a2b9561aeb",
+      "series": "T20 Blast",
+      "matchNo": "",
+      "format": "T20",
+      "teamA": {
+        "name": "Essex",
+        "code": "ESX",
+        "color": "#0f766e",
+        "logo": "https://g.cricapi.com/iapi/1119-637885549753088458.webp?w=96"
+      },
+      "teamB": {
+        "name": "Surrey",
+        "code": "SUR",
+        "color": "#be185d",
+        "logo": "https://g.cricapi.com/iapi/1133-637885552361099530.webp?w=96"
+      },
+      "venue": "",
+      "time": "2026-07-12T11:00:00.000Z",
+      "prediction": "",
+      "confidence": null,
+      "status": "upcoming",
+      "result": "pending"
+    },
+    {
+      "id": "8bf325b1-024d-40d8-aa56-9ac25d7bda05",
+      "series": "ICC Men's T20 World Cup Europe Sub Regional Qualifier B",
+      "matchNo": "",
+      "format": "T20",
+      "teamA": {
+        "name": "Hungary",
+        "code": "HUN",
+        "color": "#15803d",
+        "logo": "https://g.cricapi.com/iapi/612-637901951267363641.webp?w=96"
+      },
+      "teamB": {
+        "name": "Turkey",
+        "code": "TKY",
+        "color": "#dc2626",
+        "logo": "https://g.cricapi.com/iapi/662-637928913495379365.png?w=96"
+      },
+      "venue": "",
+      "time": "2026-07-12T12:30:00.000Z",
+      "prediction": "",
+      "confidence": null,
+      "status": "upcoming",
+      "result": "pending"
+    },
+    {
+      "id": "4d4b2304-05d0-4ddc-b2cb-709239fafd84",
+      "series": "ICC Men's T20 World Cup Europe Sub Regional Qualifier B",
+      "matchNo": "",
+      "format": "T20",
+      "teamA": {
+        "name": "Gibraltar",
+        "code": "GIB",
+        "color": "#0f766e",
+        "logo": "https://g.cricapi.com/iapi/608-637874527501988013.webp?w=96"
+      },
+      "teamB": {
+        "name": "Serbia",
+        "code": "SRB",
+        "color": "#a16207",
+        "logo": "https://g.cricapi.com/iapi/651-637876983315009937.webp?w=96"
+      },
+      "venue": "",
+      "time": "2026-07-12T12:30:00.000Z",
+      "prediction": "",
+      "confidence": null,
+      "status": "upcoming",
+      "result": "pending"
+    },
+    {
+      "id": "341a5b44-16fc-4bac-8948-189779fab63c",
+      "series": "Maharaja Trophy KSCA T20",
+      "matchNo": "",
+      "format": "T20",
+      "teamA": {
+        "name": "Kalyani Bengaluru Blasters",
+        "code": "KAL",
+        "color": "#ca8a04"
+      },
+      "teamB": {
+        "name": "Shivamogga Yodhas",
+        "code": "SHI",
+        "color": "#9f1239"
+      },
+      "venue": "",
+      "time": "2026-07-12T13:30:00.000Z",
+      "prediction": "",
+      "confidence": null,
+      "status": "upcoming",
+      "result": "pending"
+    },
+    {
+      "id": "391f555a-f05f-4d6c-8bee-41737c0065d9",
+      "series": "TG20",
+      "matchNo": "",
+      "format": "T20",
+      "teamA": {
+        "name": "Anvita Khammam Aces",
+        "code": "ANV",
+        "color": "#7c3aed"
+      },
+      "teamB": {
+        "name": "Hyderabad E Champions",
+        "code": "HYD",
+        "color": "#7c3aed"
+      },
+      "venue": "",
+      "time": "2026-07-12T13:45:00.000Z",
+      "prediction": "",
+      "confidence": null,
+      "status": "upcoming",
+      "result": "pending"
+    },
+    {
+      "id": "bf1fee77-f1de-4fd7-8567-0f06fb981b59",
+      "series": "Womens T20 Blast League Two",
+      "matchNo": "",
+      "format": "T20",
+      "teamA": {
+        "name": "Glamorgan Women",
+        "code": "GLA",
+        "color": "#dc2626"
+      },
+      "teamB": {
+        "name": "Tbc",
+        "code": "TBC",
+        "color": "#0369a1"
+      },
+      "venue": "",
+      "time": "2026-07-12T17:00:00.000Z",
       "prediction": "",
       "confidence": null,
       "status": "upcoming",
