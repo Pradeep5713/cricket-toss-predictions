@@ -1,15 +1,15 @@
 {
-  "updated": "2026-07-13T06:11:54.575Z",
+  "updated": "2026-07-14T05:25:23.015Z",
   "matches": [
     {
-      "id": "57054ef4-b696-4661-9a21-02bed6b3a80e",
+      "id": "672b2f83-4f3b-4d04-9e57-21e88d277340",
       "series": "Major League Cricket",
       "matchNo": "",
       "format": "T20",
       "teamA": {
-        "name": "Texas Super Kings",
-        "code": "TSK",
-        "color": "#1d4ed8"
+        "name": "Mi New York",
+        "code": "MNY",
+        "color": "#7c3aed"
       },
       "teamB": {
         "name": "Washington Freedom",
@@ -17,66 +17,22 @@
         "color": "#be185d"
       },
       "venue": "",
-      "time": "2026-07-12T20:30:00.000Z",
+      "time": "2026-07-13T20:30:00.000Z",
       "prediction": "",
       "confidence": null,
       "status": "done",
       "result": "pending"
     },
     {
-      "id": "badd289a-eabb-4aff-a5ff-ec73d689ecdf",
-      "series": "Major League Cricket",
-      "matchNo": "",
-      "format": "T20",
-      "teamA": {
-        "name": "Los Angeles Knight Riders",
-        "code": "LAKR",
-        "color": "#86198f"
-      },
-      "teamB": {
-        "name": "Texas Super Kings",
-        "code": "TSK",
-        "color": "#1d4ed8"
-      },
-      "venue": "",
-      "time": "2026-07-13T00:30:00.000Z",
-      "prediction": "",
-      "confidence": null,
-      "status": "done",
-      "result": "pending"
-    },
-    {
-      "id": "f10f3998-db68-46b1-b603-2c48fbc7a0d1",
-      "series": "India U19 tour of Sri Lanka",
-      "matchNo": "",
-      "format": "T20",
-      "teamA": {
-        "name": "India U19",
-        "code": "IN19",
-        "color": "#ca8a04"
-      },
-      "teamB": {
-        "name": "Sri Lanka U19",
-        "code": "SL19",
-        "color": "#be185d"
-      },
-      "venue": "",
-      "time": "2026-07-13T04:00:00.000Z",
-      "prediction": "",
-      "confidence": null,
-      "status": "live",
-      "result": "pending"
-    },
-    {
-      "id": "fd06d79e-c3fd-443e-baa1-314ec1ce12f7",
+      "id": "4cbb2900-ca78-416e-af7f-b504cdbff048",
       "series": "ICC Men's T20 World Cup Europe Sub Regional Qualifier B",
       "matchNo": "",
       "format": "T20",
       "teamA": {
-        "name": "Denmark",
-        "code": "DEN",
-        "color": "#a16207",
-        "logo": "https://g.cricapi.com/iapi/599-637867438645047537.webp?w=96"
+        "name": "Belgium",
+        "code": "BEL",
+        "color": "#7c3aed",
+        "logo": "https://g.cricapi.com/iapi/585-637869109610124568.webp?w=96"
       },
       "teamB": {
         "name": "Hungary",
@@ -85,14 +41,14 @@
         "logo": "https://g.cricapi.com/iapi/612-637901951267363641.webp?w=96"
       },
       "venue": "",
-      "time": "2026-07-13T08:30:00.000Z",
+      "time": "2026-07-14T08:30:00.000Z",
       "prediction": "",
       "confidence": null,
       "status": "upcoming",
       "result": "pending"
     },
     {
-      "id": "a7955739-8462-4364-838d-8ae1dc306828",
+      "id": "08acd999-b99c-4c2f-a8e1-400f62a39b5b",
       "series": "ICC Men's T20 World Cup Europe Sub Regional Qualifier B",
       "matchNo": "",
       "format": "T20",
@@ -103,13 +59,85 @@
         "logo": "https://g.cricapi.com/iapi/601-637876983045042040.webp?w=96"
       },
       "teamB": {
-        "name": "Turkey",
-        "code": "TKY",
-        "color": "#dc2626",
-        "logo": "https://g.cricapi.com/iapi/662-637928913495379365.png?w=96"
+        "name": "Serbia",
+        "code": "SRB",
+        "color": "#a16207",
+        "logo": "https://g.cricapi.com/iapi/651-637876983315009937.webp?w=96"
       },
       "venue": "",
-      "time": "2026-07-13T12:30:00.000Z",
+      "time": "2026-07-14T08:30:00.000Z",
+      "prediction": "",
+      "confidence": null,
+      "status": "upcoming",
+      "result": "pending"
+    },
+    {
+      "id": "a5ecf1bb-1f8c-4a4d-9165-67aa61af2ea2",
+      "series": "India tour of England",
+      "matchNo": "",
+      "format": "ODI",
+      "teamA": {
+        "name": "England",
+        "code": "ENG",
+        "color": "#4338ca",
+        "logo": "https://g.cricapi.com/iapi/23-637877072894080569.webp?w=96"
+      },
+      "teamB": {
+        "name": "India",
+        "code": "IND",
+        "color": "#ea580c",
+        "logo": "https://g.cricapi.com/iapi/31-637877061080567215.webp?w=96"
+      },
+      "venue": "",
+      "time": "2026-07-14T12:00:00.000Z",
+      "prediction": "",
+      "confidence": null,
+      "status": "upcoming",
+      "result": "pending"
+    },
+    {
+      "id": "d52908ce-4155-4afd-a645-faf5c0bbe579",
+      "series": "ICC Men's T20 World Cup Europe Sub Regional Qualifier B",
+      "matchNo": "",
+      "format": "T20",
+      "teamA": {
+        "name": "Gibraltar",
+        "code": "GIB",
+        "color": "#0f766e",
+        "logo": "https://g.cricapi.com/iapi/608-637874527501988013.webp?w=96"
+      },
+      "teamB": {
+        "name": "Norway",
+        "code": "NOR",
+        "color": "#dc2626",
+        "logo": "https://g.cricapi.com/iapi/636-637867647006202380.webp?w=96"
+      },
+      "venue": "",
+      "time": "2026-07-14T13:30:00.000Z",
+      "prediction": "",
+      "confidence": null,
+      "status": "upcoming",
+      "result": "pending"
+    },
+    {
+      "id": "d70dc162-3f63-4627-958b-6ade682138ea",
+      "series": "ICC Men's T20 World Cup Europe Sub Regional Qualifier B",
+      "matchNo": "",
+      "format": "T20",
+      "teamA": {
+        "name": "Denmark",
+        "code": "DEN",
+        "color": "#a16207",
+        "logo": "https://g.cricapi.com/iapi/599-637867438645047537.webp?w=96"
+      },
+      "teamB": {
+        "name": "Romania",
+        "code": "ROM",
+        "color": "#0369a1",
+        "logo": "https://g.cricapi.com/iapi/645-637867439654876721.png?w=96"
+      },
+      "venue": "",
+      "time": "2026-07-14T13:30:00.000Z",
       "prediction": "",
       "confidence": null,
       "status": "upcoming",
