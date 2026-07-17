@@ -1,15 +1,37 @@
 {
-  "updated": "2026-07-16T05:36:07.534Z",
+  "updated": "2026-07-17T05:38:06.709Z",
   "matches": [
     {
-      "id": "9fdec011-d6ef-4e4e-b798-14a8ad0cbc1f",
+      "id": "bc0b9b86-091f-4428-bd04-7affffa52bca",
       "series": "Major League Cricket",
       "matchNo": "",
       "format": "T20",
       "teamA": {
-        "name": "Mi New York",
-        "code": "MNY",
-        "color": "#7c3aed"
+        "name": "Los Angeles Knight Riders",
+        "code": "LAKR",
+        "color": "#86198f"
+      },
+      "teamB": {
+        "name": "San Francisco Unicorns",
+        "code": "SFU",
+        "color": "#86198f"
+      },
+      "venue": "",
+      "time": "2026-07-16T21:30:00.000Z",
+      "prediction": "",
+      "confidence": null,
+      "status": "done",
+      "result": "pending"
+    },
+    {
+      "id": "ed486b54-afbd-4c42-be97-804988beebc1",
+      "series": "Major League Cricket",
+      "matchNo": "",
+      "format": "T20",
+      "teamA": {
+        "name": "San Francisco Unicorns",
+        "code": "SFU",
+        "color": "#86198f"
       },
       "teamB": {
         "name": "Washington Freedom",
@@ -17,31 +39,53 @@
         "color": "#be185d"
       },
       "venue": "",
-      "time": "2026-07-16T01:30:00.000Z",
+      "time": "2026-07-17T01:30:00.000Z",
       "prediction": "",
       "confidence": null,
-      "status": "done",
+      "status": "live",
       "result": "pending"
     },
     {
-      "id": "365b2e0f-3659-4429-b6f1-9b44fe69da32",
-      "series": "India tour of England",
+      "id": "de3ace51-a87d-41fc-bf33-4e26c844e079",
+      "series": "Bangladesh tour of Zimbabwe",
       "matchNo": "",
-      "format": "ODI",
+      "format": "T20",
       "teamA": {
-        "name": "England",
-        "code": "ENG",
-        "color": "#4338ca",
-        "logo": "https://g.cricapi.com/iapi/23-637877072894080569.webp?w=96"
+        "name": "Bangladesh",
+        "code": "BAN",
+        "color": "#7c3aed",
+        "logo": "https://g.cricapi.com/iapi/9-637877074109248302.webp?w=96"
       },
       "teamB": {
-        "name": "India",
-        "code": "IND",
-        "color": "#ea580c",
-        "logo": "https://g.cricapi.com/iapi/31-637877061080567215.webp?w=96"
+        "name": "Zimbabwe",
+        "code": "ZIM",
+        "color": "#7c3aed",
+        "logo": "https://g.cricapi.com/iapi/575-637877079629985215.webp?w=96"
       },
       "venue": "",
-      "time": "2026-07-16T12:00:00.000Z",
+      "time": "2026-07-17T11:30:00.000Z",
+      "prediction": "",
+      "confidence": null,
+      "status": "upcoming",
+      "result": "pending"
+    },
+    {
+      "id": "beec4bc5-69c1-4522-bffe-f2542d5d9949",
+      "series": "Lanka Premier League",
+      "matchNo": "",
+      "format": "T20",
+      "teamA": {
+        "name": "Galle Marvels",
+        "code": "GM",
+        "color": "#16a34a"
+      },
+      "teamB": {
+        "name": "Jaffna Kings",
+        "code": "JKS",
+        "color": "#be185d"
+      },
+      "venue": "",
+      "time": "2026-07-17T14:00:00.000Z",
       "prediction": "",
       "confidence": null,
       "status": "upcoming",
