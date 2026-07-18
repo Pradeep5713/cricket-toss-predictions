@@ -1,91 +1,91 @@
 {
-  "updated": "2026-07-17T05:38:06.709Z",
+  "updated": "2026-07-18T05:20:36.767Z",
   "matches": [
     {
-      "id": "bc0b9b86-091f-4428-bd04-7affffa52bca",
-      "series": "Major League Cricket",
+      "id": "86eeb209-0f7f-4d5b-b3a5-dd9642aec6ff",
+      "series": "New Zealand tour of West Indies",
       "matchNo": "",
-      "format": "T20",
+      "format": "ODI",
       "teamA": {
-        "name": "Los Angeles Knight Riders",
-        "code": "LAKR",
-        "color": "#86198f"
+        "name": "New Zealand",
+        "code": "NZ",
+        "color": "#b91c1c",
+        "logo": "https://g.cricapi.com/iapi/57-637877076980737903.webp?w=96"
       },
       "teamB": {
-        "name": "San Francisco Unicorns",
-        "code": "SFU",
-        "color": "#86198f"
+        "name": "West Indies",
+        "code": "WI",
+        "color": "#4338ca",
+        "logo": "https://g.cricapi.com/iapi/100-637877077978319234.webp?w=96"
       },
       "venue": "",
-      "time": "2026-07-16T21:30:00.000Z",
-      "prediction": "",
-      "confidence": null,
-      "status": "done",
-      "result": "pending"
-    },
-    {
-      "id": "ed486b54-afbd-4c42-be97-804988beebc1",
-      "series": "Major League Cricket",
-      "matchNo": "",
-      "format": "T20",
-      "teamA": {
-        "name": "San Francisco Unicorns",
-        "code": "SFU",
-        "color": "#86198f"
-      },
-      "teamB": {
-        "name": "Washington Freedom",
-        "code": "WF",
-        "color": "#be185d"
-      },
-      "venue": "",
-      "time": "2026-07-17T01:30:00.000Z",
+      "time": "2026-07-17T18:30:00.000Z",
       "prediction": "",
       "confidence": null,
       "status": "live",
       "result": "pending"
     },
     {
-      "id": "de3ace51-a87d-41fc-bf33-4e26c844e079",
-      "series": "Bangladesh tour of Zimbabwe",
+      "id": "01bdad82-5ad4-425f-a055-82cbce141a3a",
+      "series": "Lanka Premier League",
       "matchNo": "",
       "format": "T20",
       "teamA": {
-        "name": "Bangladesh",
-        "code": "BAN",
-        "color": "#7c3aed",
-        "logo": "https://g.cricapi.com/iapi/9-637877074109248302.webp?w=96"
+        "name": "Dambulla Sixers",
+        "code": "DS",
+        "color": "#be185d"
       },
       "teamB": {
-        "name": "Zimbabwe",
-        "code": "ZIM",
-        "color": "#7c3aed",
-        "logo": "https://g.cricapi.com/iapi/575-637877079629985215.webp?w=96"
+        "name": "Kandy Falcons",
+        "code": "KAF",
+        "color": "#16a34a"
       },
       "venue": "",
-      "time": "2026-07-17T11:30:00.000Z",
+      "time": "2026-07-18T09:30:00.000Z",
       "prediction": "",
       "confidence": null,
       "status": "upcoming",
       "result": "pending"
     },
     {
-      "id": "beec4bc5-69c1-4522-bffe-f2542d5d9949",
+      "id": "455f1e81-4d24-44a8-9a76-bf4048168705",
       "series": "Lanka Premier League",
       "matchNo": "",
       "format": "T20",
       "teamA": {
+        "name": "Colombo Strikers",
+        "code": "CS",
+        "color": "#0f766e"
+      },
+      "teamB": {
         "name": "Galle Marvels",
         "code": "GM",
         "color": "#16a34a"
       },
+      "venue": "",
+      "time": "2026-07-18T14:00:00.000Z",
+      "prediction": "",
+      "confidence": null,
+      "status": "upcoming",
+      "result": "pending"
+    },
+    {
+      "id": "74c32cb2-807a-4fde-89a0-23bbaa3f7ab2",
+      "series": "Pakistan tour of West Indies",
+      "matchNo": "",
+      "format": "Test",
+      "teamA": {
+        "name": "Pakistan",
+        "code": "PAK",
+        "color": "#1e3a8a"
+      },
       "teamB": {
-        "name": "Jaffna Kings",
-        "code": "JKS",
-        "color": "#be185d"
+        "name": "West Indies Select XI",
+        "code": "WIXI",
+        "color": "#dc2626"
       },
       "venue": "",
-      "time": "2026-07-17T14:00:00.000Z",
+      "time": "2026-07-18T14:00:00.000Z",
       "prediction": "",
       "confidence": null,
       "status": "upcoming",
