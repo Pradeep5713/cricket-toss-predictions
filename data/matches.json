@@ -1,96 +1,50 @@
 {
-  "updated": "2026-07-19T05:47:41.617Z",
+  "updated": "2026-07-20T06:13:19.571Z",
   "matches": [
     {
-      "id": "3519cadf-4bb2-4794-b7db-117e39d610f4",
-      "series": "Lanka Premier League",
-      "matchNo": "",
-      "format": "T20",
-      "teamA": {
-        "name": "Dambulla Sixers",
-        "code": "DS",
-        "color": "#be185d"
-      },
-      "teamB": {
-        "name": "Jaffna Kings",
-        "code": "JKS",
-        "color": "#be185d"
-      },
-      "venue": "",
-      "time": "2026-07-19T09:30:00.000Z",
-      "prediction": "",
-      "confidence": null,
-      "status": "upcoming",
-      "result": "pending"
-    },
-    {
-      "id": "112c507b-c719-4c33-a482-da3d6f1cb117",
-      "series": "India tour of England",
+      "id": "7b34cdf0-1b4e-40ac-985b-a269c2c65bcb",
+      "series": "New Zealand tour of West Indies",
       "matchNo": "",
       "format": "ODI",
       "teamA": {
-        "name": "England",
-        "code": "ENG",
+        "name": "New Zealand",
+        "code": "NZ",
+        "color": "#b91c1c",
+        "logo": "https://g.cricapi.com/iapi/57-637877076980737903.webp?w=96"
+      },
+      "teamB": {
+        "name": "West Indies",
+        "code": "WI",
         "color": "#4338ca",
-        "logo": "https://g.cricapi.com/iapi/23-637877072894080569.webp?w=96"
-      },
-      "teamB": {
-        "name": "India",
-        "code": "IND",
-        "color": "#ea580c",
-        "logo": "https://g.cricapi.com/iapi/31-637877061080567215.webp?w=96"
+        "logo": "https://g.cricapi.com/iapi/100-637877077978319234.webp?w=96"
       },
       "venue": "",
-      "time": "2026-07-19T10:00:00.000Z",
+      "time": "2026-07-19T18:30:00.000Z",
       "prediction": "",
       "confidence": null,
-      "status": "upcoming",
+      "status": "live",
       "result": "pending"
     },
     {
-      "id": "74d7f367-1f5b-4ba0-b9dd-8c5b744e234e",
-      "series": "Bangladesh tour of Zimbabwe",
+      "id": "689dc21b-ae0b-4b69-825a-cef3b16139bd",
+      "series": "India U19 tour of Sri Lanka",
       "matchNo": "",
       "format": "T20",
       "teamA": {
-        "name": "Bangladesh",
-        "code": "BAN",
-        "color": "#7c3aed",
-        "logo": "https://g.cricapi.com/iapi/9-637877074109248302.webp?w=96"
+        "name": "India U19",
+        "code": "IN19",
+        "color": "#ca8a04"
       },
       "teamB": {
-        "name": "Zimbabwe",
-        "code": "ZIM",
-        "color": "#7c3aed",
-        "logo": "https://g.cricapi.com/iapi/575-637877079629985215.webp?w=96"
+        "name": "Sri Lanka U19",
+        "code": "SL19",
+        "color": "#be185d"
       },
       "venue": "",
-      "time": "2026-07-19T11:30:00.000Z",
+      "time": "2026-07-20T04:00:00.000Z",
       "prediction": "",
       "confidence": null,
-      "status": "upcoming",
-      "result": "pending"
-    },
-    {
-      "id": "f1cc0dc7-2db7-4744-a18b-fc42d90bc53f",
-      "series": "Lanka Premier League",
-      "matchNo": "",
-      "format": "T20",
-      "teamA": {
-        "name": "Colombo Strikers",
-        "code": "CS",
-        "color": "#0f766e"
-      },
-      "teamB": {
-        "name": "Kandy Falcons",
-        "code": "KAF",
-        "color": "#16a34a"
-      },
-      "venue": "",
-      "time": "2026-07-19T14:00:00.000Z",
-      "prediction": "",
-      "confidence": null,
-      "status": "upcoming",
+      "status": "live",
       "result": "pending"
     }
   ]
