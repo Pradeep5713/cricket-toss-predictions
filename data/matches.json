@@ -1,353 +1,93 @@
 {
-  "updated": "2026-07-26T05:56:44.366Z",
+  "updated": "2026-07-27T06:25:18.699Z",
   "matches": [
     {
-      "id": "64d50d1d-4ff9-4c2e-ac5e-45021284e747",
-      "series": "Lanka Premier League",
-      "matchNo": "",
-      "format": "T20",
-      "teamA": {
-        "name": "Jaffna Kings",
-        "code": "JKS",
-        "color": "#be185d"
-      },
-      "teamB": {
-        "name": "Kandy Royals",
-        "code": "KAN",
-        "color": "#16a34a"
-      },
-      "venue": "",
-      "time": "2026-07-26T09:30:00.000Z",
-      "prediction": "",
-      "confidence": null,
-      "status": "upcoming",
-      "result": "pending"
-    },
-    {
-      "id": "7961e04f-8d3c-482b-83f3-fe7caea5f27f",
-      "series": "England Domestic One-Day Cup",
+      "id": "2cc4cb6d-50e2-4ca3-8ad6-70f0a3a8c5f9",
+      "series": "ICC Cricket World Cup League Two",
       "matchNo": "",
       "format": "ODI",
       "teamA": {
-        "name": "Hampshire",
-        "code": "HAM",
+        "name": "Namibia",
+        "code": "NAM",
         "color": "#86198f",
-        "logo": "https://g.cricapi.com/iapi/1122-637885550993657486.webp?w=96"
+        "logo": "https://g.cricapi.com/iapi/53-637877082656229722.webp?w=96"
       },
       "teamB": {
-        "name": "Worcestershire",
-        "code": "WRCS",
-        "color": "#1e3a8a",
-        "logo": "https://g.cricapi.com/iapi/1138-637889091123850841.webp?w=96"
-      },
-      "venue": "",
-      "time": "2026-07-26T10:00:00.000Z",
-      "prediction": "",
-      "confidence": null,
-      "status": "upcoming",
-      "result": "pending"
-    },
-    {
-      "id": "6f110bb4-969d-4daf-acbc-de6a3ecf5100",
-      "series": "England Domestic One-Day Cup",
-      "matchNo": "",
-      "format": "ODI",
-      "teamA": {
-        "name": "Derbyshire",
-        "code": "DERB",
-        "color": "#16a34a",
-        "logo": "https://g.cricapi.com/iapi/1117-637889091569915358.webp?w=96"
-      },
-      "teamB": {
-        "name": "Essex",
-        "code": "ESX",
-        "color": "#0f766e",
-        "logo": "https://g.cricapi.com/iapi/1119-637885549753088458.webp?w=96"
-      },
-      "venue": "",
-      "time": "2026-07-26T10:00:00.000Z",
-      "prediction": "",
-      "confidence": null,
-      "status": "upcoming",
-      "result": "pending"
-    },
-    {
-      "id": "bba1ad50-7aef-47ad-8cf3-de614fb0b75e",
-      "series": "England Domestic One-Day Cup",
-      "matchNo": "",
-      "format": "ODI",
-      "teamA": {
-        "name": "Glamorgan",
-        "code": "GLAM",
-        "color": "#1d4ed8",
-        "logo": "https://g.cricapi.com/iapi/1120-637889090390357869.webp?w=96"
-      },
-      "teamB": {
-        "name": "Middlesex",
-        "code": "MDX",
-        "color": "#b91c1c",
-        "logo": "https://g.cricapi.com/iapi/1127-637889091340507643.webp?w=96"
-      },
-      "venue": "",
-      "time": "2026-07-26T10:00:00.000Z",
-      "prediction": "",
-      "confidence": null,
-      "status": "upcoming",
-      "result": "pending"
-    },
-    {
-      "id": "ad08f5b9-c34b-4f08-b5ac-9d2f553f1366",
-      "series": "England Domestic One-Day Cup",
-      "matchNo": "",
-      "format": "ODI",
-      "teamA": {
-        "name": "Northamptonshire",
-        "code": "NOR",
-        "color": "#7c3aed",
-        "logo": "https://g.cricapi.com/iapi/1129-637885551856435418.webp?w=96"
-      },
-      "teamB": {
-        "name": "Surrey",
-        "code": "SUR",
-        "color": "#be185d",
-        "logo": "https://g.cricapi.com/iapi/1133-637885552361099530.webp?w=96"
-      },
-      "venue": "",
-      "time": "2026-07-26T10:00:00.000Z",
-      "prediction": "",
-      "confidence": null,
-      "status": "upcoming",
-      "result": "pending"
-    },
-    {
-      "id": "b761b9c9-4a3b-46a6-ab01-8d3a84e89913",
-      "series": "England Domestic One-Day Cup",
-      "matchNo": "",
-      "format": "ODI",
-      "teamA": {
-        "name": "Somerset",
-        "code": "SOM",
+        "name": "Nepal",
+        "code": "NEP",
         "color": "#ca8a04",
-        "logo": "https://g.cricapi.com/iapi/1131-637885552070524344.webp?w=96"
-      },
-      "teamB": {
-        "name": "Warwickshire",
-        "code": "WRKS",
-        "color": "#0369a1",
-        "logo": "https://g.cricapi.com/iapi/1137-637885552592685258.webp?w=96"
+        "logo": "https://g.cricapi.com/iapi/54-637877084789981539.webp?w=96"
       },
       "venue": "",
-      "time": "2026-07-26T10:00:00.000Z",
+      "time": "2026-07-27T00:00:00.000Z",
       "prediction": "",
       "confidence": null,
-      "status": "upcoming",
+      "status": "live",
       "result": "pending"
     },
     {
-      "id": "ad730a87-000f-4d66-8696-68ceff8a853a",
-      "series": "England Domestic One-Day Cup",
-      "matchNo": "",
-      "format": "ODI",
-      "teamA": {
-        "name": "Sussex",
-        "code": "SUSS",
-        "color": "#0369a1",
-        "logo": "https://g.cricapi.com/iapi/1134-637889091814592518.webp?w=96"
-      },
-      "teamB": {
-        "name": "Yorkshire",
-        "code": "YRK",
-        "color": "#0f766e",
-        "logo": "https://g.cricapi.com/iapi/1139-637885552795894277.webp?w=96"
-      },
-      "venue": "",
-      "time": "2026-07-26T10:00:00.000Z",
-      "prediction": "",
-      "confidence": null,
-      "status": "upcoming",
-      "result": "pending"
-    },
-    {
-      "id": "d857ae23-8ec3-431f-ba3a-5146ab3624b5",
-      "series": "England Domestic One-Day Cup",
-      "matchNo": "",
-      "format": "ODI",
-      "teamA": {
-        "name": "Lancashire",
-        "code": "LNCS",
-        "color": "#1d4ed8",
-        "logo": "https://g.cricapi.com/iapi/1125-637885551497331567.webp?w=96"
-      },
-      "teamB": {
-        "name": "Leicestershire",
-        "code": "LECS",
-        "color": "#ea580c",
-        "logo": "https://g.cricapi.com/iapi/1126-637889090878436462.webp?w=96"
-      },
-      "venue": "",
-      "time": "2026-07-26T10:00:00.000Z",
-      "prediction": "",
-      "confidence": null,
-      "status": "upcoming",
-      "result": "pending"
-    },
-    {
-      "id": "1c6ebb5d-1341-4c4b-b3b1-397452003b4b",
-      "series": "England Domestic One-Day Cup",
-      "matchNo": "",
-      "format": "ODI",
-      "teamA": {
-        "name": "Gloucestershire",
-        "code": "GLOU",
-        "color": "#9f1239",
-        "logo": "https://g.cricapi.com/iapi/1121-637885550747990018.webp?w=96"
-      },
-      "teamB": {
-        "name": "Kent",
-        "code": "KENT",
-        "color": "#1d4ed8",
-        "logo": "https://g.cricapi.com/iapi/1124-637885551212175895.webp?w=96"
-      },
-      "venue": "",
-      "time": "2026-07-26T10:00:00.000Z",
-      "prediction": "",
-      "confidence": null,
-      "status": "upcoming",
-      "result": "pending"
-    },
-    {
-      "id": "159a6815-d7bf-40da-b51b-262dceb33e4b",
-      "series": "The Hundred Women's Competition",
+      "id": "278a67eb-76f6-4881-aa6b-f164cffb6a90",
+      "series": "Women's T20I Quadrangular Series in Namibia",
       "matchNo": "",
       "format": "T20",
       "teamA": {
-        "name": "Birmingham Phoenix Women",
-        "code": "BPW",
-        "color": "#b91c1c"
-      },
-      "teamB": {
-        "name": "Manchester Super Giants Women",
-        "code": "MSGW",
-        "color": "#1e3a8a"
-      },
-      "venue": "",
-      "time": "2026-07-26T10:00:00.000Z",
-      "prediction": "",
-      "confidence": null,
-      "status": "upcoming",
-      "result": "pending"
-    },
-    {
-      "id": "1f11e2ab-0cdd-4a4c-b61d-5e7b128e3b6e",
-      "series": "India tour of Zimbabwe",
-      "matchNo": "",
-      "format": "T20",
-      "teamA": {
-        "name": "India",
-        "code": "IND",
-        "color": "#ea580c",
-        "logo": "https://g.cricapi.com/iapi/31-637877061080567215.webp?w=96"
-      },
-      "teamB": {
-        "name": "Zimbabwe",
-        "code": "ZIM",
-        "color": "#7c3aed",
-        "logo": "https://g.cricapi.com/iapi/575-637877079629985215.webp?w=96"
-      },
-      "venue": "",
-      "time": "2026-07-26T11:00:00.000Z",
-      "prediction": "",
-      "confidence": null,
-      "status": "upcoming",
-      "result": "pending"
-    },
-    {
-      "id": "da6e13ec-3e46-4995-a67a-883af100a48c",
-      "series": "The Hundred Men's Competition",
-      "matchNo": "",
-      "format": "T20",
-      "teamA": {
-        "name": "Birmingham Phoenix",
-        "code": "BRM",
-        "color": "#7c3aed"
-      },
-      "teamB": {
-        "name": "Manchester Super Giants",
-        "code": "MSG",
-        "color": "#16a34a"
-      },
-      "venue": "",
-      "time": "2026-07-26T13:30:00.000Z",
-      "prediction": "",
-      "confidence": null,
-      "status": "upcoming",
-      "result": "pending"
-    },
-    {
-      "id": "4b8feb1a-e728-42c1-9b66-53ae252ffad6",
-      "series": "The Hundred Women's Competition",
-      "matchNo": "",
-      "format": "T20",
-      "teamA": {
-        "name": "London Spirit Women",
-        "code": "LSW",
-        "color": "#ea580c",
-        "logo": "https://g.cricapi.com/iapi/2012-637967615150875023.webp?w=96"
-      },
-      "teamB": {
-        "name": "Trent Rockets Women",
-        "code": "TRW",
-        "color": "#a16207",
-        "logo": "https://g.cricapi.com/iapi/2034-637967614126146514.webp?w=96"
-      },
-      "venue": "",
-      "time": "2026-07-26T13:30:00.000Z",
-      "prediction": "",
-      "confidence": null,
-      "status": "upcoming",
-      "result": "pending"
-    },
-    {
-      "id": "0dce0b87-eaa5-437f-b4fa-fafb7e7bf10f",
-      "series": "Lanka Premier League",
-      "matchNo": "",
-      "format": "T20",
-      "teamA": {
-        "name": "Dambulla Sixers",
-        "code": "DS",
-        "color": "#be185d"
-      },
-      "teamB": {
-        "name": "Galle Gallants",
-        "code": "GAL",
-        "color": "#86198f"
-      },
-      "venue": "",
-      "time": "2026-07-26T14:00:00.000Z",
-      "prediction": "",
-      "confidence": null,
-      "status": "upcoming",
-      "result": "pending"
-    },
-    {
-      "id": "e6138a76-53e4-48b0-bc60-fea6eb74d24c",
-      "series": "The Hundred Men's Competition",
-      "matchNo": "",
-      "format": "T20",
-      "teamA": {
-        "name": "London Spirit",
-        "code": "LDN",
+        "name": "Namibia Women",
+        "code": "NAMW",
         "color": "#4338ca",
-        "logo": "https://g.cricapi.com/iapi/213-637885742154787685.webp?w=96"
+        "logo": "https://g.cricapi.com/iapi/1128-637877082812217889.webp?w=96"
       },
       "teamB": {
-        "name": "Trent Rockets",
-        "code": "TRE",
-        "color": "#9f1239",
-        "logo": "https://g.cricapi.com/iapi/292-637885742365093855.webp?w=96"
+        "name": "Uganda Women",
+        "code": "UGAW",
+        "color": "#a16207",
+        "logo": "https://g.cricapi.com/iapi/1135-637877086844153505.webp?w=96"
       },
       "venue": "",
-      "time": "2026-07-26T17:00:00.000Z",
+      "time": "2026-07-27T12:00:00.000Z",
+      "prediction": "",
+      "confidence": null,
+      "status": "upcoming",
+      "result": "pending"
+    },
+    {
+      "id": "c556e542-b7a9-4c38-9011-be43e8af9e74",
+      "series": "The Hundred Women's Competition",
+      "matchNo": "",
+      "format": "T20",
+      "teamA": {
+        "name": "Mi London Women",
+        "code": "MIL",
+        "color": "#a16207"
+      },
+      "teamB": {
+        "name": "Southern Brave Women",
+        "code": "SBW",
+        "color": "#15803d"
+      },
+      "venue": "",
+      "time": "2026-07-27T14:00:00.000Z",
+      "prediction": "",
+      "confidence": null,
+      "status": "upcoming",
+      "result": "pending"
+    },
+    {
+      "id": "52c82f7d-e2f3-4c38-a5af-537f8ed1109b",
+      "series": "The Hundred Men's Competition",
+      "matchNo": "",
+      "format": "T20",
+      "teamA": {
+        "name": "Mi London",
+        "code": "MIL",
+        "color": "#9f1239"
+      },
+      "teamB": {
+        "name": "Southern Brave",
+        "code": "SOU",
+        "color": "#ca8a04"
+      },
+      "venue": "",
+      "time": "2026-07-27T17:30:00.000Z",
       "prediction": "",
       "confidence": null,
       "status": "upcoming",
