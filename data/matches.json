@@ -1,69 +1,255 @@
 {
-  "updated": "2026-08-04T05:43:27.624Z",
+  "updated": "2026-08-05T05:42:29.998Z",
   "matches": [
     {
-      "id": "96b1e656-fab9-4e33-9149-098ad3dd9c45",
+      "id": "5f915a09-ce8e-48be-88c3-0cc0e78548ad",
+      "series": "Lanka Premier League",
+      "matchNo": "",
+      "format": "T20",
+      "teamA": {
+        "name": "Galle Gallants",
+        "code": "GAL",
+        "color": "#86198f"
+      },
+      "teamB": {
+        "name": "Jaffna Kings",
+        "code": "JKS",
+        "color": "#be185d"
+      },
+      "venue": "",
+      "time": "2026-08-05T09:30:00.000Z",
+      "prediction": "",
+      "confidence": null,
+      "status": "upcoming",
+      "result": "pending"
+    },
+    {
+      "id": "b18d64b2-6b44-4147-847b-9fbab84b03dd",
+      "series": "Afghanistan tour of Ireland",
+      "matchNo": "",
+      "format": "ODI",
+      "teamA": {
+        "name": "Afghanistan",
+        "code": "AFG",
+        "color": "#ca8a04",
+        "logo": "https://g.cricapi.com/iapi/1-637877075587179422.webp?w=96"
+      },
+      "teamB": {
+        "name": "Ireland",
+        "code": "IRE",
+        "color": "#ea580c",
+        "logo": "https://g.cricapi.com/iapi/33-637926315578500224.png?w=96"
+      },
+      "venue": "",
+      "time": "2026-08-05T09:45:00.000Z",
+      "prediction": "",
+      "confidence": null,
+      "status": "upcoming",
+      "result": "pending"
+    },
+    {
+      "id": "1b75e24c-f40f-4adc-bd9d-513c0558df2a",
+      "series": "England Domestic One-Day Cup",
+      "matchNo": "",
+      "format": "ODI",
+      "teamA": {
+        "name": "Kent",
+        "code": "KENT",
+        "color": "#1d4ed8",
+        "logo": "https://g.cricapi.com/iapi/1124-637885551212175895.webp?w=96"
+      },
+      "teamB": {
+        "name": "Surrey",
+        "code": "SUR",
+        "color": "#be185d",
+        "logo": "https://g.cricapi.com/iapi/1133-637885552361099530.webp?w=96"
+      },
+      "venue": "",
+      "time": "2026-08-05T10:00:00.000Z",
+      "prediction": "",
+      "confidence": null,
+      "status": "upcoming",
+      "result": "pending"
+    },
+    {
+      "id": "09aeb163-b2c0-450b-8f31-f74902f9b3d7",
+      "series": "England Domestic One-Day Cup",
+      "matchNo": "",
+      "format": "ODI",
+      "teamA": {
+        "name": "Glamorgan",
+        "code": "GLAM",
+        "color": "#1d4ed8",
+        "logo": "https://g.cricapi.com/iapi/1120-637889090390357869.webp?w=96"
+      },
+      "teamB": {
+        "name": "Hampshire",
+        "code": "HAM",
+        "color": "#86198f",
+        "logo": "https://g.cricapi.com/iapi/1122-637885550993657486.webp?w=96"
+      },
+      "venue": "",
+      "time": "2026-08-05T10:00:00.000Z",
+      "prediction": "",
+      "confidence": null,
+      "status": "upcoming",
+      "result": "pending"
+    },
+    {
+      "id": "a9918a15-cc50-4868-ad79-56d22924288f",
       "series": "Tamil Nadu Premier League",
       "matchNo": "",
       "format": "T20",
       "teamA": {
-        "name": "Dindigul Dragons",
-        "code": "DD",
-        "color": "#1d4ed8",
-        "logo": "https://g.cricapi.com/iapi/153-637951184351143751.webp?w=96"
+        "name": "Madurai Panthers",
+        "code": "MP",
+        "color": "#1d4ed8"
       },
       "teamB": {
-        "name": "IDream Tiruppur Tamizhans",
-        "code": "ITT",
-        "color": "#a16207",
-        "logo": "https://g.cricapi.com/iapi/181-637945148142038694.webp?w=96"
+        "name": "Trichy Grand Cholas",
+        "code": "TGC",
+        "color": "#16a34a"
       },
       "venue": "",
-      "time": "2026-08-04T14:00:00.000Z",
+      "time": "2026-08-05T10:00:00.000Z",
       "prediction": "",
       "confidence": null,
       "status": "upcoming",
       "result": "pending"
     },
     {
-      "id": "6eb20796-0017-47dc-b101-77e6e6f3dabc",
+      "id": "3d7d2de3-23b1-4901-aba1-f1886b9a4f8c",
       "series": "The Hundred Women's Competition",
       "matchNo": "",
       "format": "T20",
       "teamA": {
-        "name": "London Spirit Women",
-        "code": "LSW",
-        "color": "#ea580c"
+        "name": "Manchester Super Giants Women",
+        "code": "MSGW",
+        "color": "#1e3a8a"
       },
       "teamB": {
-        "name": "Sunrisers Leeds Women",
-        "code": "SLW",
-        "color": "#16a34a"
+        "name": "Welsh Fire Women",
+        "code": "WFW",
+        "color": "#b91c1c"
       },
       "venue": "",
-      "time": "2026-08-04T14:00:00.000Z",
+      "time": "2026-08-05T10:30:00.000Z",
       "prediction": "",
       "confidence": null,
       "status": "upcoming",
       "result": "pending"
     },
     {
-      "id": "ffda29bd-24de-4837-8720-5dc498f4434a",
+      "id": "fdc840bd-8fea-4ddb-b2cb-f4f2928a6fb0",
+      "series": "Tamil Nadu Premier League",
+      "matchNo": "",
+      "format": "T20",
+      "teamA": {
+        "name": "Chepauk Super Gillies",
+        "code": "CSG",
+        "color": "#ea580c",
+        "logo": "https://g.cricapi.com/iapi/136-637957472174708637.webp?w=96"
+      },
+      "teamB": {
+        "name": "Nellai Royal Kings",
+        "code": "NRK",
+        "color": "#15803d",
+        "logo": "https://g.cricapi.com/iapi/229-637939378110909048.webp?w=96"
+      },
+      "venue": "",
+      "time": "2026-08-05T14:00:00.000Z",
+      "prediction": "",
+      "confidence": null,
+      "status": "upcoming",
+      "result": "pending"
+    },
+    {
+      "id": "18ffe78e-d83e-4dc9-b958-3033ccd65a73",
       "series": "The Hundred Men's Competition",
       "matchNo": "",
       "format": "T20",
       "teamA": {
-        "name": "London Spirit",
-        "code": "LDN",
-        "color": "#4338ca"
+        "name": "Manchester Super Giants",
+        "code": "MSG",
+        "color": "#16a34a"
       },
       "teamB": {
-        "name": "Sunrisers Leeds",
-        "code": "SL",
-        "color": "#b91c1c"
+        "name": "Welsh Fire",
+        "code": "WEF",
+        "color": "#7c3aed"
       },
       "venue": "",
-      "time": "2026-08-04T17:30:00.000Z",
+      "time": "2026-08-05T14:00:00.000Z",
+      "prediction": "",
+      "confidence": null,
+      "status": "upcoming",
+      "result": "pending"
+    },
+    {
+      "id": "09167c64-daf0-40e3-b4e0-4eb32ddcf92c",
+      "series": "Lanka Premier League",
+      "matchNo": "",
+      "format": "T20",
+      "teamA": {
+        "name": "Colombo Kaps",
+        "code": "COL",
+        "color": "#dc2626"
+      },
+      "teamB": {
+        "name": "Kandy Royals",
+        "code": "KAN",
+        "color": "#16a34a"
+      },
+      "venue": "",
+      "time": "2026-08-05T14:00:00.000Z",
+      "prediction": "",
+      "confidence": null,
+      "status": "upcoming",
+      "result": "pending"
+    },
+    {
+      "id": "3b52b48c-7cd4-476f-9c1b-4155162e1f4a",
+      "series": "The Hundred Women's Competition",
+      "matchNo": "",
+      "format": "T20",
+      "teamA": {
+        "name": "Birmingham Phoenix Women",
+        "code": "BPW",
+        "color": "#b91c1c",
+        "logo": "https://g.cricapi.com/iapi/2032-637967614376906477.webp?w=96"
+      },
+      "teamB": {
+        "name": "Trent Rockets Women",
+        "code": "TRW",
+        "color": "#a16207",
+        "logo": "https://g.cricapi.com/iapi/2034-637967614126146514.webp?w=96"
+      },
+      "venue": "",
+      "time": "2026-08-05T14:00:00.000Z",
+      "prediction": "",
+      "confidence": null,
+      "status": "upcoming",
+      "result": "pending"
+    },
+    {
+      "id": "93d6377c-6a7f-4e01-aa9b-28423d159585",
+      "series": "The Hundred Men's Competition",
+      "matchNo": "",
+      "format": "T20",
+      "teamA": {
+        "name": "Birmingham Phoenix",
+        "code": "BRM",
+        "color": "#7c3aed",
+        "logo": "https://g.cricapi.com/iapi/126-637885741951450455.webp?w=96"
+      },
+      "teamB": {
+        "name": "Trent Rockets",
+        "code": "TRE",
+        "color": "#9f1239",
+        "logo": "https://g.cricapi.com/iapi/292-637885742365093855.webp?w=96"
+      },
+      "venue": "",
+      "time": "2026-08-05T17:30:00.000Z",
       "prediction": "",
       "confidence": null,
       "status": "upcoming",
