@@ -1,163 +1,91 @@
 {
-  "updated": "2026-08-12T04:44:23.369Z",
+  "updated": "2026-08-13T04:47:30.691Z",
   "matches": [
     {
-      "id": "abd11553-6082-4611-8994-8dca421f30ca",
-      "series": "Afghanistan tour of Ireland",
+      "id": "a2ebf416-f720-4aa6-b038-9f8bed5cb78f",
+      "series": "Caribbean Premier League",
       "matchNo": "",
-      "format": "ODI",
+      "format": "T20",
       "teamA": {
-        "name": "Afghanistan",
-        "code": "AFG",
-        "color": "#ca8a04",
-        "logo": "https://g.cricapi.com/iapi/1-637877075587179422.webp?w=96"
+        "name": "Saint Lucia Kings",
+        "code": "SLK",
+        "color": "#16a34a",
+        "logo": "https://g.cricapi.com/iapi/266-637937643184202597.webp?w=96"
       },
       "teamB": {
-        "name": "Ireland",
-        "code": "IRE",
-        "color": "#ea580c",
-        "logo": "https://g.cricapi.com/iapi/33-637926315578500224.png?w=96"
+        "name": "St Kitts and Nevis Patriots",
+        "code": "SNP",
+        "color": "#dc2626",
+        "logo": "https://g.cricapi.com/iapi/277-637937608859640652.webp?w=96"
       },
       "venue": "",
-      "time": "2026-08-12T09:45:00.000Z",
+      "time": "2026-08-12T23:00:00.000Z",
       "prediction": "",
       "confidence": null,
-      "status": "upcoming",
+      "status": "done",
       "result": "pending"
     },
     {
-      "id": "d38b5e89-4548-47f4-a3fa-255e4ed454ce",
+      "id": "b58ef995-1045-41a1-84e9-706debbc20d5",
+      "series": "Caribbean Premier League",
+      "matchNo": "",
+      "format": "T20",
+      "teamA": {
+        "name": "Guyana Amazon Warriors",
+        "code": "GAW",
+        "color": "#be185d"
+      },
+      "teamB": {
+        "name": "Jamaica Kingsmen",
+        "code": "JAM",
+        "color": "#dc2626"
+      },
+      "venue": "",
+      "time": "2026-08-13T00:00:00.000Z",
+      "prediction": "",
+      "confidence": null,
+      "status": "live",
+      "result": "pending"
+    },
+    {
+      "id": "f4e22c29-a051-446b-991f-8234b21efd0f",
       "series": "Tamil Nadu Premier League",
       "matchNo": "",
       "format": "T20",
       "teamA": {
-        "name": "Chepauk Super Gillies",
-        "code": "CSG",
-        "color": "#ea580c",
-        "logo": "https://g.cricapi.com/iapi/136-637957472174708637.webp?w=96"
+        "name": "Nellai Royal Kings",
+        "code": "NRK",
+        "color": "#15803d"
       },
       "teamB": {
-        "name": "Salem Spartans",
-        "code": "SLST",
-        "color": "#a16207",
-        "logo": "https://g.cricapi.com/iapi/267-637937642932634596.webp?w=96"
+        "name": "Vida Kovai Kings",
+        "code": "VID",
+        "color": "#be185d"
       },
       "venue": "",
-      "time": "2026-08-12T10:00:00.000Z",
+      "time": "2026-08-13T10:00:00.000Z",
       "prediction": "",
       "confidence": null,
       "status": "upcoming",
       "result": "pending"
     },
     {
-      "id": "5e52633e-0086-4190-8c82-f6e706a3015a",
-      "series": "The Hundred Women's Competition",
+      "id": "0860c2b5-37e1-4fa8-9f15-236f93086fc2",
+      "series": "Tamil Nadu Premier League",
       "matchNo": "",
       "format": "T20",
       "teamA": {
-        "name": "London Spirit Women",
-        "code": "LSW",
-        "color": "#ea580c",
-        "logo": "https://g.cricapi.com/iapi/2012-637967615150875023.webp?w=96"
-      },
-      "teamB": {
-        "name": "Welsh Fire Women",
-        "code": "WFW",
-        "color": "#b91c1c",
-        "logo": "https://g.cricapi.com/iapi/2035-637967614013026521.webp?w=96"
-      },
-      "venue": "",
-      "time": "2026-08-12T10:30:00.000Z",
-      "prediction": "",
-      "confidence": null,
-      "status": "upcoming",
-      "result": "pending"
-    },
-    {
-      "id": "81af69dd-935e-4604-8345-01eed24df2b0",
-      "series": "The Hundred Women's Competition",
-      "matchNo": "",
-      "format": "T20",
-      "teamA": {
-        "name": "Birmingham Phoenix Women",
-        "code": "BPW",
-        "color": "#b91c1c"
-      },
-      "teamB": {
-        "name": "Mi London Women",
-        "code": "MIL",
+        "name": "IDream Tiruppur Tamizhans",
+        "code": "ITT",
         "color": "#a16207"
       },
-      "venue": "",
-      "time": "2026-08-12T14:00:00.000Z",
-      "prediction": "",
-      "confidence": null,
-      "status": "upcoming",
-      "result": "pending"
-    },
-    {
-      "id": "d423dab8-cc06-4676-98f6-105fcd48c9be",
-      "series": "Tamil Nadu Premier League",
-      "matchNo": "",
-      "format": "T20",
-      "teamA": {
-        "name": "Dindigul Dragons",
-        "code": "DD",
-        "color": "#1d4ed8"
-      },
       "teamB": {
-        "name": "Siechem Madurai Panthers",
-        "code": "SMP",
-        "color": "#ca8a04"
+        "name": "Trichy Grand Cholas",
+        "code": "TGC",
+        "color": "#16a34a"
       },
       "venue": "",
-      "time": "2026-08-12T14:00:00.000Z",
-      "prediction": "",
-      "confidence": null,
-      "status": "upcoming",
-      "result": "pending"
-    },
-    {
-      "id": "5beda5ac-4cd7-46c3-bf19-0657d46222d3",
-      "series": "The Hundred Men's Competition",
-      "matchNo": "",
-      "format": "T20",
-      "teamA": {
-        "name": "London Spirit",
-        "code": "LDN",
-        "color": "#4338ca",
-        "logo": "https://g.cricapi.com/iapi/213-637885742154787685.webp?w=96"
-      },
-      "teamB": {
-        "name": "Welsh Fire",
-        "code": "WEF",
-        "color": "#7c3aed",
-        "logo": "https://g.cricapi.com/iapi/303-637885743181447004.webp?w=96"
-      },
-      "venue": "",
-      "time": "2026-08-12T14:00:00.000Z",
-      "prediction": "",
-      "confidence": null,
-      "status": "upcoming",
-      "result": "pending"
-    },
-    {
-      "id": "d223b770-da84-4490-b317-267588a969e4",
-      "series": "The Hundred Men's Competition",
-      "matchNo": "",
-      "format": "T20",
-      "teamA": {
-        "name": "Birmingham Phoenix",
-        "code": "BRM",
-        "color": "#7c3aed"
-      },
-      "teamB": {
-        "name": "Mi London",
-        "code": "MIL",
-        "color": "#9f1239"
-      },
-      "venue": "",
-      "time": "2026-08-12T17:30:00.000Z",
+      "time": "2026-08-13T14:00:00.000Z",
       "prediction": "",
       "confidence": null,
       "status": "upcoming",
