@@ -1,96 +1,26 @@
 {
-  "updated": "2026-08-16T03:43:17.404Z",
+  "updated": "2026-08-17T03:45:11.392Z",
   "matches": [
     {
-      "id": "67b24f5c-ca0b-43ae-8ef2-b199a740bebe",
-      "series": "England Domestic One-Day Cup",
-      "matchNo": "",
-      "format": "ODI",
-      "teamA": {
-        "name": "Durham",
-        "code": "DURH",
-        "color": "#7c3aed",
-        "logo": "https://g.cricapi.com/iapi/1118-637889090599643548.webp?w=96"
-      },
-      "teamB": {
-        "name": "Middlesex",
-        "code": "MDX",
-        "color": "#b91c1c",
-        "logo": "https://g.cricapi.com/iapi/1127-637889091340507643.webp?w=96"
-      },
-      "venue": "",
-      "time": "2026-08-16T10:00:00.000Z",
-      "prediction": "",
-      "confidence": null,
-      "status": "upcoming",
-      "result": "pending"
-    },
-    {
-      "id": "5ea5f86b-8314-473f-a3cc-3d0decf37012",
-      "series": "England Domestic One-Day Cup",
-      "matchNo": "",
-      "format": "ODI",
-      "teamA": {
-        "name": "Leicestershire",
-        "code": "LECS",
-        "color": "#ea580c",
-        "logo": "https://g.cricapi.com/iapi/1126-637889090878436462.webp?w=96"
-      },
-      "teamB": {
-        "name": "Nottinghamshire",
-        "code": "NOT",
-        "color": "#ca8a04",
-        "logo": "https://g.cricapi.com/iapi/1130-637889092060873937.webp?w=96"
-      },
-      "venue": "",
-      "time": "2026-08-16T10:00:00.000Z",
-      "prediction": "",
-      "confidence": null,
-      "status": "upcoming",
-      "result": "pending"
-    },
-    {
-      "id": "5a209a6b-c8ed-4931-b392-57d106889dcc",
-      "series": "The Hundred Women's Competition",
+      "id": "fee080ab-e8fe-4579-9e81-40d75f31ebbb",
+      "series": "Caribbean Premier League",
       "matchNo": "",
       "format": "T20",
       "teamA": {
-        "name": "Sunrisers Leeds Women",
-        "code": "SLW",
-        "color": "#16a34a"
+        "name": "Barbados Tridents",
+        "code": "BAR",
+        "color": "#86198f"
       },
       "teamB": {
-        "name": "Trent Rockets Women",
-        "code": "TRW",
-        "color": "#a16207"
-      },
-      "venue": "",
-      "time": "2026-08-16T13:15:00.000Z",
-      "prediction": "",
-      "confidence": null,
-      "status": "upcoming",
-      "result": "pending"
-    },
-    {
-      "id": "a031df55-6d10-4dfd-b45c-ba4fc9edeaa0",
-      "series": "The Hundred Men's Competition",
-      "matchNo": "",
-      "format": "T20",
-      "teamA": {
-        "name": "Manchester Super Giants",
-        "code": "MSG",
+        "name": "Saint Lucia Kings",
+        "code": "SLK",
         "color": "#16a34a"
       },
-      "teamB": {
-        "name": "Trent Rockets",
-        "code": "TRE",
-        "color": "#9f1239"
-      },
       "venue": "",
-      "time": "2026-08-16T17:00:00.000Z",
+      "time": "2026-08-16T23:00:00.000Z",
       "prediction": "",
       "confidence": null,
-      "status": "upcoming",
+      "status": "done",
       "result": "pending"
     }
   ]
