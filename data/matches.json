@@ -1,69 +1,23 @@
 {
-  "updated": "2026-08-18T03:40:02.738Z",
+  "updated": "2026-08-19T03:41:37.414Z",
   "matches": [
     {
-      "id": "ca1a54c7-6c4d-4a33-a11d-5d025494ce8e",
-      "series": "Thailand Women tour of Papua New Guinea",
-      "matchNo": "",
-      "format": "T20",
-      "teamA": {
-        "name": "Papua New Guinea Women",
-        "code": "PN -",
-        "color": "#15803d",
-        "logo": "https://g.cricapi.com/iapi/2425-637991983542500362.webp?w=96"
-      },
-      "teamB": {
-        "name": "Thailand Women",
-        "code": "THW",
-        "color": "#0369a1",
-        "logo": "https://g.cricapi.com/iapi/2351-637985730472466346.webp?w=96"
-      },
-      "venue": "",
-      "time": "2026-08-17T23:30:00.000Z",
-      "prediction": "",
-      "confidence": null,
-      "status": "done",
-      "result": "pending"
-    },
-    {
-      "id": "83f95f18-2ea7-4b1b-b1e0-63db4d8fa363",
-      "series": "Caribbean Premier League",
-      "matchNo": "",
-      "format": "T20",
-      "teamA": {
-        "name": "Jamaica Kingsmen",
-        "code": "JAM",
-        "color": "#dc2626"
-      },
-      "teamB": {
-        "name": "St Kitts and Nevis Patriots",
-        "code": "SNP",
-        "color": "#dc2626"
-      },
-      "venue": "",
-      "time": "2026-08-18T00:00:00.000Z",
-      "prediction": "",
-      "confidence": null,
-      "status": "live",
-      "result": "pending"
-    },
-    {
-      "id": "e9d200fb-3c43-4852-9c93-9160517d7b36",
+      "id": "b4569241-cd0c-47e3-bf50-dd552c207187",
       "series": "Tamil Nadu Premier League",
       "matchNo": "",
       "format": "T20",
       "teamA": {
-        "name": "Chepauk Super Gillies",
-        "code": "CSG",
-        "color": "#ea580c"
+        "name": "Dindigul Dragons",
+        "code": "DD",
+        "color": "#1d4ed8"
       },
       "teamB": {
-        "name": "Vida Kovai Kings",
-        "code": "VID",
-        "color": "#be185d"
+        "name": "Trichy Grand Cholas",
+        "code": "TGC",
+        "color": "#16a34a"
       },
       "venue": "",
-      "time": "2026-08-18T14:00:00.000Z",
+      "time": "2026-08-19T14:00:00.000Z",
       "prediction": "",
       "confidence": null,
       "status": "upcoming",
