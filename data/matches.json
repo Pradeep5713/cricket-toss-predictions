@@ -1,311 +1,67 @@
 {
-  "updated": "2026-08-20T03:41:58.841Z",
+  "updated": "2026-08-21T03:46:16.210Z",
   "matches": [
     {
-      "id": "283a3fed-c27b-488b-8333-e2f96bfec14c",
+      "id": "e2465074-7f3e-4183-b133-9ce6c3368b0f",
       "series": "Caribbean Premier League",
       "matchNo": "",
       "format": "T20",
       "teamA": {
-        "name": "Guyana Amazon Warriors",
-        "code": "GAW",
-        "color": "#be185d",
-        "logo": "https://g.cricapi.com/iapi/174-637945408285271060.webp?w=96"
+        "name": "Antigua and Barbuda Falcons",
+        "code": "ABF",
+        "color": "#1e3a8a"
       },
       "teamB": {
-        "name": "Saint Lucia Kings",
-        "code": "SLK",
-        "color": "#16a34a",
-        "logo": "https://g.cricapi.com/iapi/266-637937643184202597.webp?w=96"
+        "name": "St Kitts and Nevis Patriots",
+        "code": "SNP",
+        "color": "#dc2626"
       },
       "venue": "",
-      "time": "2026-08-19T23:00:00.000Z",
+      "time": "2026-08-20T23:00:00.000Z",
       "prediction": "",
       "confidence": null,
       "status": "done",
       "result": "pending"
     },
     {
-      "id": "2f7b4b4d-222e-4a4b-93f8-5794ed89ad24",
-      "series": "China Women T20I Tri-Series",
-      "matchNo": "",
-      "format": "T20",
-      "teamA": {
-        "name": "China Women",
-        "code": "CHW",
-        "color": "#0369a1",
-        "logo": "https://g.cricapi.com/iapi/595-637928918571134357.png?w=96"
-      },
-      "teamB": {
-        "name": "Oman Women",
-        "code": "OMN-",
-        "color": "#4338ca",
-        "logo": "https://g.cricapi.com/iapi/1552-637926305825161946.webp?w=96"
-      },
-      "venue": "",
-      "time": "2026-08-20T07:30:00.000Z",
-      "prediction": "",
-      "confidence": null,
-      "status": "upcoming",
-      "result": "pending"
-    },
-    {
-      "id": "dad732e9-7170-462a-85e7-f70b4442c5f3",
-      "series": "County Championship Division One",
-      "matchNo": "",
-      "format": "Test",
-      "teamA": {
-        "name": "Essex",
-        "code": "ESX",
-        "color": "#0f766e",
-        "logo": "https://g.cricapi.com/iapi/1119-637885549753088458.webp?w=96"
-      },
-      "teamB": {
-        "name": "Somerset",
-        "code": "SOM",
-        "color": "#ca8a04",
-        "logo": "https://g.cricapi.com/iapi/1131-637885552070524344.webp?w=96"
-      },
-      "venue": "",
-      "time": "2026-08-20T10:00:00.000Z",
-      "prediction": "",
-      "confidence": null,
-      "status": "upcoming",
-      "result": "pending"
-    },
-    {
-      "id": "a0148686-d357-4b5f-854b-db02c0e8bcfb",
-      "series": "County Championship Division Two",
-      "matchNo": "",
-      "format": "Test",
-      "teamA": {
-        "name": "Derbyshire",
-        "code": "DERB",
-        "color": "#16a34a",
-        "logo": "https://g.cricapi.com/iapi/1117-637889091569915358.webp?w=96"
-      },
-      "teamB": {
-        "name": "Durham",
-        "code": "DURH",
-        "color": "#7c3aed",
-        "logo": "https://g.cricapi.com/iapi/1118-637889090599643548.webp?w=96"
-      },
-      "venue": "",
-      "time": "2026-08-20T10:00:00.000Z",
-      "prediction": "",
-      "confidence": null,
-      "status": "upcoming",
-      "result": "pending"
-    },
-    {
-      "id": "0d60251b-4fcc-4a8f-8027-a2110aba0fed",
+      "id": "7619f5ad-00a7-4f5f-a1e6-76bf2c380015",
       "series": "Tamil Nadu Premier League",
       "matchNo": "",
       "format": "T20",
       "teamA": {
-        "name": "IDream Tiruppur Tamizhans",
-        "code": "ITT",
-        "color": "#a16207",
-        "logo": "https://g.cricapi.com/iapi/181-637945148142038694.webp?w=96"
+        "name": "Dindigul Dragons",
+        "code": "DD",
+        "color": "#1d4ed8"
       },
       "teamB": {
-        "name": "Madurai Panthers",
-        "code": "MP",
-        "color": "#1d4ed8",
-        "logo": "https://g.cricapi.com/iapi/217-637940203723122310.webp?w=96"
+        "name": "Vida Kovai Kings",
+        "code": "VID",
+        "color": "#be185d"
       },
       "venue": "",
-      "time": "2026-08-20T10:00:00.000Z",
+      "time": "2026-08-21T10:00:00.000Z",
       "prediction": "",
       "confidence": null,
       "status": "upcoming",
       "result": "pending"
     },
     {
-      "id": "5986316d-f5a1-45d9-9b4d-94cd7e817cdd",
-      "series": "County Championship Division One",
-      "matchNo": "",
-      "format": "Test",
-      "teamA": {
-        "name": "Hampshire",
-        "code": "HAM",
-        "color": "#86198f",
-        "logo": "https://g.cricapi.com/iapi/1122-637885550993657486.webp?w=96"
-      },
-      "teamB": {
-        "name": "Yorkshire",
-        "code": "YRK",
-        "color": "#0f766e",
-        "logo": "https://g.cricapi.com/iapi/1139-637885552795894277.webp?w=96"
-      },
-      "venue": "",
-      "time": "2026-08-20T10:00:00.000Z",
-      "prediction": "",
-      "confidence": null,
-      "status": "upcoming",
-      "result": "pending"
-    },
-    {
-      "id": "a6e5f5b8-cd12-40b3-8727-834ae9c7380a",
-      "series": "County Championship Division One",
-      "matchNo": "",
-      "format": "Test",
-      "teamA": {
-        "name": "Nottinghamshire",
-        "code": "NOT",
-        "color": "#ca8a04",
-        "logo": "https://g.cricapi.com/iapi/1130-637889092060873937.webp?w=96"
-      },
-      "teamB": {
-        "name": "Surrey",
-        "code": "SUR",
-        "color": "#be185d",
-        "logo": "https://g.cricapi.com/iapi/1133-637885552361099530.webp?w=96"
-      },
-      "venue": "",
-      "time": "2026-08-20T10:00:00.000Z",
-      "prediction": "",
-      "confidence": null,
-      "status": "upcoming",
-      "result": "pending"
-    },
-    {
-      "id": "850347b1-f574-443a-ba50-7cfd73073d73",
-      "series": "County Championship Division Two",
-      "matchNo": "",
-      "format": "Test",
-      "teamA": {
-        "name": "Kent",
-        "code": "KENT",
-        "color": "#1d4ed8",
-        "logo": "https://g.cricapi.com/iapi/1124-637885551212175895.webp?w=96"
-      },
-      "teamB": {
-        "name": "Middlesex",
-        "code": "MDX",
-        "color": "#b91c1c",
-        "logo": "https://g.cricapi.com/iapi/1127-637889091340507643.webp?w=96"
-      },
-      "venue": "",
-      "time": "2026-08-20T10:00:00.000Z",
-      "prediction": "",
-      "confidence": null,
-      "status": "upcoming",
-      "result": "pending"
-    },
-    {
-      "id": "c6a003c3-890e-42d9-9f57-5a6ace711d29",
-      "series": "County Championship Division Two",
-      "matchNo": "",
-      "format": "Test",
-      "teamA": {
-        "name": "Lancashire",
-        "code": "LNCS",
-        "color": "#1d4ed8",
-        "logo": "https://g.cricapi.com/iapi/1125-637885551497331567.webp?w=96"
-      },
-      "teamB": {
-        "name": "Northamptonshire",
-        "code": "NOR",
-        "color": "#7c3aed",
-        "logo": "https://g.cricapi.com/iapi/1129-637885551856435418.webp?w=96"
-      },
-      "venue": "",
-      "time": "2026-08-20T10:00:00.000Z",
-      "prediction": "",
-      "confidence": null,
-      "status": "upcoming",
-      "result": "pending"
-    },
-    {
-      "id": "0b3fc272-5a80-492b-a084-56e2708f320a",
-      "series": "County Championship Division Two",
-      "matchNo": "",
-      "format": "Test",
-      "teamA": {
-        "name": "Gloucestershire",
-        "code": "GLOU",
-        "color": "#9f1239",
-        "logo": "https://g.cricapi.com/iapi/1121-637885550747990018.webp?w=96"
-      },
-      "teamB": {
-        "name": "Worcestershire",
-        "code": "WRCS",
-        "color": "#1e3a8a",
-        "logo": "https://g.cricapi.com/iapi/1138-637889091123850841.webp?w=96"
-      },
-      "venue": "",
-      "time": "2026-08-20T10:00:00.000Z",
-      "prediction": "",
-      "confidence": null,
-      "status": "upcoming",
-      "result": "pending"
-    },
-    {
-      "id": "158c3f38-148c-451d-87ec-3d784d5b8624",
-      "series": "County Championship Division One",
-      "matchNo": "",
-      "format": "Test",
-      "teamA": {
-        "name": "Glamorgan",
-        "code": "GLAM",
-        "color": "#1d4ed8",
-        "logo": "https://g.cricapi.com/iapi/1120-637889090390357869.webp?w=96"
-      },
-      "teamB": {
-        "name": "Leicestershire",
-        "code": "LECS",
-        "color": "#ea580c",
-        "logo": "https://g.cricapi.com/iapi/1126-637889090878436462.webp?w=96"
-      },
-      "venue": "",
-      "time": "2026-08-20T10:00:00.000Z",
-      "prediction": "",
-      "confidence": null,
-      "status": "upcoming",
-      "result": "pending"
-    },
-    {
-      "id": "6a023431-ab39-41aa-b274-0f74d866e04e",
-      "series": "County Championship Division One",
-      "matchNo": "",
-      "format": "Test",
-      "teamA": {
-        "name": "Sussex",
-        "code": "SUSS",
-        "color": "#0369a1",
-        "logo": "https://g.cricapi.com/iapi/1134-637889091814592518.webp?w=96"
-      },
-      "teamB": {
-        "name": "Warwickshire",
-        "code": "WRKS",
-        "color": "#0369a1",
-        "logo": "https://g.cricapi.com/iapi/1137-637885552592685258.webp?w=96"
-      },
-      "venue": "",
-      "time": "2026-08-20T10:00:00.000Z",
-      "prediction": "",
-      "confidence": null,
-      "status": "upcoming",
-      "result": "pending"
-    },
-    {
-      "id": "3960b1b6-7602-4759-a83b-4261febc900b",
+      "id": "b3610a13-4cd2-4396-aba1-3011dbd0dee6",
       "series": "Tamil Nadu Premier League",
       "matchNo": "",
       "format": "T20",
       "teamA": {
-        "name": "Nellai Royal Kings",
-        "code": "NRK",
-        "color": "#15803d"
+        "name": "Chepauk Super Gillies",
+        "code": "CSG",
+        "color": "#ea580c"
       },
       "teamB": {
-        "name": "SKM Salem Spartans",
-        "code": "SKM",
-        "color": "#0369a1"
+        "name": "Trichy Grand Cholas",
+        "code": "TGC",
+        "color": "#16a34a"
       },
       "venue": "",
-      "time": "2026-08-20T14:00:00.000Z",
+      "time": "2026-08-21T14:00:00.000Z",
       "prediction": "",
       "confidence": null,
       "status": "upcoming",
