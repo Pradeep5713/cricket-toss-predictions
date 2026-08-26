@@ -1,4 +1,49 @@
 {
-  "updated": "2026-08-25T03:43:41.737Z",
-  "matches": []
+  "updated": "2026-08-26T03:49:54.803Z",
+  "matches": [
+    {
+      "id": "d9c33252-aad4-46a8-bc6d-ca87211717a5",
+      "series": "Caribbean Premier League",
+      "matchNo": "",
+      "format": "T20",
+      "teamA": {
+        "name": "Antigua and Barbuda Falcons",
+        "code": "ABF",
+        "color": "#1e3a8a"
+      },
+      "teamB": {
+        "name": "Barbados Tridents",
+        "code": "BAR",
+        "color": "#86198f"
+      },
+      "venue": "",
+      "time": "2026-08-25T23:00:00.000Z",
+      "prediction": "",
+      "confidence": null,
+      "status": "done",
+      "result": "pending"
+    },
+    {
+      "id": "0a2f4fd1-eb88-4e99-a527-71a8a34775a4",
+      "series": "Tamil Nadu Premier League",
+      "matchNo": "",
+      "format": "T20",
+      "teamA": {
+        "name": "Trichy Grand Cholas",
+        "code": "TGC",
+        "color": "#16a34a"
+      },
+      "teamB": {
+        "name": "Vida Kovai Kings",
+        "code": "VID",
+        "color": "#be185d"
+      },
+      "venue": "",
+      "time": "2026-08-26T14:00:00.000Z",
+      "prediction": "",
+      "confidence": null,
+      "status": "upcoming",
+      "result": "pending"
+    }
+  ]
 }
