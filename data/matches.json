@@ -1,265 +1,67 @@
 {
-  "updated": "2026-08-27T13:40:18.639Z",
+  "updated": "2026-08-28T14:50:12.132Z",
   "matches": [
     {
-      "id": "d13e1f53-6487-4b61-8b28-84c9833b3e42",
+      "id": "8b255ae2-8eee-469e-89a8-b992b783dcd2",
       "series": "Caribbean Premier League",
       "matchNo": "",
       "format": "T20",
       "teamA": {
-        "name": "Saint Lucia Kings",
-        "code": "SLK",
-        "color": "#16a34a",
-        "logo": "https://g.cricapi.com/iapi/266-637937643184202597.webp?w=96"
+        "name": "Jamaica Kingsmen",
+        "code": "JAM",
+        "color": "#dc2626"
       },
       "teamB": {
-        "name": "Trinbago Knight Riders",
-        "code": "TKR",
-        "color": "#be185d",
-        "logo": "https://g.cricapi.com/iapi/293-637932465560269082.png?w=96"
+        "name": "St Kitts and Nevis Patriots",
+        "code": "SNP",
+        "color": "#dc2626"
       },
       "venue": "",
-      "time": "2026-08-26T23:00:00.000Z",
+      "time": "2026-08-27T23:00:00.000Z",
       "prediction": "",
       "confidence": null,
       "status": "done",
       "result": "pending"
     },
     {
-      "id": "80b734be-dda7-4fbf-bd08-f00321aeb492",
-      "series": "County Championship Division One",
+      "id": "966b0ced-3ee4-4641-9bd6-0f5e1d4829bb",
+      "series": "Caribbean Premier League",
       "matchNo": "",
-      "format": "Test",
+      "format": "T20",
       "teamA": {
-        "name": "Leicestershire",
-        "code": "LECS",
-        "color": "#ea580c",
-        "logo": "https://g.cricapi.com/iapi/1126-637889090878436462.webp?w=96"
+        "name": "Barbados Tridents",
+        "code": "BAR",
+        "color": "#86198f"
       },
       "teamB": {
-        "name": "Yorkshire",
-        "code": "YRK",
-        "color": "#0f766e",
-        "logo": "https://g.cricapi.com/iapi/1139-637885552795894277.webp?w=96"
+        "name": "Trinbago Knight Riders",
+        "code": "TKR",
+        "color": "#be185d"
       },
       "venue": "",
-      "time": "2026-08-27T10:00:00.000Z",
+      "time": "2026-08-28T00:00:00.000Z",
       "prediction": "",
       "confidence": null,
       "status": "live",
       "result": "pending"
     },
     {
-      "id": "873a788e-4106-4c86-84a9-ec2358b23128",
-      "series": "County Championship Division One",
+      "id": "118efad4-1972-451c-8bf2-7f86c61386d0",
+      "series": "Tamil Nadu Premier League",
       "matchNo": "",
-      "format": "Test",
+      "format": "T20",
       "teamA": {
-        "name": "Nottinghamshire",
-        "code": "NOT",
-        "color": "#ca8a04",
-        "logo": "https://g.cricapi.com/iapi/1130-637889092060873937.webp?w=96"
+        "name": "Madurai Panthers",
+        "code": "MP",
+        "color": "#1d4ed8"
       },
       "teamB": {
-        "name": "Warwickshire",
-        "code": "WRKS",
-        "color": "#0369a1",
-        "logo": "https://g.cricapi.com/iapi/1137-637885552592685258.webp?w=96"
+        "name": "Vida Kovai Kings",
+        "code": "VID",
+        "color": "#be185d"
       },
       "venue": "",
-      "time": "2026-08-27T10:00:00.000Z",
-      "prediction": "",
-      "confidence": null,
-      "status": "live",
-      "result": "pending"
-    },
-    {
-      "id": "3c647e81-d74e-47a3-90fb-e1d3f451d5f6",
-      "series": "County Championship Division One",
-      "matchNo": "",
-      "format": "Test",
-      "teamA": {
-        "name": "Somerset",
-        "code": "SOM",
-        "color": "#ca8a04",
-        "logo": "https://g.cricapi.com/iapi/1131-637885552070524344.webp?w=96"
-      },
-      "teamB": {
-        "name": "Sussex",
-        "code": "SUSS",
-        "color": "#0369a1",
-        "logo": "https://g.cricapi.com/iapi/1134-637889091814592518.webp?w=96"
-      },
-      "venue": "",
-      "time": "2026-08-27T10:00:00.000Z",
-      "prediction": "",
-      "confidence": null,
-      "status": "live",
-      "result": "pending"
-    },
-    {
-      "id": "72c97402-850a-40a1-93d7-d0466af31471",
-      "series": "County Championship Division One",
-      "matchNo": "",
-      "format": "Test",
-      "teamA": {
-        "name": "Glamorgan",
-        "code": "GLAM",
-        "color": "#1d4ed8",
-        "logo": "https://g.cricapi.com/iapi/1120-637889090390357869.webp?w=96"
-      },
-      "teamB": {
-        "name": "Hampshire",
-        "code": "HAM",
-        "color": "#86198f",
-        "logo": "https://g.cricapi.com/iapi/1122-637885550993657486.webp?w=96"
-      },
-      "venue": "",
-      "time": "2026-08-27T10:00:00.000Z",
-      "prediction": "",
-      "confidence": null,
-      "status": "live",
-      "result": "pending"
-    },
-    {
-      "id": "2b5a029a-aa13-4d1b-9bbe-cb6446ee7e9b",
-      "series": "County Championship Division Two",
-      "matchNo": "",
-      "format": "Test",
-      "teamA": {
-        "name": "Durham",
-        "code": "DURH",
-        "color": "#7c3aed",
-        "logo": "https://g.cricapi.com/iapi/1118-637889090599643548.webp?w=96"
-      },
-      "teamB": {
-        "name": "Gloucestershire",
-        "code": "GLOU",
-        "color": "#9f1239",
-        "logo": "https://g.cricapi.com/iapi/1121-637885550747990018.webp?w=96"
-      },
-      "venue": "",
-      "time": "2026-08-27T10:00:00.000Z",
-      "prediction": "",
-      "confidence": null,
-      "status": "live",
-      "result": "pending"
-    },
-    {
-      "id": "09d17b88-c181-4c77-b2cd-c64f534f8719",
-      "series": "County Championship Division Two",
-      "matchNo": "",
-      "format": "Test",
-      "teamA": {
-        "name": "Lancashire",
-        "code": "LNCS",
-        "color": "#1d4ed8",
-        "logo": "https://g.cricapi.com/iapi/1125-637885551497331567.webp?w=96"
-      },
-      "teamB": {
-        "name": "Worcestershire",
-        "code": "WRCS",
-        "color": "#1e3a8a",
-        "logo": "https://g.cricapi.com/iapi/1138-637889091123850841.webp?w=96"
-      },
-      "venue": "",
-      "time": "2026-08-27T10:00:00.000Z",
-      "prediction": "",
-      "confidence": null,
-      "status": "live",
-      "result": "pending"
-    },
-    {
-      "id": "cb970852-df8b-48bf-8b2f-7098db5e19d9",
-      "series": "County Championship Division One",
-      "matchNo": "",
-      "format": "Test",
-      "teamA": {
-        "name": "Essex",
-        "code": "ESX",
-        "color": "#0f766e",
-        "logo": "https://g.cricapi.com/iapi/1119-637885549753088458.webp?w=96"
-      },
-      "teamB": {
-        "name": "Surrey",
-        "code": "SUR",
-        "color": "#be185d",
-        "logo": "https://g.cricapi.com/iapi/1133-637885552361099530.webp?w=96"
-      },
-      "venue": "",
-      "time": "2026-08-27T10:00:00.000Z",
-      "prediction": "",
-      "confidence": null,
-      "status": "live",
-      "result": "pending"
-    },
-    {
-      "id": "cc2a866f-a9ad-4ae5-ac25-582874e45a99",
-      "series": "County Championship Division Two",
-      "matchNo": "",
-      "format": "Test",
-      "teamA": {
-        "name": "Kent",
-        "code": "KENT",
-        "color": "#1d4ed8",
-        "logo": "https://g.cricapi.com/iapi/1124-637885551212175895.webp?w=96"
-      },
-      "teamB": {
-        "name": "Northamptonshire",
-        "code": "NOR",
-        "color": "#7c3aed",
-        "logo": "https://g.cricapi.com/iapi/1129-637885551856435418.webp?w=96"
-      },
-      "venue": "",
-      "time": "2026-08-27T10:00:00.000Z",
-      "prediction": "",
-      "confidence": null,
-      "status": "live",
-      "result": "pending"
-    },
-    {
-      "id": "cc1c57c0-7ecf-4556-8465-47bbac896427",
-      "series": "Pakistan tour of England",
-      "matchNo": "",
-      "format": "Test",
-      "teamA": {
-        "name": "England",
-        "code": "ENG",
-        "color": "#4338ca",
-        "logo": "https://g.cricapi.com/iapi/23-637877072894080569.webp?w=96"
-      },
-      "teamB": {
-        "name": "Pakistan",
-        "code": "PAK",
-        "color": "#1e3a8a",
-        "logo": "https://g.cricapi.com/iapi/66-637877075103236690.webp?w=96"
-      },
-      "venue": "",
-      "time": "2026-08-27T10:00:00.000Z",
-      "prediction": "",
-      "confidence": null,
-      "status": "live",
-      "result": "pending"
-    },
-    {
-      "id": "17df8d49-eb6e-4800-b0aa-2cefd3c5aacd",
-      "series": "County Championship Division Two",
-      "matchNo": "",
-      "format": "Test",
-      "teamA": {
-        "name": "Derbyshire",
-        "code": "DERB",
-        "color": "#16a34a",
-        "logo": "https://g.cricapi.com/iapi/1117-637889091569915358.webp?w=96"
-      },
-      "teamB": {
-        "name": "Middlesex",
-        "code": "MDX",
-        "color": "#b91c1c",
-        "logo": "https://g.cricapi.com/iapi/1127-637889091340507643.webp?w=96"
-      },
-      "venue": "",
-      "time": "2026-08-27T10:00:00.000Z",
+      "time": "2026-08-28T14:00:00.000Z",
       "prediction": "",
       "confidence": null,
       "status": "live",
