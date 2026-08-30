@@ -1,4 +1,27 @@
 {
-  "updated": "2026-08-29T09:40:19.217Z",
-  "matches": []
+  "updated": "2026-08-30T08:51:52.983Z",
+  "matches": [
+    {
+      "id": "d42f60c6-a3a2-4b97-a487-fe06327933dd",
+      "series": "Caribbean Premier League",
+      "matchNo": "",
+      "format": "T20",
+      "teamA": {
+        "name": "Jamaica Kingsmen",
+        "code": "JAM",
+        "color": "#dc2626"
+      },
+      "teamB": {
+        "name": "Trinbago Knight Riders",
+        "code": "TKR",
+        "color": "#be185d"
+      },
+      "venue": "",
+      "time": "2026-08-29T23:00:00.000Z",
+      "prediction": "",
+      "confidence": null,
+      "status": "done",
+      "result": "pending"
+    }
+  ]
 }
