@@ -1,23 +1,23 @@
 {
-  "updated": "2026-08-30T08:51:52.983Z",
+  "updated": "2026-08-31T09:15:40.245Z",
   "matches": [
     {
-      "id": "d42f60c6-a3a2-4b97-a487-fe06327933dd",
+      "id": "64d278c6-f90b-40c4-8612-c181c13ab97c",
       "series": "Caribbean Premier League",
       "matchNo": "",
       "format": "T20",
       "teamA": {
-        "name": "Jamaica Kingsmen",
-        "code": "JAM",
-        "color": "#dc2626"
+        "name": "Antigua and Barbuda Falcons",
+        "code": "ABF",
+        "color": "#1e3a8a"
       },
       "teamB": {
-        "name": "Trinbago Knight Riders",
-        "code": "TKR",
-        "color": "#be185d"
+        "name": "St Kitts and Nevis Patriots",
+        "code": "SNP",
+        "color": "#dc2626"
       },
       "venue": "",
-      "time": "2026-08-29T23:00:00.000Z",
+      "time": "2026-08-30T23:00:00.000Z",
       "prediction": "",
       "confidence": null,
       "status": "done",
