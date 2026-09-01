@@ -1,23 +1,25 @@
 {
-  "updated": "2026-08-31T09:15:40.245Z",
+  "updated": "2026-09-01T08:14:23.088Z",
   "matches": [
     {
-      "id": "64d278c6-f90b-40c4-8612-c181c13ab97c",
+      "id": "d63a5a3f-60e0-4170-b81e-ac0de512327a",
       "series": "Caribbean Premier League",
       "matchNo": "",
       "format": "T20",
       "teamA": {
-        "name": "Antigua and Barbuda Falcons",
-        "code": "ABF",
-        "color": "#1e3a8a"
+        "name": "Guyana Amazon Warriors",
+        "code": "GAW",
+        "color": "#be185d",
+        "logo": "https://g.cricapi.com/iapi/174-637945408285271060.webp?w=96"
       },
       "teamB": {
-        "name": "St Kitts and Nevis Patriots",
-        "code": "SNP",
-        "color": "#dc2626"
+        "name": "Trinbago Knight Riders",
+        "code": "TKR",
+        "color": "#be185d",
+        "logo": "https://g.cricapi.com/iapi/293-637932465560269082.png?w=96"
       },
       "venue": "",
-      "time": "2026-08-30T23:00:00.000Z",
+      "time": "2026-08-31T21:00:00.000Z",
       "prediction": "",
       "confidence": null,
       "status": "done",
