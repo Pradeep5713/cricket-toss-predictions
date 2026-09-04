@@ -1,23 +1,25 @@
 {
-  "updated": "2026-09-03T07:42:04.693Z",
+  "updated": "2026-09-04T07:39:11.427Z",
   "matches": [
     {
-      "id": "a3ed7e03-c3e7-48a2-8dde-a9c1884b5d2a",
+      "id": "49e8ff59-3fcf-4128-a56d-da3774c85492",
       "series": "Caribbean Premier League",
       "matchNo": "",
       "format": "T20",
       "teamA": {
-        "name": "Antigua and Barbuda Falcons",
-        "code": "ABF",
-        "color": "#1e3a8a"
+        "name": "Saint Lucia Kings",
+        "code": "SLK",
+        "color": "#16a34a",
+        "logo": "https://g.cricapi.com/iapi/266-637937643184202597.webp?w=96"
       },
       "teamB": {
-        "name": "Trinbago Knight Riders",
-        "code": "TKR",
-        "color": "#be185d"
+        "name": "St Kitts and Nevis Patriots",
+        "code": "SNP",
+        "color": "#dc2626",
+        "logo": "https://g.cricapi.com/iapi/277-637937608859640652.webp?w=96"
       },
       "venue": "",
-      "time": "2026-09-02T23:00:00.000Z",
+      "time": "2026-09-03T23:00:00.000Z",
       "prediction": "",
       "confidence": null,
       "status": "done",
