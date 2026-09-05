@@ -1,16 +1,60 @@
 {
-  "updated": "2026-09-04T07:39:11.427Z",
+  "updated": "2026-09-05T07:20:21.878Z",
   "matches": [
     {
-      "id": "49e8ff59-3fcf-4128-a56d-da3774c85492",
+      "id": "9fb494fd-6398-4955-a349-28065464d1a2",
       "series": "Caribbean Premier League",
       "matchNo": "",
       "format": "T20",
       "teamA": {
-        "name": "Saint Lucia Kings",
-        "code": "SLK",
-        "color": "#16a34a",
-        "logo": "https://g.cricapi.com/iapi/266-637937643184202597.webp?w=96"
+        "name": "Guyana Amazon Warriors",
+        "code": "GAW",
+        "color": "#be185d"
+      },
+      "teamB": {
+        "name": "Jamaica Kingsmen",
+        "code": "JAM",
+        "color": "#dc2626"
+      },
+      "venue": "",
+      "time": "2026-09-04T23:00:00.000Z",
+      "prediction": "",
+      "confidence": null,
+      "status": "done",
+      "result": "pending"
+    },
+    {
+      "id": "b066cf91-f5ad-47cc-876c-fb3c7776eb91",
+      "series": "Caribbean Premier League",
+      "matchNo": "",
+      "format": "T20",
+      "teamA": {
+        "name": "Barbados Tridents",
+        "code": "BAR",
+        "color": "#86198f"
+      },
+      "teamB": {
+        "name": "Trinbago Knight Riders",
+        "code": "TKR",
+        "color": "#be185d"
+      },
+      "venue": "",
+      "time": "2026-09-05T00:00:00.000Z",
+      "prediction": "",
+      "confidence": null,
+      "status": "live",
+      "result": "pending"
+    },
+    {
+      "id": "5d38ad47-bb76-423b-bbd1-7a0848e22b0d",
+      "series": "Caribbean Premier League",
+      "matchNo": "",
+      "format": "T20",
+      "teamA": {
+        "name": "Guyana Amazon Warriors",
+        "code": "GAW",
+        "color": "#be185d",
+        "logo": "https://g.cricapi.com/iapi/174-637945408285271060.webp?w=96"
       },
       "teamB": {
         "name": "St Kitts and Nevis Patriots",
@@ -19,10 +63,32 @@
         "logo": "https://g.cricapi.com/iapi/277-637937608859640652.webp?w=96"
       },
       "venue": "",
-      "time": "2026-09-03T23:00:00.000Z",
+      "time": "2026-09-05T14:00:00.000Z",
       "prediction": "",
       "confidence": null,
-      "status": "done",
+      "status": "upcoming",
+      "result": "pending"
+    },
+    {
+      "id": "f2d2299c-b37d-4cde-9328-a4399de02f7e",
+      "series": "Womens Caribbean Premier League",
+      "matchNo": "",
+      "format": "T20",
+      "teamA": {
+        "name": "Guyana Amazon Warriors Women",
+        "code": "GAW-",
+        "color": "#ca8a04"
+      },
+      "teamB": {
+        "name": "Jamaica Empress Women",
+        "code": "JAM",
+        "color": "#0369a1"
+      },
+      "venue": "",
+      "time": "2026-09-05T18:00:00.000Z",
+      "prediction": "",
+      "confidence": null,
+      "status": "upcoming",
       "result": "pending"
     }
   ]
