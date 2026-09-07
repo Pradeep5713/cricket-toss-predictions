@@ -1,4 +1,27 @@
 {
-  "updated": "2026-09-06T07:33:19.381Z",
-  "matches": []
+  "updated": "2026-09-07T07:50:47.252Z",
+  "matches": [
+    {
+      "id": "404707a9-a2b4-4111-9d19-ab32afa8ea2f",
+      "series": "Caribbean Premier League",
+      "matchNo": "",
+      "format": "T20",
+      "teamA": {
+        "name": "Barbados Tridents",
+        "code": "BAR",
+        "color": "#86198f"
+      },
+      "teamB": {
+        "name": "Saint Lucia Kings",
+        "code": "SLK",
+        "color": "#16a34a"
+      },
+      "venue": "",
+      "time": "2026-09-06T23:00:00.000Z",
+      "prediction": "",
+      "confidence": null,
+      "status": "done",
+      "result": "pending"
+    }
+  ]
 }
