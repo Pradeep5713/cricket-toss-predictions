@@ -1,50 +1,28 @@
 {
-  "updated": "2026-09-09T07:48:57.773Z",
+  "updated": "2026-09-10T07:49:21.716Z",
   "matches": [
     {
-      "id": "43401462-87a0-43a4-b66d-7865146a976d",
+      "id": "60f146c0-b66b-408b-96f0-d8a653d7a972",
       "series": "Caribbean Premier League",
       "matchNo": "",
       "format": "T20",
       "teamA": {
-        "name": "Antigua and Barbuda Falcons",
-        "code": "ABF",
-        "color": "#1e3a8a"
-      },
-      "teamB": {
         "name": "Guyana Amazon Warriors",
         "code": "GAW",
-        "color": "#be185d"
+        "color": "#be185d",
+        "logo": "https://g.cricapi.com/iapi/174-637945408285271060.webp?w=96"
+      },
+      "teamB": {
+        "name": "Saint Lucia Kings",
+        "code": "SLK",
+        "color": "#16a34a",
+        "logo": "https://g.cricapi.com/iapi/266-637937643184202597.webp?w=96"
       },
       "venue": "",
-      "time": "2026-09-08T23:00:00.000Z",
+      "time": "2026-09-09T23:00:00.000Z",
       "prediction": "",
       "confidence": null,
       "status": "done",
-      "result": "pending"
-    },
-    {
-      "id": "4d504550-036d-42bd-9f49-4fd0c038be54",
-      "series": "Pakistan tour of England",
-      "matchNo": "",
-      "format": "Test",
-      "teamA": {
-        "name": "England",
-        "code": "ENG",
-        "color": "#4338ca",
-        "logo": "https://g.cricapi.com/iapi/23-637877072894080569.webp?w=96"
-      },
-      "teamB": {
-        "name": "Pakistan",
-        "code": "PAK",
-        "color": "#1e3a8a",
-        "logo": "https://g.cricapi.com/iapi/66-637877075103236690.webp?w=96"
-      },
-      "venue": "",
-      "time": "2026-09-09T10:00:00.000Z",
-      "prediction": "",
-      "confidence": null,
-      "status": "upcoming",
       "result": "pending"
     }
   ]
