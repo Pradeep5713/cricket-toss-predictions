@@ -1,25 +1,23 @@
 {
-  "updated": "2026-09-10T07:49:21.716Z",
+  "updated": "2026-09-11T07:42:56.343Z",
   "matches": [
     {
-      "id": "60f146c0-b66b-408b-96f0-d8a653d7a972",
+      "id": "87c75673-5aa0-408d-8cf5-d8316a0e2383",
       "series": "Caribbean Premier League",
       "matchNo": "",
       "format": "T20",
       "teamA": {
-        "name": "Guyana Amazon Warriors",
-        "code": "GAW",
-        "color": "#be185d",
-        "logo": "https://g.cricapi.com/iapi/174-637945408285271060.webp?w=96"
+        "name": "Barbados Tridents",
+        "code": "BAR",
+        "color": "#86198f"
       },
       "teamB": {
-        "name": "Saint Lucia Kings",
-        "code": "SLK",
-        "color": "#16a34a",
-        "logo": "https://g.cricapi.com/iapi/266-637937643184202597.webp?w=96"
+        "name": "St Kitts and Nevis Patriots",
+        "code": "SNP",
+        "color": "#dc2626"
       },
       "venue": "",
-      "time": "2026-09-09T23:00:00.000Z",
+      "time": "2026-09-10T23:00:00.000Z",
       "prediction": "",
       "confidence": null,
       "status": "done",
