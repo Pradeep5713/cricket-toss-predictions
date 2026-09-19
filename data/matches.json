@@ -1,4 +1,27 @@
 {
-  "updated": "2026-09-18T07:55:44.629Z",
-  "matches": []
+  "updated": "2026-09-19T07:45:44.363Z",
+  "matches": [
+    {
+      "id": "57b9034f-2942-4394-898c-c285b78b7485",
+      "series": "Caribbean Premier League",
+      "matchNo": "",
+      "format": "T20",
+      "teamA": {
+        "name": "Guyana Amazon Warriors",
+        "code": "GAW",
+        "color": "#be185d"
+      },
+      "teamB": {
+        "name": "Jamaica Kingsmen",
+        "code": "JAM",
+        "color": "#dc2626"
+      },
+      "venue": "",
+      "time": "2026-09-18T23:00:00.000Z",
+      "prediction": "",
+      "confidence": null,
+      "status": "done",
+      "result": "pending"
+    }
+  ]
 }
