@@ -1,26 +1,28 @@
 {
-  "updated": "2026-09-19T07:45:44.363Z",
+  "updated": "2026-09-20T08:13:52.836Z",
   "matches": [
     {
-      "id": "57b9034f-2942-4394-898c-c285b78b7485",
-      "series": "Caribbean Premier League",
+      "id": "fc2efe00-8974-4ef5-a827-671366004744",
+      "series": "England Domestic One-Day Cup",
       "matchNo": "",
-      "format": "T20",
+      "format": "ODI",
       "teamA": {
-        "name": "Guyana Amazon Warriors",
-        "code": "GAW",
-        "color": "#be185d"
+        "name": "Leicestershire",
+        "code": "LECS",
+        "color": "#ea580c",
+        "logo": "https://g.cricapi.com/iapi/1126-637889090878436462.webp?w=96"
       },
       "teamB": {
-        "name": "Jamaica Kingsmen",
-        "code": "JAM",
-        "color": "#dc2626"
+        "name": "Middlesex",
+        "code": "MDX",
+        "color": "#b91c1c",
+        "logo": "https://g.cricapi.com/iapi/1127-637889091340507643.webp?w=96"
       },
       "venue": "",
-      "time": "2026-09-18T23:00:00.000Z",
+      "time": "2026-09-20T10:00:00.000Z",
       "prediction": "",
       "confidence": null,
-      "status": "done",
+      "status": "upcoming",
       "result": "pending"
     }
   ]
