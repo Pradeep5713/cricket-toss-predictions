@@ -1,29 +1,4 @@
 {
-  "updated": "2026-09-27T08:53:03.317Z",
-  "matches": [
-    {
-      "id": "90ae280c-cb10-4d58-9bcc-ec95294819e6",
-      "series": "West Indies tour of India",
-      "matchNo": "",
-      "format": "ODI",
-      "teamA": {
-        "name": "India",
-        "code": "IND",
-        "color": "#ea580c",
-        "logo": "https://g.cricapi.com/iapi/31-637877061080567215.webp?w=96"
-      },
-      "teamB": {
-        "name": "West Indies",
-        "code": "WI",
-        "color": "#4338ca",
-        "logo": "https://g.cricapi.com/iapi/100-637877077978319234.webp?w=96"
-      },
-      "venue": "",
-      "time": "2026-09-27T08:30:00.000Z",
-      "prediction": "",
-      "confidence": null,
-      "status": "live",
-      "result": "pending"
-    }
-  ]
+  "updated": "2026-09-28T09:17:58.287Z",
+  "matches": []
 }
