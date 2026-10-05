@@ -1,4 +1,99 @@
 {
-  "updated": "2026-10-04T09:16:23.633Z",
-  "matches": []
+  "updated": "2026-10-05T09:56:53.841Z",
+  "matches": [
+    {
+      "id": "f7d2bef8-87e1-422f-b446-e27eeab1baf9",
+      "series": "ICC Men's T20 World Cup Asia Sub Regional Qualifier A",
+      "matchNo": "",
+      "format": "T20",
+      "teamA": {
+        "name": "Bhutan",
+        "code": "BHU",
+        "color": "#15803d",
+        "logo": "https://g.cricapi.com/iapi/588-637928919038194137.png?w=96"
+      },
+      "teamB": {
+        "name": "Myanmar",
+        "code": "MYAN",
+        "color": "#0369a1",
+        "logo": "https://g.cricapi.com/iapi/630-637928917494065904.png?w=96"
+      },
+      "venue": "",
+      "time": "2026-10-05T01:15:00.000Z",
+      "prediction": "",
+      "confidence": null,
+      "status": "done",
+      "result": "pending"
+    },
+    {
+      "id": "611950b4-b02b-496f-be67-8134b73533a8",
+      "series": "ICC Men's T20 World Cup Asia Sub Regional Qualifier A",
+      "matchNo": "",
+      "format": "T20",
+      "teamA": {
+        "name": "Bahrain",
+        "code": "BHR",
+        "color": "#1e3a8a",
+        "logo": "https://g.cricapi.com/iapi/8-637864920538411089.webp?w=96"
+      },
+      "teamB": {
+        "name": "Thailand",
+        "code": "THAI",
+        "color": "#ea580c",
+        "logo": "https://g.cricapi.com/iapi/661-637873698140793668.webp?w=96"
+      },
+      "venue": "",
+      "time": "2026-10-05T01:15:00.000Z",
+      "prediction": "",
+      "confidence": null,
+      "status": "done",
+      "result": "pending"
+    },
+    {
+      "id": "055a0f85-0cc8-4deb-a9f7-7884e6c537e9",
+      "series": "Australia U19 tour of India",
+      "matchNo": "",
+      "format": "T20",
+      "teamA": {
+        "name": "Australia U19",
+        "code": "AU",
+        "color": "#1e3a8a"
+      },
+      "teamB": {
+        "name": "India U19",
+        "code": "IN19",
+        "color": "#ca8a04"
+      },
+      "venue": "",
+      "time": "2026-10-05T04:00:00.000Z",
+      "prediction": "",
+      "confidence": null,
+      "status": "live",
+      "result": "pending"
+    },
+    {
+      "id": "b2f6d99e-9c3a-4a99-8a3f-c7b166b27f88",
+      "series": "ICC Men's T20 World Cup Asia Sub Regional Qualifier A",
+      "matchNo": "",
+      "format": "T20",
+      "teamA": {
+        "name": "Kuwait",
+        "code": "KUW",
+        "color": "#16a34a",
+        "logo": "https://g.cricapi.com/iapi/621-637864920257551899.webp?w=96"
+      },
+      "teamB": {
+        "name": "Qatar",
+        "code": "QAT",
+        "color": "#0369a1",
+        "logo": "https://g.cricapi.com/iapi/577-637877086204623715.webp?w=96"
+      },
+      "venue": "",
+      "time": "2026-10-05T06:00:00.000Z",
+      "prediction": "",
+      "confidence": null,
+      "status": "done",
+      "result": "pending"
+    }
+  ]
 }
