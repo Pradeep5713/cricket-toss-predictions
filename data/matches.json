@@ -1,4 +1,123 @@
 {
-  "updated": "2026-10-07T09:42:21.527Z",
-  "matches": []
+  "updated": "2026-10-08T09:52:41.138Z",
+  "matches": [
+    {
+      "id": "956f3a64-cc60-437f-a96d-20f68f72874f",
+      "series": "Sheffield Shield",
+      "matchNo": "",
+      "format": "Test",
+      "teamA": {
+        "name": "South Australia",
+        "code": "SAUS",
+        "color": "#1e3a8a",
+        "logo": "https://g.cricapi.com/iapi/84-637993500332119314.webp?w=96"
+      },
+      "teamB": {
+        "name": "Victoria",
+        "code": "VIC",
+        "color": "#16a34a",
+        "logo": "https://g.cricapi.com/iapi/96-637987557199223762.webp?w=96"
+      },
+      "venue": "",
+      "time": "2026-10-07T23:30:00.000Z",
+      "prediction": "",
+      "confidence": null,
+      "status": "done",
+      "result": "pending"
+    },
+    {
+      "id": "785c8271-f338-4263-a991-d2898460132e",
+      "series": "ICC Men's T20 World Cup Asia Sub Regional Qualifier A",
+      "matchNo": "",
+      "format": "T20",
+      "teamA": {
+        "name": "Bhutan",
+        "code": "BHU",
+        "color": "#15803d"
+      },
+      "teamB": {
+        "name": "Mongolia",
+        "code": "MN",
+        "color": "#1d4ed8"
+      },
+      "venue": "",
+      "time": "2026-10-08T01:15:00.000Z",
+      "prediction": "",
+      "confidence": null,
+      "status": "done",
+      "result": "pending"
+    },
+    {
+      "id": "f282a0cb-51d5-4189-b067-aa50683d4f19",
+      "series": "ICC Men's T20 World Cup Asia Sub Regional Qualifier A",
+      "matchNo": "",
+      "format": "T20",
+      "teamA": {
+        "name": "Bahrain",
+        "code": "BHR",
+        "color": "#1e3a8a",
+        "logo": "https://g.cricapi.com/iapi/8-637864920538411089.webp?w=96"
+      },
+      "teamB": {
+        "name": "Myanmar",
+        "code": "MYAN",
+        "color": "#0369a1",
+        "logo": "https://g.cricapi.com/iapi/630-637928917494065904.png?w=96"
+      },
+      "venue": "",
+      "time": "2026-10-08T01:15:00.000Z",
+      "prediction": "",
+      "confidence": null,
+      "status": "done",
+      "result": "pending"
+    },
+    {
+      "id": "586c0a37-7512-44c4-9e60-356a541d0ebb",
+      "series": "ICC Men's T20 World Cup Asia Sub Regional Qualifier A",
+      "matchNo": "",
+      "format": "T20",
+      "teamA": {
+        "name": "Kuwait",
+        "code": "KUW",
+        "color": "#16a34a",
+        "logo": "https://g.cricapi.com/iapi/621-637864920257551899.webp?w=96"
+      },
+      "teamB": {
+        "name": "Thailand",
+        "code": "THAI",
+        "color": "#ea580c",
+        "logo": "https://g.cricapi.com/iapi/661-637873698140793668.webp?w=96"
+      },
+      "venue": "",
+      "time": "2026-10-08T01:15:00.000Z",
+      "prediction": "",
+      "confidence": null,
+      "status": "done",
+      "result": "pending"
+    },
+    {
+      "id": "f7e74b46-d393-4066-b161-738f6ac287b7",
+      "series": "Sheffield Shield",
+      "matchNo": "",
+      "format": "Test",
+      "teamA": {
+        "name": "Queensland",
+        "code": "QL",
+        "color": "#ca8a04",
+        "logo": "https://g.cricapi.com/iapi/73-637992667453177840.webp?w=96"
+      },
+      "teamB": {
+        "name": "Western Australia",
+        "code": "WA",
+        "color": "#15803d",
+        "logo": "https://g.cricapi.com/iapi/103-637987555730367982.webp?w=96"
+      },
+      "venue": "",
+      "time": "2026-10-08T02:30:00.000Z",
+      "prediction": "",
+      "confidence": null,
+      "status": "live",
+      "result": "pending"
+    }
+  ]
 }
