@@ -1,4 +1,191 @@
 {
-  "updated": "2026-10-12T10:08:53.721Z",
-  "matches": []
+  "updated": "2026-10-13T10:02:15.384Z",
+  "matches": [
+    {
+      "id": "8102bbd5-6ac5-49eb-ae59-e2b13bfc9ce5",
+      "series": "Australia Domestic One-Day Cup",
+      "matchNo": "",
+      "format": "ODI",
+      "teamA": {
+        "name": "Queensland",
+        "code": "QL",
+        "color": "#ca8a04",
+        "logo": "https://g.cricapi.com/iapi/73-637992667453177840.webp?w=96"
+      },
+      "teamB": {
+        "name": "Western Australia",
+        "code": "WA",
+        "color": "#15803d",
+        "logo": "https://g.cricapi.com/iapi/103-637987555730367982.webp?w=96"
+      },
+      "venue": "",
+      "time": "2026-10-13T00:00:00.000Z",
+      "prediction": "",
+      "confidence": null,
+      "status": "live",
+      "result": "pending"
+    },
+    {
+      "id": "57e4d85e-0474-4b34-b30d-b0b24f937040",
+      "series": "T20 Spring Challenge",
+      "matchNo": "",
+      "format": "T20",
+      "teamA": {
+        "name": "Brisbane Heat Women",
+        "code": "BH-W",
+        "color": "#dc2626",
+        "logo": "https://g.cricapi.com/iapi/2625-638040173617905942.webp?w=96"
+      },
+      "teamB": {
+        "name": "Sydney Thunder Women",
+        "code": "ST-W",
+        "color": "#be185d",
+        "logo": "https://g.cricapi.com/iapi/2636-638040169751591741.webp?w=96"
+      },
+      "venue": "",
+      "time": "2026-10-13T00:00:00.000Z",
+      "prediction": "",
+      "confidence": null,
+      "status": "done",
+      "result": "pending"
+    },
+    {
+      "id": "abe775bf-9c45-4813-9181-90f3f6553f6a",
+      "series": "Australia Domestic One-Day Cup",
+      "matchNo": "",
+      "format": "ODI",
+      "teamA": {
+        "name": "New South Wales",
+        "code": "NSW",
+        "color": "#1e3a8a",
+        "logo": "https://g.cricapi.com/iapi/56-637991992698313262.webp?w=96"
+      },
+      "teamB": {
+        "name": "Tasmania",
+        "code": "TAS",
+        "color": "#9f1239",
+        "logo": "https://g.cricapi.com/iapi/88-637987559070396403.webp?w=96"
+      },
+      "venue": "",
+      "time": "2026-10-13T00:00:00.000Z",
+      "prediction": "",
+      "confidence": null,
+      "status": "done",
+      "result": "pending"
+    },
+    {
+      "id": "40a13d90-b2ff-4b71-90d6-6036604087b9",
+      "series": "T20 Spring Challenge",
+      "matchNo": "",
+      "format": "T20",
+      "teamA": {
+        "name": "Adelaide Strikers Women",
+        "code": "AS-W",
+        "color": "#dc2626",
+        "logo": "https://g.cricapi.com/iapi/2645-638040168980778527.webp?w=96"
+      },
+      "teamB": {
+        "name": "Perth Scorchers Women",
+        "code": "PS-W",
+        "color": "#1e3a8a",
+        "logo": "https://g.cricapi.com/iapi/2656-638040167042932787.webp?w=96"
+      },
+      "venue": "",
+      "time": "2026-10-13T00:00:00.000Z",
+      "prediction": "",
+      "confidence": null,
+      "status": "done",
+      "result": "pending"
+    },
+    {
+      "id": "ce7500a3-9301-4d32-a378-14da07fc5d6a",
+      "series": "T20 Spring Challenge",
+      "matchNo": "",
+      "format": "T20",
+      "teamA": {
+        "name": "Act Women",
+        "code": "ACTW",
+        "color": "#1d4ed8"
+      },
+      "teamB": {
+        "name": "Sydney Sixers Women",
+        "code": "SS-W",
+        "color": "#dc2626"
+      },
+      "venue": "",
+      "time": "2026-10-13T00:00:00.000Z",
+      "prediction": "",
+      "confidence": null,
+      "status": "done",
+      "result": "pending"
+    },
+    {
+      "id": "006c4557-4443-4a0f-b351-b32dc48e7d33",
+      "series": "World Championship of Legends",
+      "matchNo": "",
+      "format": "T20",
+      "teamA": {
+        "name": "England Champions",
+        "code": "ENGC",
+        "color": "#7c3aed"
+      },
+      "teamB": {
+        "name": "South Africa Champions",
+        "code": "SAC",
+        "color": "#ea580c"
+      },
+      "venue": "",
+      "time": "2026-10-13T11:30:00.000Z",
+      "prediction": "",
+      "confidence": null,
+      "status": "upcoming",
+      "result": "pending"
+    },
+    {
+      "id": "aad277c2-2412-4f1c-9d00-98dbe078132e",
+      "series": "Sri Lanka tour of Pakistan",
+      "matchNo": "",
+      "format": "T20",
+      "teamA": {
+        "name": "Pakistan",
+        "code": "PAK",
+        "color": "#1e3a8a",
+        "logo": "https://g.cricapi.com/iapi/66-637877075103236690.webp?w=96"
+      },
+      "teamB": {
+        "name": "Sri Lanka",
+        "code": "SL",
+        "color": "#4338ca",
+        "logo": "https://g.cricapi.com/iapi/4191-638101639309122979.webp?w=96"
+      },
+      "venue": "",
+      "time": "2026-10-13T15:00:00.000Z",
+      "prediction": "",
+      "confidence": null,
+      "status": "upcoming",
+      "result": "pending"
+    },
+    {
+      "id": "461133d0-b613-44f1-958d-bb523226ab90",
+      "series": "World Championship of Legends",
+      "matchNo": "",
+      "format": "T20",
+      "teamA": {
+        "name": "India Champions",
+        "code": "INDC",
+        "color": "#b91c1c"
+      },
+      "teamB": {
+        "name": "West Indies Champions",
+        "code": "WIC",
+        "color": "#7c3aed"
+      },
+      "venue": "",
+      "time": "2026-10-13T15:30:00.000Z",
+      "prediction": "",
+      "confidence": null,
+      "status": "upcoming",
+      "result": "pending"
+    }
+  ]
 }
