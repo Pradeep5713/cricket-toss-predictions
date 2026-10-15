@@ -1,262 +1,28 @@
 {
-  "updated": "2026-10-14T08:20:17.272Z",
+  "updated": "2026-10-15T07:56:55.286Z",
   "matches": [
     {
-      "id": "46cf1f9f-e741-423a-bfe9-98dd14921252",
-      "series": "ICC Men's T20 World Cup Asia Sub Regional Qualifier A",
+      "id": "8068c292-3042-402b-a53f-76ddc54d9785",
+      "series": "ICC Cricket World Cup League Two",
       "matchNo": "",
-      "format": "T20",
+      "format": "ODI",
       "teamA": {
-        "name": "Bahrain",
-        "code": "BHR",
-        "color": "#1e3a8a",
-        "logo": "https://g.cricapi.com/iapi/8-637864920538411089.webp?w=96"
+        "name": "Canada",
+        "code": "CAN",
+        "color": "#dc2626",
+        "logo": "https://g.cricapi.com/iapi/14-637877085850526611.webp?w=96"
       },
       "teamB": {
-        "name": "Qatar",
-        "code": "QAT",
-        "color": "#0369a1",
-        "logo": "https://g.cricapi.com/iapi/577-637877086204623715.webp?w=96"
-      },
-      "venue": "",
-      "time": "2026-10-14T01:15:00.000Z",
-      "prediction": "",
-      "confidence": null,
-      "status": "done",
-      "result": "pending"
-    },
-    {
-      "id": "d98080ac-a5a9-4236-92b7-3e694ef1e8b2",
-      "series": "ICC Men's T20 World Cup Asia Sub Regional Qualifier A",
-      "matchNo": "",
-      "format": "T20",
-      "teamA": {
-        "name": "Mongolia",
-        "code": "MN",
-        "color": "#1d4ed8"
-      },
-      "teamB": {
-        "name": "Myanmar",
-        "code": "MYAN",
-        "color": "#0369a1"
-      },
-      "venue": "",
-      "time": "2026-10-14T01:15:00.000Z",
-      "prediction": "",
-      "confidence": null,
-      "status": "done",
-      "result": "pending"
-    },
-    {
-      "id": "35d090cb-44f4-4696-a76c-3a6d5f18bafb",
-      "series": "ICC Men's T20 World Cup Asia Sub Regional Qualifier B",
-      "matchNo": "",
-      "format": "T20",
-      "teamA": {
-        "name": "China",
-        "code": "CHN",
-        "color": "#ea580c",
-        "logo": "https://g.cricapi.com/iapi/595-637928918571134357.png?w=96"
-      },
-      "teamB": {
-        "name": "Malaysia",
-        "code": "MAL",
+        "name": "Oman",
+        "code": "OMAN",
         "color": "#86198f",
-        "logo": "https://g.cricapi.com/iapi/625-637865062320348912.webp?w=96"
+        "logo": "https://g.cricapi.com/iapi/64-637877083212505394.webp?w=96"
       },
       "venue": "",
-      "time": "2026-10-14T01:15:00.000Z",
-      "prediction": "",
-      "confidence": null,
-      "status": "done",
-      "result": "pending"
-    },
-    {
-      "id": "689d96f3-42ba-4ab3-a41f-357b2edcf122",
-      "series": "T20 Spring Challenge",
-      "matchNo": "",
-      "format": "T20",
-      "teamA": {
-        "name": "Melbourne Renegades Women",
-        "code": "MR-W",
-        "color": "#b91c1c",
-        "logo": "https://g.cricapi.com/iapi/2655-638040167731668168.webp?w=96"
-      },
-      "teamB": {
-        "name": "Melbourne Stars Women",
-        "code": "MS-W",
-        "color": "#ca8a04",
-        "logo": "https://g.cricapi.com/iapi/2646-638040168260625211.webp?w=96"
-      },
-      "venue": "",
-      "time": "2026-10-14T03:30:00.000Z",
-      "prediction": "",
-      "confidence": null,
-      "status": "done",
-      "result": "pending"
-    },
-    {
-      "id": "c28bfd05-81dd-46d6-9873-b094df319ef3",
-      "series": "Bangladesh Women tour of Australia",
-      "matchNo": "",
-      "format": "ODI",
-      "teamA": {
-        "name": "Australia Women",
-        "code": "AUSW",
-        "color": "#dc2626",
-        "logo": "https://g.cricapi.com/iapi/7-637877070884402012.webp?w=96"
-      },
-      "teamB": {
-        "name": "Bangladesh Women",
-        "code": "BANW",
-        "color": "#b91c1c",
-        "logo": "https://g.cricapi.com/iapi/10-637877074628008258.webp?w=96"
-      },
-      "venue": "",
-      "time": "2026-10-14T03:50:00.000Z",
+      "time": "2026-10-15T06:00:00.000Z",
       "prediction": "",
       "confidence": null,
       "status": "live",
-      "result": "pending"
-    },
-    {
-      "id": "982c7933-f9bf-48e2-9cdc-e98c5109f006",
-      "series": "ICC Men's T20 World Cup Asia Sub Regional Qualifier B",
-      "matchNo": "",
-      "format": "T20",
-      "teamA": {
-        "name": "Maldives",
-        "code": "MDV",
-        "color": "#ea580c",
-        "logo": "https://g.cricapi.com/iapi/626-637874526857495616.webp?w=96"
-      },
-      "teamB": {
-        "name": "Saudi Arabia",
-        "code": "SAU",
-        "color": "#dc2626",
-        "logo": "https://g.cricapi.com/iapi/649-637877090170801940.webp?w=96"
-      },
-      "venue": "",
-      "time": "2026-10-14T06:00:00.000Z",
-      "prediction": "",
-      "confidence": null,
-      "status": "live",
-      "result": "pending"
-    },
-    {
-      "id": "e982aea2-1238-448c-9005-1cd04642693f",
-      "series": "ICC Men's T20 World Cup Asia Sub Regional Qualifier A",
-      "matchNo": "",
-      "format": "T20",
-      "teamA": {
-        "name": "Bhutan",
-        "code": "BHU",
-        "color": "#15803d",
-        "logo": "https://g.cricapi.com/iapi/588-637928919038194137.png?w=96"
-      },
-      "teamB": {
-        "name": "Thailand",
-        "code": "THAI",
-        "color": "#ea580c",
-        "logo": "https://g.cricapi.com/iapi/661-637873698140793668.webp?w=96"
-      },
-      "venue": "",
-      "time": "2026-10-14T06:00:00.000Z",
-      "prediction": "",
-      "confidence": null,
-      "status": "live",
-      "result": "pending"
-    },
-    {
-      "id": "f3064046-a1c8-458f-996e-0dbaa34531e7",
-      "series": "T20 Spring Challenge",
-      "matchNo": "",
-      "format": "T20",
-      "teamA": {
-        "name": "Adelaide Strikers Women",
-        "code": "AS-W",
-        "color": "#dc2626",
-        "logo": "https://g.cricapi.com/iapi/2645-638040168980778527.webp?w=96"
-      },
-      "teamB": {
-        "name": "Hobart Hurricanes Women",
-        "code": "HB-W",
-        "color": "#0f766e",
-        "logo": "https://g.cricapi.com/iapi/2635-638040172943294988.webp?w=96"
-      },
-      "venue": "",
-      "time": "2026-10-14T08:00:00.000Z",
-      "prediction": "",
-      "confidence": null,
-      "status": "live",
-      "result": "pending"
-    },
-    {
-      "id": "958157b7-5456-4800-986d-710d6d1ef997",
-      "series": "World Championship of Legends",
-      "matchNo": "",
-      "format": "T20",
-      "teamA": {
-        "name": "Australia Champions",
-        "code": "AUSC",
-        "color": "#a16207"
-      },
-      "teamB": {
-        "name": "England Champions",
-        "code": "ENGC",
-        "color": "#7c3aed"
-      },
-      "venue": "",
-      "time": "2026-10-14T11:30:00.000Z",
-      "prediction": "",
-      "confidence": null,
-      "status": "upcoming",
-      "result": "pending"
-    },
-    {
-      "id": "3c451481-9fa8-400b-a7b6-27cffc21e1a8",
-      "series": "West Indies tour of India",
-      "matchNo": "",
-      "format": "ODI",
-      "teamA": {
-        "name": "India",
-        "code": "IND",
-        "color": "#ea580c",
-        "logo": "https://g.cricapi.com/iapi/31-637877061080567215.webp?w=96"
-      },
-      "teamB": {
-        "name": "West Indies",
-        "code": "WI",
-        "color": "#4338ca",
-        "logo": "https://g.cricapi.com/iapi/100-637877077978319234.webp?w=96"
-      },
-      "venue": "",
-      "time": "2026-10-14T13:30:00.000Z",
-      "prediction": "",
-      "confidence": null,
-      "status": "upcoming",
-      "result": "pending"
-    },
-    {
-      "id": "3ae018c2-b25e-4363-ad48-d6a63ba44b52",
-      "series": "World Championship of Legends",
-      "matchNo": "",
-      "format": "T20",
-      "teamA": {
-        "name": "Bangladesh Champions",
-        "code": "BAN",
-        "color": "#1e3a8a"
-      },
-      "teamB": {
-        "name": "South Africa Champions",
-        "code": "SAC",
-        "color": "#ea580c"
-      },
-      "venue": "",
-      "time": "2026-10-14T15:30:00.000Z",
-      "prediction": "",
-      "confidence": null,
-      "status": "upcoming",
       "result": "pending"
     }
   ]
