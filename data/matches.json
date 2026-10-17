@@ -1,69 +1,189 @@
 {
-  "updated": "2026-10-16T07:50:49.857Z",
+  "updated": "2026-10-17T07:28:04.727Z",
   "matches": [
     {
-      "id": "4a33e95c-a65d-45d9-a3b1-5c2d5a205440",
-      "series": "World Championship of Legends",
+      "id": "22362ccf-58c8-43e7-bbba-07aace5e4043",
+      "series": "T20 Spring Challenge",
       "matchNo": "",
       "format": "T20",
       "teamA": {
-        "name": "England Champions",
-        "code": "ENGC",
-        "color": "#7c3aed"
+        "name": "Act Women",
+        "code": "ACTW",
+        "color": "#1d4ed8"
       },
       "teamB": {
-        "name": "South Africa Champions",
-        "code": "SAC",
-        "color": "#ea580c"
+        "name": "Brisbane Heat Women",
+        "code": "BH-W",
+        "color": "#dc2626"
       },
       "venue": "",
-      "time": "2026-10-16T11:30:00.000Z",
+      "time": "2026-10-16T23:00:00.000Z",
+      "prediction": "",
+      "confidence": null,
+      "status": "done",
+      "result": "pending"
+    },
+    {
+      "id": "20733218-44c7-4ea5-a7d2-e9ddcaa284fd",
+      "series": "T20 Spring Challenge",
+      "matchNo": "",
+      "format": "T20",
+      "teamA": {
+        "name": "Act Women",
+        "code": "ACTW",
+        "color": "#1d4ed8"
+      },
+      "teamB": {
+        "name": "Melbourne Stars Women",
+        "code": "MS-W",
+        "color": "#ca8a04"
+      },
+      "venue": "",
+      "time": "2026-10-17T03:30:00.000Z",
+      "prediction": "",
+      "confidence": null,
+      "status": "done",
+      "result": "pending"
+    },
+    {
+      "id": "9e0c6ba4-e542-40f0-80c5-a90958a518fe",
+      "series": "T20 Spring Challenge",
+      "matchNo": "",
+      "format": "T20",
+      "teamA": {
+        "name": "Adelaide Strikers Women",
+        "code": "AS-W",
+        "color": "#dc2626",
+        "logo": "https://g.cricapi.com/iapi/2645-638040168980778527.webp?w=96"
+      },
+      "teamB": {
+        "name": "Sydney Sixers Women",
+        "code": "SS-W",
+        "color": "#dc2626",
+        "logo": "https://g.cricapi.com/iapi/2626-638040170781201689.webp?w=96"
+      },
+      "venue": "",
+      "time": "2026-10-17T03:30:00.000Z",
+      "prediction": "",
+      "confidence": null,
+      "status": "done",
+      "result": "pending"
+    },
+    {
+      "id": "cb919ac0-a0a4-4aec-8afd-7b0d2b2d558e",
+      "series": "ICC Cricket World Cup League Two",
+      "matchNo": "",
+      "format": "ODI",
+      "teamA": {
+        "name": "Canada",
+        "code": "CAN",
+        "color": "#dc2626",
+        "logo": "https://g.cricapi.com/iapi/14-637877085850526611.webp?w=96"
+      },
+      "teamB": {
+        "name": "Nepal",
+        "code": "NEP",
+        "color": "#ca8a04",
+        "logo": "https://g.cricapi.com/iapi/54-637877084789981539.webp?w=96"
+      },
+      "venue": "",
+      "time": "2026-10-17T06:00:00.000Z",
+      "prediction": "",
+      "confidence": null,
+      "status": "live",
+      "result": "pending"
+    },
+    {
+      "id": "0b3dc892-fed0-4cf8-92a9-4ffc57a1daba",
+      "series": "ECA Women's European Cup",
+      "matchNo": "",
+      "format": "T20",
+      "teamA": {
+        "name": "Austria Women",
+        "code": "AUTW",
+        "color": "#7c3aed",
+        "logo": "https://g.cricapi.com/iapi/581-637867646191086862.webp?w=96"
+      },
+      "teamB": {
+        "name": "Romania Women",
+        "code": "RW",
+        "color": "#7c3aed",
+        "logo": "https://g.cricapi.com/iapi/645-637867439654876721.png?w=96"
+      },
+      "venue": "",
+      "time": "2026-10-17T07:00:00.000Z",
+      "prediction": "",
+      "confidence": null,
+      "status": "live",
+      "result": "pending"
+    },
+    {
+      "id": "a17316e5-2020-4eb3-94e8-331195dab215",
+      "series": "ECA Women's European Cup",
+      "matchNo": "",
+      "format": "T20",
+      "teamA": {
+        "name": "Romania Women",
+        "code": "RW",
+        "color": "#7c3aed",
+        "logo": "https://g.cricapi.com/iapi/645-637867439654876721.png?w=96"
+      },
+      "teamB": {
+        "name": "Sweden Women",
+        "code": "SWE-",
+        "color": "#a16207",
+        "logo": "https://g.cricapi.com/iapi/3004-638040161487648380.webp?w=96"
+      },
+      "venue": "",
+      "time": "2026-10-17T11:00:00.000Z",
       "prediction": "",
       "confidence": null,
       "status": "upcoming",
       "result": "pending"
     },
     {
-      "id": "b9c38067-96a6-41ea-94ba-417b4d8f0f23",
-      "series": "Zimbabwe Women tour of India",
+      "id": "20822cbb-7fb1-4ba0-a975-b74bd2613bba",
+      "series": "ODI Tri-Nation Series in UAE",
       "matchNo": "",
-      "format": "T20",
+      "format": "ODI",
       "teamA": {
-        "name": "India Women",
-        "code": "INDW",
-        "color": "#0369a1",
-        "logo": "https://g.cricapi.com/iapi/32-637877061328728555.webp?w=96"
+        "name": "Bangladesh",
+        "code": "BAN",
+        "color": "#7c3aed",
+        "logo": "https://g.cricapi.com/iapi/9-637877074109248302.webp?w=96"
       },
       "teamB": {
-        "name": "Zimbabwe Women",
-        "code": "ZIMW",
-        "color": "#b91c1c",
-        "logo": "https://g.cricapi.com/iapi/1141-637877080090615236.webp?w=96"
+        "name": "Zimbabwe",
+        "code": "ZIM",
+        "color": "#7c3aed",
+        "logo": "https://g.cricapi.com/iapi/575-637877079629985215.webp?w=96"
       },
       "venue": "",
-      "time": "2026-10-16T13:30:00.000Z",
+      "time": "2026-10-17T12:00:00.000Z",
       "prediction": "",
       "confidence": null,
       "status": "upcoming",
       "result": "pending"
     },
     {
-      "id": "7be65e20-8aab-4774-9170-303169bb29a6",
-      "series": "World Championship of Legends",
+      "id": "f6ac293e-72ae-434e-aabc-dec0bdcc2114",
+      "series": "West Indies tour of India",
       "matchNo": "",
-      "format": "T20",
+      "format": "ODI",
       "teamA": {
-        "name": "Australia Champions",
-        "code": "AUSC",
-        "color": "#a16207"
+        "name": "India",
+        "code": "IND",
+        "color": "#ea580c",
+        "logo": "https://g.cricapi.com/iapi/31-637877061080567215.webp?w=96"
       },
       "teamB": {
-        "name": "West Indies Champions",
-        "code": "WIC",
-        "color": "#7c3aed"
+        "name": "West Indies",
+        "code": "WI",
+        "color": "#4338ca",
+        "logo": "https://g.cricapi.com/iapi/100-637877077978319234.webp?w=96"
       },
       "venue": "",
-      "time": "2026-10-16T15:30:00.000Z",
+      "time": "2026-10-17T13:30:00.000Z",
       "prediction": "",
       "confidence": null,
       "status": "upcoming",
