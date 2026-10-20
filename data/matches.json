@@ -1,121 +1,213 @@
 {
-  "updated": "2026-10-19T08:25:37.806Z",
+  "updated": "2026-10-20T08:07:41.317Z",
   "matches": [
     {
-      "id": "c6a8495a-4a09-4aec-b835-53847349ad00",
+      "id": "23c140b5-eebc-4cb1-af1e-ddb885335b30",
+      "series": "Sheffield Shield",
+      "matchNo": "",
+      "format": "Test",
+      "teamA": {
+        "name": "Tasmania",
+        "code": "TAS",
+        "color": "#9f1239",
+        "logo": "https://g.cricapi.com/iapi/88-637987559070396403.webp?w=96"
+      },
+      "teamB": {
+        "name": "Victoria",
+        "code": "VIC",
+        "color": "#16a34a",
+        "logo": "https://g.cricapi.com/iapi/96-637987557199223762.webp?w=96"
+      },
+      "venue": "",
+      "time": "2026-10-19T23:30:00.000Z",
+      "prediction": "",
+      "confidence": null,
+      "status": "live",
+      "result": "pending"
+    },
+    {
+      "id": "05595be9-f139-4b20-929c-4a1466b0dda0",
       "series": "T20 Spring Challenge",
       "matchNo": "",
       "format": "T20",
       "teamA": {
-        "name": "Hobart Hurricanes Women",
-        "code": "HB-W",
-        "color": "#0f766e",
-        "logo": "https://g.cricapi.com/iapi/2635-638040172943294988.webp?w=96"
+        "name": "Sydney Sixers Women",
+        "code": "SS-W",
+        "color": "#dc2626",
+        "logo": "https://g.cricapi.com/iapi/2626-638040170781201689.webp?w=96"
       },
       "teamB": {
-        "name": "Melbourne Renegades Women",
-        "code": "MR-W",
-        "color": "#b91c1c",
-        "logo": "https://g.cricapi.com/iapi/2655-638040167731668168.webp?w=96"
+        "name": "Sydney Thunder Women",
+        "code": "ST-W",
+        "color": "#be185d",
+        "logo": "https://g.cricapi.com/iapi/2636-638040169751591741.webp?w=96"
       },
       "venue": "",
-      "time": "2026-10-18T23:00:00.000Z",
+      "time": "2026-10-20T03:30:00.000Z",
       "prediction": "",
       "confidence": null,
       "status": "done",
       "result": "pending"
     },
     {
-      "id": "f931761d-50b9-45bc-abf4-f52a6ad29722",
-      "series": "Sheffield Shield",
-      "matchNo": "",
-      "format": "Test",
-      "teamA": {
-        "name": "Queensland",
-        "code": "QL",
-        "color": "#ca8a04",
-        "logo": "https://g.cricapi.com/iapi/73-637992667453177840.webp?w=96"
-      },
-      "teamB": {
-        "name": "South Australia",
-        "code": "SAUS",
-        "color": "#1e3a8a",
-        "logo": "https://g.cricapi.com/iapi/84-637993500332119314.webp?w=96"
-      },
-      "venue": "",
-      "time": "2026-10-19T00:00:00.000Z",
-      "prediction": "",
-      "confidence": null,
-      "status": "live",
-      "result": "pending"
-    },
-    {
-      "id": "09586a79-abed-4c9b-bccb-90b7ec10c213",
-      "series": "Sheffield Shield",
-      "matchNo": "",
-      "format": "Test",
-      "teamA": {
-        "name": "New South Wales",
-        "code": "NSW",
-        "color": "#1e3a8a",
-        "logo": "https://g.cricapi.com/iapi/56-637991992698313262.webp?w=96"
-      },
-      "teamB": {
-        "name": "Western Australia",
-        "code": "WA",
-        "color": "#15803d",
-        "logo": "https://g.cricapi.com/iapi/103-637987555730367982.webp?w=96"
-      },
-      "venue": "",
-      "time": "2026-10-19T02:30:00.000Z",
-      "prediction": "",
-      "confidence": null,
-      "status": "live",
-      "result": "pending"
-    },
-    {
-      "id": "d1a5aeba-24cc-4546-b214-df6de78f1247",
-      "series": "ICC Cricket World Cup League Two",
+      "id": "17fc6ab9-84ba-490f-b35a-e671192df9cc",
+      "series": "Pakistan ODI Tri-Series",
       "matchNo": "",
       "format": "ODI",
       "teamA": {
-        "name": "Nepal",
-        "code": "NEP",
-        "color": "#ca8a04",
-        "logo": "https://g.cricapi.com/iapi/54-637877084789981539.webp?w=96"
+        "name": "England",
+        "code": "ENG",
+        "color": "#4338ca",
+        "logo": "https://g.cricapi.com/iapi/23-637877072894080569.webp?w=96"
       },
       "teamB": {
-        "name": "Oman",
-        "code": "OMAN",
-        "color": "#86198f",
-        "logo": "https://g.cricapi.com/iapi/64-637877083212505394.webp?w=96"
+        "name": "Pakistan",
+        "code": "PAK",
+        "color": "#1e3a8a",
+        "logo": "https://g.cricapi.com/iapi/66-637877075103236690.webp?w=96"
       },
       "venue": "",
-      "time": "2026-10-19T06:00:00.000Z",
+      "time": "2026-10-20T08:00:00.000Z",
       "prediction": "",
       "confidence": null,
       "status": "live",
       "result": "pending"
     },
     {
-      "id": "a14f02f8-9bc2-44ad-b3aa-17e6e1972e80",
-      "series": "ODI Tri-Nation Series in UAE",
+      "id": "2e5ee6e9-511f-434e-b794-9d3a792e2a6e",
+      "series": "New Zealand Women tour of Australia",
       "matchNo": "",
-      "format": "ODI",
+      "format": "T20",
       "teamA": {
-        "name": "Afghanistan",
-        "code": "AFG",
-        "color": "#ca8a04",
-        "logo": "https://g.cricapi.com/iapi/1-637877075587179422.webp?w=96"
+        "name": "Australia Women",
+        "code": "AUSW",
+        "color": "#dc2626",
+        "logo": "https://g.cricapi.com/iapi/7-637877070884402012.webp?w=96"
       },
       "teamB": {
-        "name": "Zimbabwe",
-        "code": "ZIM",
-        "color": "#7c3aed",
-        "logo": "https://g.cricapi.com/iapi/575-637877079629985215.webp?w=96"
+        "name": "New Zealand Women",
+        "code": "NZW",
+        "color": "#16a34a",
+        "logo": "https://g.cricapi.com/iapi/58-637877077173296488.webp?w=96"
       },
       "venue": "",
-      "time": "2026-10-19T12:00:00.000Z",
+      "time": "2026-10-20T08:15:00.000Z",
+      "prediction": "",
+      "confidence": null,
+      "status": "upcoming",
+      "result": "pending"
+    },
+    {
+      "id": "d15fcf8c-a4b4-44a3-8ae4-8043acbe5e56",
+      "series": "Bangladesh Women tour of Australia",
+      "matchNo": "",
+      "format": "T20",
+      "teamA": {
+        "name": "Australia Women",
+        "code": "AUSW",
+        "color": "#dc2626",
+        "logo": "https://g.cricapi.com/iapi/7-637877070884402012.webp?w=96"
+      },
+      "teamB": {
+        "name": "Bangladesh Women",
+        "code": "BANW",
+        "color": "#b91c1c",
+        "logo": "https://g.cricapi.com/iapi/10-637877074628008258.webp?w=96"
+      },
+      "venue": "",
+      "time": "2026-10-20T08:15:00.000Z",
+      "prediction": "",
+      "confidence": null,
+      "status": "upcoming",
+      "result": "pending"
+    },
+    {
+      "id": "63c4305e-f2ff-4052-a425-76c903a0dfce",
+      "series": "ICC Men's T20 World Cup Africa Sub Regional Qualifier C",
+      "matchNo": "",
+      "format": "T20",
+      "teamA": {
+        "name": "Uganda",
+        "code": "UGA",
+        "color": "#9f1239"
+      },
+      "teamB": {
+        "name": "Zambia",
+        "code": "ZAM",
+        "color": "#ca8a04"
+      },
+      "venue": "",
+      "time": "2026-10-20T09:00:00.000Z",
+      "prediction": "",
+      "confidence": null,
+      "status": "upcoming",
+      "result": "pending"
+    },
+    {
+      "id": "bea783d5-929c-4bda-a9a9-5e048aaa91a8",
+      "series": "ICC Men's T20 World Cup Africa Sub Regional Qualifier C",
+      "matchNo": "",
+      "format": "T20",
+      "teamA": {
+        "name": "Gambia",
+        "code": "GAM",
+        "color": "#ea580c"
+      },
+      "teamB": {
+        "name": "Nigeria",
+        "code": "NGA",
+        "color": "#b91c1c"
+      },
+      "venue": "",
+      "time": "2026-10-20T13:00:00.000Z",
+      "prediction": "",
+      "confidence": null,
+      "status": "upcoming",
+      "result": "pending"
+    },
+    {
+      "id": "e21d858e-32a8-42cd-8591-22fe9787cae3",
+      "series": "ICC Men's T20 World Cup Africa Sub Regional Qualifier C",
+      "matchNo": "",
+      "format": "T20",
+      "teamA": {
+        "name": "Lesotho",
+        "code": "LES",
+        "color": "#be185d",
+        "logo": "https://g.cricapi.com/iapi/622-637876983538194362.webp?w=96"
+      },
+      "teamB": {
+        "name": "Mozambique",
+        "code": "MOZ",
+        "color": "#be185d",
+        "logo": "https://g.cricapi.com/iapi/629-637874527190928305.webp?w=96"
+      },
+      "venue": "",
+      "time": "2026-10-20T13:00:00.000Z",
+      "prediction": "",
+      "confidence": null,
+      "status": "upcoming",
+      "result": "pending"
+    },
+    {
+      "id": "7ef2a3f0-c9f5-402a-9417-078e9d583d6e",
+      "series": "Zimbabwe Women tour of India",
+      "matchNo": "",
+      "format": "T20",
+      "teamA": {
+        "name": "India Women",
+        "code": "INDW",
+        "color": "#0369a1",
+        "logo": "https://g.cricapi.com/iapi/32-637877061328728555.webp?w=96"
+      },
+      "teamB": {
+        "name": "Zimbabwe Women",
+        "code": "ZIMW",
+        "color": "#b91c1c",
+        "logo": "https://g.cricapi.com/iapi/1141-637877080090615236.webp?w=96"
+      },
+      "venue": "",
+      "time": "2026-10-20T13:30:00.000Z",
       "prediction": "",
       "confidence": null,
       "status": "upcoming",
