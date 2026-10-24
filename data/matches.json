@@ -1,54 +1,128 @@
 {
-  "updated": "2026-10-23T08:12:04.685Z",
+  "updated": "2026-10-24T07:50:37.192Z",
   "matches": [
     {
-      "id": "0957b7a3-4906-49ef-9008-ccc58986f7ad",
-      "series": "Zimbabwe Women tour of India",
+      "id": "ad69a927-b6f2-4535-95c1-da3fc0203e45",
+      "series": "ICC CWC Challenge League A",
       "matchNo": "",
-      "format": "T20",
+      "format": "ODI",
       "teamA": {
-        "name": "India Women",
-        "code": "INDW",
+        "name": "Kenya",
+        "code": "KEN",
+        "color": "#9f1239",
+        "logo": "https://g.cricapi.com/iapi/620-637877088284816006.webp?w=96"
+      },
+      "teamB": {
+        "name": "Qatar",
+        "code": "QAT",
         "color": "#0369a1",
-        "logo": "https://g.cricapi.com/iapi/32-637877061328728555.webp?w=96"
-      },
-      "teamB": {
-        "name": "Zimbabwe Women",
-        "code": "ZIMW",
-        "color": "#b91c1c",
-        "logo": "https://g.cricapi.com/iapi/1141-637877080090615236.webp?w=96"
+        "logo": "https://g.cricapi.com/iapi/577-637877086204623715.webp?w=96"
       },
       "venue": "",
-      "time": "2026-10-23T08:30:00.000Z",
+      "time": "2026-10-24T00:00:00.000Z",
       "prediction": "",
       "confidence": null,
-      "status": "upcoming",
+      "status": "live",
       "result": "pending"
     },
     {
-      "id": "3140a033-437c-4ca5-81ff-b41b9e688f53",
-      "series": "ICC Men's T20 World Cup Africa Sub Regional Qualifier C",
+      "id": "acaeec1f-8aad-4da1-b938-790780303e0a",
+      "series": "ICC CWC Challenge League A",
+      "matchNo": "",
+      "format": "ODI",
+      "teamA": {
+        "name": "Denmark",
+        "code": "DEN",
+        "color": "#a16207",
+        "logo": "https://g.cricapi.com/iapi/599-637867438645047537.webp?w=96"
+      },
+      "teamB": {
+        "name": "Kuwait",
+        "code": "KUW",
+        "color": "#16a34a",
+        "logo": "https://g.cricapi.com/iapi/621-637864920257551899.webp?w=96"
+      },
+      "venue": "",
+      "time": "2026-10-24T00:00:00.000Z",
+      "prediction": "",
+      "confidence": null,
+      "status": "live",
+      "result": "pending"
+    },
+    {
+      "id": "8b87b24d-a17b-4a70-ac44-5d4054658a14",
+      "series": "Australia Domestic One-Day Cup",
+      "matchNo": "",
+      "format": "ODI",
+      "teamA": {
+        "name": "New South Wales",
+        "code": "NSW",
+        "color": "#1e3a8a",
+        "logo": "https://g.cricapi.com/iapi/56-637991992698313262.webp?w=96"
+      },
+      "teamB": {
+        "name": "Western Australia",
+        "code": "WA",
+        "color": "#15803d",
+        "logo": "https://g.cricapi.com/iapi/103-637987555730367982.webp?w=96"
+      },
+      "venue": "",
+      "time": "2026-10-24T06:00:00.000Z",
+      "prediction": "",
+      "confidence": null,
+      "status": "live",
+      "result": "pending"
+    },
+    {
+      "id": "7a614754-d3c7-4690-b8b2-2759ff00a673",
+      "series": "India tour of New Zealand",
       "matchNo": "",
       "format": "T20",
       "teamA": {
-        "name": "Lesotho",
-        "code": "LES",
-        "color": "#be185d"
+        "name": "India",
+        "code": "IND",
+        "color": "#ea580c",
+        "logo": "https://g.cricapi.com/iapi/31-637877061080567215.webp?w=96"
       },
       "teamB": {
-        "name": "Zambia",
-        "code": "ZAM",
-        "color": "#ca8a04"
+        "name": "New Zealand",
+        "code": "NZ",
+        "color": "#b91c1c",
+        "logo": "https://g.cricapi.com/iapi/57-637877076980737903.webp?w=96"
       },
       "venue": "",
-      "time": "2026-10-23T09:00:00.000Z",
+      "time": "2026-10-24T07:00:00.000Z",
+      "prediction": "",
+      "confidence": null,
+      "status": "live",
+      "result": "pending"
+    },
+    {
+      "id": "3ada9f3e-8e32-4f49-80d5-0f915e19d3fd",
+      "series": "Ireland tour of Namibia",
+      "matchNo": "",
+      "format": "ODI",
+      "teamA": {
+        "name": "Ireland",
+        "code": "IRE",
+        "color": "#ea580c",
+        "logo": "https://g.cricapi.com/iapi/33-637926315578500224.png?w=96"
+      },
+      "teamB": {
+        "name": "Namibia",
+        "code": "NAM",
+        "color": "#86198f",
+        "logo": "https://g.cricapi.com/iapi/53-637877082656229722.webp?w=96"
+      },
+      "venue": "",
+      "time": "2026-10-24T08:00:00.000Z",
       "prediction": "",
       "confidence": null,
       "status": "upcoming",
       "result": "pending"
     },
     {
-      "id": "cef60146-811d-495b-a3d1-64f87e588a78",
+      "id": "41b3c2d0-5897-4e56-b8c7-d3116afb6ab3",
       "series": "ICC Men's T20 World Cup Africa Sub Regional Qualifier C",
       "matchNo": "",
       "format": "T20",
@@ -59,44 +133,44 @@
         "logo": "https://g.cricapi.com/iapi/629-637874527190928305.webp?w=96"
       },
       "teamB": {
+        "name": "Uganda",
+        "code": "UGA",
+        "color": "#9f1239",
+        "logo": "https://g.cricapi.com/iapi/664-637877086718333803.webp?w=96"
+      },
+      "venue": "",
+      "time": "2026-10-24T09:00:00.000Z",
+      "prediction": "",
+      "confidence": null,
+      "status": "upcoming",
+      "result": "pending"
+    },
+    {
+      "id": "5794e291-c7ff-4542-8835-792bc4e06911",
+      "series": "ICC Men's T20 World Cup Africa Sub Regional Qualifier C",
+      "matchNo": "",
+      "format": "T20",
+      "teamA": {
+        "name": "Lesotho",
+        "code": "LES",
+        "color": "#be185d",
+        "logo": "https://g.cricapi.com/iapi/622-637876983538194362.webp?w=96"
+      },
+      "teamB": {
         "name": "Nigeria",
         "code": "NGA",
         "color": "#b91c1c",
         "logo": "https://g.cricapi.com/iapi/635-637867646765235442.webp?w=96"
       },
       "venue": "",
-      "time": "2026-10-23T09:00:00.000Z",
+      "time": "2026-10-24T13:00:00.000Z",
       "prediction": "",
       "confidence": null,
       "status": "upcoming",
       "result": "pending"
     },
     {
-      "id": "17cfca64-315b-498b-8009-57996a04342f",
-      "series": "ODI Tri-Nation Series in UAE",
-      "matchNo": "",
-      "format": "ODI",
-      "teamA": {
-        "name": "Afghanistan",
-        "code": "AFG",
-        "color": "#ca8a04",
-        "logo": "https://g.cricapi.com/iapi/1-637877075587179422.webp?w=96"
-      },
-      "teamB": {
-        "name": "Zimbabwe",
-        "code": "ZIM",
-        "color": "#7c3aed",
-        "logo": "https://g.cricapi.com/iapi/575-637877079629985215.webp?w=96"
-      },
-      "venue": "",
-      "time": "2026-10-23T12:00:00.000Z",
-      "prediction": "",
-      "confidence": null,
-      "status": "upcoming",
-      "result": "pending"
-    },
-    {
-      "id": "b12481b9-3c03-4a66-836f-0d87019d63ab",
+      "id": "5a8024c3-e727-421b-bceb-3c47644fb1ba",
       "series": "ICC Men's T20 World Cup Africa Sub Regional Qualifier C",
       "matchNo": "",
       "format": "T20",
@@ -106,12 +180,34 @@
         "color": "#ea580c"
       },
       "teamB": {
-        "name": "Uganda",
-        "code": "UGA",
-        "color": "#9f1239"
+        "name": "Zambia",
+        "code": "ZAM",
+        "color": "#ca8a04"
       },
       "venue": "",
-      "time": "2026-10-23T13:00:00.000Z",
+      "time": "2026-10-24T13:00:00.000Z",
+      "prediction": "",
+      "confidence": null,
+      "status": "upcoming",
+      "result": "pending"
+    },
+    {
+      "id": "13ecc73c-a3c3-49bb-ae2d-6c1593859d56",
+      "series": "Argentina Women tour of Mexico",
+      "matchNo": "",
+      "format": "T20",
+      "teamA": {
+        "name": "Argentina Women",
+        "code": "ARW",
+        "color": "#0369a1"
+      },
+      "teamB": {
+        "name": "Mexico Women",
+        "code": "MXW",
+        "color": "#7c3aed"
+      },
+      "venue": "",
+      "time": "2026-10-24T14:00:00.000Z",
       "prediction": "",
       "confidence": null,
       "status": "upcoming",
