@@ -1,482 +1,196 @@
 {
-  "updated": "2026-10-26T08:27:20.149Z",
+  "updated": "2026-10-27T08:35:28.518Z",
   "matches": [
     {
-      "id": "a2d9a56c-3489-48c6-8382-081f656ff954",
-      "series": "Argentina Women tour of Mexico",
+      "id": "49d7bcea-8240-452a-aac0-fcf53e765849",
+      "series": "ICC CWC Challenge League A",
+      "matchNo": "",
+      "format": "ODI",
+      "teamA": {
+        "name": "Jersey",
+        "code": "JER",
+        "color": "#1d4ed8",
+        "logo": "https://g.cricapi.com/iapi/619-637877088641021958.webp?w=96"
+      },
+      "teamB": {
+        "name": "Kuwait",
+        "code": "KUW",
+        "color": "#16a34a",
+        "logo": "https://g.cricapi.com/iapi/621-637864920257551899.webp?w=96"
+      },
+      "venue": "",
+      "time": "2026-10-27T05:30:00.000Z",
+      "prediction": "",
+      "confidence": null,
+      "status": "live",
+      "result": "pending"
+    },
+    {
+      "id": "7b72f68e-5e02-483e-857c-08037e12971d",
+      "series": "ICC CWC Challenge League A",
+      "matchNo": "",
+      "format": "ODI",
+      "teamA": {
+        "name": "Papua New Guinea",
+        "code": "PNG",
+        "color": "#ca8a04",
+        "logo": "https://g.cricapi.com/iapi/68-637877083835752068.webp?w=96"
+      },
+      "teamB": {
+        "name": "Qatar",
+        "code": "QAT",
+        "color": "#0369a1",
+        "logo": "https://g.cricapi.com/iapi/577-637877086204623715.webp?w=96"
+      },
+      "venue": "",
+      "time": "2026-10-27T05:30:00.000Z",
+      "prediction": "",
+      "confidence": null,
+      "status": "live",
+      "result": "pending"
+    },
+    {
+      "id": "df5dd379-9372-490a-99d2-b6b54a17f9a5",
+      "series": "ICC Cricket World Cup League Two",
+      "matchNo": "",
+      "format": "ODI",
+      "teamA": {
+        "name": "Netherlands",
+        "code": "NED",
+        "color": "#1d4ed8",
+        "logo": "https://g.cricapi.com/iapi/55-637877084465746618.webp?w=96"
+      },
+      "teamB": {
+        "name": "Oman",
+        "code": "OMAN",
+        "color": "#86198f",
+        "logo": "https://g.cricapi.com/iapi/64-637877083212505394.webp?w=96"
+      },
+      "venue": "",
+      "time": "2026-10-27T05:30:00.000Z",
+      "prediction": "",
+      "confidence": null,
+      "status": "live",
+      "result": "pending"
+    },
+    {
+      "id": "1962f911-9e43-4b49-9e02-f3ef74b76fe6",
+      "series": "India tour of New Zealand",
       "matchNo": "",
       "format": "T20",
       "teamA": {
-        "name": "Argentina Women",
-        "code": "ARW",
-        "color": "#0369a1"
+        "name": "India",
+        "code": "IND",
+        "color": "#ea580c",
+        "logo": "https://g.cricapi.com/iapi/31-637877061080567215.webp?w=96"
       },
       "teamB": {
-        "name": "Mexico Women",
-        "code": "MXW",
-        "color": "#7c3aed"
-      },
-      "venue": "",
-      "time": "2026-10-25T19:00:00.000Z",
-      "prediction": "",
-      "confidence": null,
-      "status": "done",
-      "result": "pending"
-    },
-    {
-      "id": "13c85a72-15e8-47aa-ab33-f1713c8436fa",
-      "series": "Ranji Trophy Plate",
-      "matchNo": "",
-      "format": "Test",
-      "teamA": {
-        "name": "Nagaland",
-        "code": "NGL",
-        "color": "#0f766e",
-        "logo": "https://g.cricapi.com/iapi/52-637897800938942974.png?w=96"
-      },
-      "teamB": {
-        "name": "Sikkim",
-        "code": "SKM",
-        "color": "#a16207",
-        "logo": "https://g.cricapi.com/iapi/81-637897804239198149.png?w=96"
-      },
-      "venue": "",
-      "time": "2026-10-26T04:00:00.000Z",
-      "prediction": "",
-      "confidence": null,
-      "status": "live",
-      "result": "pending"
-    },
-    {
-      "id": "eec77188-4705-4751-9071-a01b947fef41",
-      "series": "Ranji Trophy Plate",
-      "matchNo": "",
-      "format": "Test",
-      "teamA": {
-        "name": "Meghalaya",
-        "code": "MGLY",
-        "color": "#0369a1",
-        "logo": "https://g.cricapi.com/iapi/47-637897799109677927.png?w=96"
-      },
-      "teamB": {
-        "name": "Mizoram",
-        "code": "MIZ",
-        "color": "#1e3a8a",
-        "logo": "https://g.cricapi.com/iapi/48-637897799543539926.png?w=96"
-      },
-      "venue": "",
-      "time": "2026-10-26T04:00:00.000Z",
-      "prediction": "",
-      "confidence": null,
-      "status": "live",
-      "result": "pending"
-    },
-    {
-      "id": "e8adf8e6-a334-4fce-88b6-58e5ca825e8e",
-      "series": "Ranji Trophy Plate",
-      "matchNo": "",
-      "format": "Test",
-      "teamA": {
-        "name": "Arunachal Pradesh",
-        "code": "ARNP",
-        "color": "#9f1239",
-        "logo": "https://g.cricapi.com/iapi/3-637897787732978973.png?w=96"
-      },
-      "teamB": {
-        "name": "Manipur",
-        "code": "MNP",
-        "color": "#dc2626",
-        "logo": "https://g.cricapi.com/iapi/46-637897798559839649.png?w=96"
-      },
-      "venue": "",
-      "time": "2026-10-26T04:00:00.000Z",
-      "prediction": "",
-      "confidence": null,
-      "status": "live",
-      "result": "pending"
-    },
-    {
-      "id": "4e5de3ad-9b5f-4c05-ab6c-406d91e828f8",
-      "series": "Ranji Trophy Elite",
-      "matchNo": "",
-      "format": "Test",
-      "teamA": {
-        "name": "Rajasthan",
-        "code": "RAJ",
-        "color": "#dc2626",
-        "logo": "https://g.cricapi.com/iapi/76-637897803285904034.png?w=96"
-      },
-      "teamB": {
-        "name": "Uttarakhand",
-        "code": "UTK",
-        "color": "#16a34a",
-        "logo": "https://g.cricapi.com/iapi/95-637897806132002810.png?w=96"
-      },
-      "venue": "",
-      "time": "2026-10-26T04:00:00.000Z",
-      "prediction": "",
-      "confidence": null,
-      "status": "live",
-      "result": "pending"
-    },
-    {
-      "id": "d985de69-d18b-471d-a8bf-3addf63de691",
-      "series": "Ranji Trophy Elite",
-      "matchNo": "",
-      "format": "Test",
-      "teamA": {
-        "name": "Puducherry",
-        "code": "PDC",
-        "color": "#16a34a",
-        "logo": "https://g.cricapi.com/iapi/71-637897802638820789.png?w=96"
-      },
-      "teamB": {
-        "name": "Uttar Pradesh",
-        "code": "UP",
-        "color": "#86198f",
-        "logo": "https://g.cricapi.com/iapi/94-637897806676935322.png?w=96"
-      },
-      "venue": "",
-      "time": "2026-10-26T04:00:00.000Z",
-      "prediction": "",
-      "confidence": null,
-      "status": "live",
-      "result": "pending"
-    },
-    {
-      "id": "c50b039e-0781-41c9-811e-373ef480c314",
-      "series": "Ranji Trophy Elite",
-      "matchNo": "",
-      "format": "Test",
-      "teamA": {
-        "name": "Railways",
-        "code": "RLYS",
-        "color": "#be185d",
-        "logo": "https://g.cricapi.com/iapi/75-637897802979231020.png?w=96"
-      },
-      "teamB": {
-        "name": "Tamil Nadu",
-        "code": "TN",
+        "name": "New Zealand",
+        "code": "NZ",
         "color": "#b91c1c",
-        "logo": "https://g.cricapi.com/iapi/87-637897804625426972.png?w=96"
+        "logo": "https://g.cricapi.com/iapi/57-637877076980737903.webp?w=96"
       },
       "venue": "",
-      "time": "2026-10-26T04:00:00.000Z",
+      "time": "2026-10-27T07:00:00.000Z",
       "prediction": "",
       "confidence": null,
       "status": "live",
       "result": "pending"
     },
     {
-      "id": "0110998a-5b40-4188-9fb2-172e8c5d9ea8",
-      "series": "Ranji Trophy Elite",
+      "id": "339bd1c4-ccc3-44ba-9ad3-5dac79401d40",
+      "series": "Ireland tour of Namibia",
       "matchNo": "",
-      "format": "Test",
+      "format": "ODI",
       "teamA": {
-        "name": "Baroda",
-        "code": "BRD",
-        "color": "#4338ca",
-        "logo": "https://g.cricapi.com/iapi/11-637897788547716432.png?w=96"
-      },
-      "teamB": {
-        "name": "Jammu and Kashmir",
-        "code": "JK",
-        "color": "#1d4ed8",
-        "logo": "https://g.cricapi.com/iapi/35-637897795101008676.png?w=96"
-      },
-      "venue": "",
-      "time": "2026-10-26T04:00:00.000Z",
-      "prediction": "",
-      "confidence": null,
-      "status": "live",
-      "result": "pending"
-    },
-    {
-      "id": "3a6722ec-4d79-4d4b-9aa0-97b5d8372ff5",
-      "series": "Ranji Trophy Elite",
-      "matchNo": "",
-      "format": "Test",
-      "teamA": {
-        "name": "Goa",
-        "code": "GOA",
-        "color": "#4338ca",
-        "logo": "https://g.cricapi.com/iapi/26-637897792202678375.png?w=96"
-      },
-      "teamB": {
-        "name": "Vidarbha",
-        "code": "VID",
-        "color": "#4338ca",
-        "logo": "https://g.cricapi.com/iapi/97-637897807024164117.png?w=96"
-      },
-      "venue": "",
-      "time": "2026-10-26T04:00:00.000Z",
-      "prediction": "",
-      "confidence": null,
-      "status": "live",
-      "result": "pending"
-    },
-    {
-      "id": "e39bbfa5-ccaa-4f9a-a64d-76602df67498",
-      "series": "Ranji Trophy Elite",
-      "matchNo": "",
-      "format": "Test",
-      "teamA": {
-        "name": "Andhra",
-        "code": "AP",
-        "color": "#1d4ed8",
-        "logo": "https://g.cricapi.com/iapi/2-637897787068768481.png?w=96"
-      },
-      "teamB": {
-        "name": "Chhattisgarh",
-        "code": "CG",
-        "color": "#0f766e",
-        "logo": "https://g.cricapi.com/iapi/18-637897790441171438.png?w=96"
-      },
-      "venue": "",
-      "time": "2026-10-26T04:00:00.000Z",
-      "prediction": "",
-      "confidence": null,
-      "status": "live",
-      "result": "pending"
-    },
-    {
-      "id": "c81a306a-824b-48de-8229-76536188098a",
-      "series": "Ranji Trophy Elite",
-      "matchNo": "",
-      "format": "Test",
-      "teamA": {
-        "name": "Assam",
-        "code": "ASM",
-        "color": "#1e3a8a",
-        "logo": "https://g.cricapi.com/iapi/4-637897788303626448.png?w=96"
-      },
-      "teamB": {
-        "name": "Saurashtra",
-        "code": "SAUR",
-        "color": "#0f766e",
-        "logo": "https://g.cricapi.com/iapi/78-637897803602821716.png?w=96"
-      },
-      "venue": "",
-      "time": "2026-10-26T04:00:00.000Z",
-      "prediction": "",
-      "confidence": null,
-      "status": "live",
-      "result": "pending"
-    },
-    {
-      "id": "bc8c0894-af80-4f24-831c-ed2a3022205d",
-      "series": "Ranji Trophy Elite",
-      "matchNo": "",
-      "format": "Test",
-      "teamA": {
-        "name": "Hyderabad",
-        "code": "HYD",
-        "color": "#ca8a04",
-        "logo": "https://g.cricapi.com/iapi/30-637897794525321433.png?w=96"
-      },
-      "teamB": {
-        "name": "Punjab",
-        "code": "PUN",
-        "color": "#15803d",
-        "logo": "https://g.cricapi.com/iapi/72-637897801965344275.png?w=96"
-      },
-      "venue": "",
-      "time": "2026-10-26T04:00:00.000Z",
-      "prediction": "",
-      "confidence": null,
-      "status": "live",
-      "result": "pending"
-    },
-    {
-      "id": "dcc8719c-27ab-4bc4-87c7-e9a2dfa82569",
-      "series": "Ranji Trophy Elite",
-      "matchNo": "",
-      "format": "Test",
-      "teamA": {
-        "name": "Karnataka",
-        "code": "KAR",
-        "color": "#15803d",
-        "logo": "https://g.cricapi.com/iapi/38-637897796420763611.png?w=96"
-      },
-      "teamB": {
-        "name": "Tripura",
-        "code": "TRI",
-        "color": "#16a34a",
-        "logo": "https://g.cricapi.com/iapi/90-637897805085647315.png?w=96"
-      },
-      "venue": "",
-      "time": "2026-10-26T04:00:00.000Z",
-      "prediction": "",
-      "confidence": null,
-      "status": "live",
-      "result": "pending"
-    },
-    {
-      "id": "9fbefe6c-1592-4289-91ae-d327f47b0e5e",
-      "series": "Ranji Trophy Elite",
-      "matchNo": "",
-      "format": "Test",
-      "teamA": {
-        "name": "Chandigarh",
-        "code": "CDG",
+        "name": "Ireland",
+        "code": "IRE",
         "color": "#ea580c",
-        "logo": "https://g.cricapi.com/iapi/17-637897790786615930.png?w=96"
+        "logo": "https://g.cricapi.com/iapi/33-637926315578500224.png?w=96"
       },
       "teamB": {
-        "name": "Himachal Pradesh",
-        "code": "HP",
-        "color": "#a16207",
-        "logo": "https://g.cricapi.com/iapi/29-637897794090988497.png?w=96"
-      },
-      "venue": "",
-      "time": "2026-10-26T04:00:00.000Z",
-      "prediction": "",
-      "confidence": null,
-      "status": "live",
-      "result": "pending"
-    },
-    {
-      "id": "076534b9-e91c-4f0b-983b-d27257514926",
-      "series": "Ranji Trophy Elite",
-      "matchNo": "",
-      "format": "Test",
-      "teamA": {
-        "name": "Odisha",
-        "code": "ODSA",
-        "color": "#0f766e",
-        "logo": "https://g.cricapi.com/iapi/63-637897801546556330.png?w=96"
-      },
-      "teamB": {
-        "name": "Services",
-        "code": "SER",
-        "color": "#dc2626",
-        "logo": "https://g.cricapi.com/iapi/80-637897803943638638.png?w=96"
-      },
-      "venue": "",
-      "time": "2026-10-26T04:00:00.000Z",
-      "prediction": "",
-      "confidence": null,
-      "status": "live",
-      "result": "pending"
-    },
-    {
-      "id": "6bb5000e-c332-4b84-b51d-cf1eae281024",
-      "series": "Ranji Trophy Elite",
-      "matchNo": "",
-      "format": "Test",
-      "teamA": {
-        "name": "Haryana",
-        "code": "HAR",
-        "color": "#ca8a04",
-        "logo": "https://g.cricapi.com/iapi/28-637897793655542496.png?w=96"
-      },
-      "teamB": {
-        "name": "Mumbai",
-        "code": "MUM",
-        "color": "#0369a1",
-        "logo": "https://g.cricapi.com/iapi/51-637897800490404099.png?w=96"
-      },
-      "venue": "",
-      "time": "2026-10-26T04:00:00.000Z",
-      "prediction": "",
-      "confidence": null,
-      "status": "live",
-      "result": "pending"
-    },
-    {
-      "id": "e345c757-7188-4919-ae69-ab9ea3080450",
-      "series": "Ranji Trophy Elite",
-      "matchNo": "",
-      "format": "Test",
-      "teamA": {
-        "name": "Gujarat",
-        "code": "GUJ",
-        "color": "#1d4ed8",
-        "logo": "https://g.cricapi.com/iapi/27-637897792592204662.png?w=96"
-      },
-      "teamB": {
-        "name": "Maharashtra",
-        "code": "MAH",
-        "color": "#15803d",
-        "logo": "https://g.cricapi.com/iapi/45-637897797960178569.png?w=96"
-      },
-      "venue": "",
-      "time": "2026-10-26T04:00:00.000Z",
-      "prediction": "",
-      "confidence": null,
-      "status": "live",
-      "result": "pending"
-    },
-    {
-      "id": "98b91192-0034-4613-8873-a20a2e60d3d8",
-      "series": "Ranji Trophy Elite",
-      "matchNo": "",
-      "format": "Test",
-      "teamA": {
-        "name": "Delhi",
-        "code": "DEL",
-        "color": "#9f1239",
-        "logo": "https://g.cricapi.com/iapi/19-637897791252425890.png?w=96"
-      },
-      "teamB": {
-        "name": "Jharkhand",
-        "code": "JHKD",
+        "name": "Namibia",
+        "code": "NAM",
         "color": "#86198f",
-        "logo": "https://g.cricapi.com/iapi/36-637897796049905291.png?w=96"
+        "logo": "https://g.cricapi.com/iapi/53-637877082656229722.webp?w=96"
       },
       "venue": "",
-      "time": "2026-10-26T04:00:00.000Z",
+      "time": "2026-10-27T08:00:00.000Z",
       "prediction": "",
       "confidence": null,
       "status": "live",
       "result": "pending"
     },
     {
-      "id": "f95aff10-2670-412d-b47f-fd28cef7da9f",
-      "series": "Ranji Trophy Elite",
+      "id": "bf282a4a-7348-487c-8b5c-12f2ac3f4237",
+      "series": "Pakistan ODI Tri-Series",
       "matchNo": "",
-      "format": "Test",
+      "format": "ODI",
       "teamA": {
-        "name": "Bengal",
-        "code": "BEN",
-        "color": "#ea580c",
-        "logo": "https://g.cricapi.com/iapi/12-637897789312826453.png?w=96"
+        "name": "Pakistan",
+        "code": "PAK",
+        "color": "#1e3a8a",
+        "logo": "https://g.cricapi.com/iapi/66-637877075103236690.webp?w=96"
       },
       "teamB": {
-        "name": "Kerala",
-        "code": "KER",
-        "color": "#dc2626",
-        "logo": "https://g.cricapi.com/iapi/39-637897797224429950.png?w=96"
+        "name": "Sri Lanka",
+        "code": "SL",
+        "color": "#4338ca",
+        "logo": "https://g.cricapi.com/iapi/4191-638101639309122979.webp?w=96"
       },
       "venue": "",
-      "time": "2026-10-26T04:00:00.000Z",
+      "time": "2026-10-27T08:00:00.000Z",
       "prediction": "",
       "confidence": null,
       "status": "live",
       "result": "pending"
     },
     {
-      "id": "64dc1611-8fd8-4881-908a-f1c14a5d0552",
-      "series": "Ranji Trophy Elite",
+      "id": "e50a9d29-3043-47ef-b9ed-034f79cc6b0b",
+      "series": "Australia tour of South Africa",
       "matchNo": "",
-      "format": "Test",
+      "format": "T20",
       "teamA": {
-        "name": "Bihar",
-        "code": "BIH",
-        "color": "#15803d",
-        "logo": "https://g.cricapi.com/iapi/13-637897789593616439.png?w=96"
+        "name": "Australia",
+        "code": "AUS",
+        "color": "#1d4ed8",
+        "logo": "https://g.cricapi.com/iapi/6-637877070670541994.webp?w=96"
       },
       "teamB": {
-        "name": "Madhya Pradesh",
-        "code": "MP",
-        "color": "#0369a1",
-        "logo": "https://g.cricapi.com/iapi/44-637897797618832180.png?w=96"
+        "name": "South Africa",
+        "code": "RSA",
+        "color": "#1e3a8a",
+        "logo": "https://g.cricapi.com/iapi/82-637877071839088912.webp?w=96"
       },
       "venue": "",
-      "time": "2026-10-26T04:00:00.000Z",
+      "time": "2026-10-27T08:30:00.000Z",
       "prediction": "",
       "confidence": null,
       "status": "live",
+      "result": "pending"
+    },
+    {
+      "id": "1950e564-6c89-4a51-bd21-4b7413137434",
+      "series": "Afghanistan vs Zimbabwe in UAE",
+      "matchNo": "",
+      "format": "T20",
+      "teamA": {
+        "name": "Afghanistan",
+        "code": "AFG",
+        "color": "#ca8a04",
+        "logo": "https://g.cricapi.com/iapi/1-637877075587179422.webp?w=96"
+      },
+      "teamB": {
+        "name": "Zimbabwe",
+        "code": "ZIM",
+        "color": "#7c3aed",
+        "logo": "https://g.cricapi.com/iapi/575-637877079629985215.webp?w=96"
+      },
+      "venue": "",
+      "time": "2026-10-27T14:30:00.000Z",
+      "prediction": "",
+      "confidence": null,
+      "status": "upcoming",
       "result": "pending"
     }
   ]
