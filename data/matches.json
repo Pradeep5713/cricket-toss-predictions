@@ -1,16 +1,64 @@
 {
-  "updated": "2026-10-27T08:35:28.518Z",
+  "updated": "2026-10-28T09:14:49.971Z",
   "matches": [
     {
-      "id": "49d7bcea-8240-452a-aac0-fcf53e765849",
+      "id": "bac0f1bc-ed6d-4f69-ae99-340a6893e360",
+      "series": "Sheffield Shield",
+      "matchNo": "",
+      "format": "Test",
+      "teamA": {
+        "name": "South Australia",
+        "code": "SAUS",
+        "color": "#1e3a8a",
+        "logo": "https://g.cricapi.com/iapi/84-637993500332119314.webp?w=96"
+      },
+      "teamB": {
+        "name": "Western Australia",
+        "code": "WA",
+        "color": "#15803d",
+        "logo": "https://g.cricapi.com/iapi/103-637987555730367982.webp?w=96"
+      },
+      "venue": "",
+      "time": "2026-10-28T00:00:00.000Z",
+      "prediction": "",
+      "confidence": null,
+      "status": "live",
+      "result": "pending"
+    },
+    {
+      "id": "e690b55f-e5ea-4b28-ac72-323d81d14291",
+      "series": "West Indies tour of Bangladesh",
+      "matchNo": "",
+      "format": "Test",
+      "teamA": {
+        "name": "Bangladesh",
+        "code": "BAN",
+        "color": "#7c3aed",
+        "logo": "https://g.cricapi.com/iapi/9-637877074109248302.webp?w=96"
+      },
+      "teamB": {
+        "name": "West Indies",
+        "code": "WI",
+        "color": "#4338ca",
+        "logo": "https://g.cricapi.com/iapi/100-637877077978319234.webp?w=96"
+      },
+      "venue": "",
+      "time": "2026-10-28T03:30:00.000Z",
+      "prediction": "",
+      "confidence": null,
+      "status": "live",
+      "result": "pending"
+    },
+    {
+      "id": "6cd2b904-81dd-4dd5-a4bd-e2f1359c3382",
       "series": "ICC CWC Challenge League A",
       "matchNo": "",
       "format": "ODI",
       "teamA": {
-        "name": "Jersey",
-        "code": "JER",
-        "color": "#1d4ed8",
-        "logo": "https://g.cricapi.com/iapi/619-637877088641021958.webp?w=96"
+        "name": "Kenya",
+        "code": "KEN",
+        "color": "#9f1239",
+        "logo": "https://g.cricapi.com/iapi/620-637877088284816006.webp?w=96"
       },
       "teamB": {
         "name": "Kuwait",
@@ -19,22 +67,22 @@
         "logo": "https://g.cricapi.com/iapi/621-637864920257551899.webp?w=96"
       },
       "venue": "",
-      "time": "2026-10-27T05:30:00.000Z",
+      "time": "2026-10-28T05:30:00.000Z",
       "prediction": "",
       "confidence": null,
       "status": "live",
       "result": "pending"
     },
     {
-      "id": "7b72f68e-5e02-483e-857c-08037e12971d",
+      "id": "5e5a4c99-ab45-4f16-8593-c9aa1ba0bba6",
       "series": "ICC CWC Challenge League A",
       "matchNo": "",
       "format": "ODI",
       "teamA": {
-        "name": "Papua New Guinea",
-        "code": "PNG",
-        "color": "#ca8a04",
-        "logo": "https://g.cricapi.com/iapi/68-637877083835752068.webp?w=96"
+        "name": "Denmark",
+        "code": "DEN",
+        "color": "#a16207",
+        "logo": "https://g.cricapi.com/iapi/599-637867438645047537.webp?w=96"
       },
       "teamB": {
         "name": "Qatar",
@@ -43,154 +91,34 @@
         "logo": "https://g.cricapi.com/iapi/577-637877086204623715.webp?w=96"
       },
       "venue": "",
-      "time": "2026-10-27T05:30:00.000Z",
+      "time": "2026-10-28T05:30:00.000Z",
       "prediction": "",
       "confidence": null,
       "status": "live",
       "result": "pending"
     },
     {
-      "id": "df5dd379-9372-490a-99d2-b6b54a17f9a5",
-      "series": "ICC Cricket World Cup League Two",
-      "matchNo": "",
-      "format": "ODI",
-      "teamA": {
-        "name": "Netherlands",
-        "code": "NED",
-        "color": "#1d4ed8",
-        "logo": "https://g.cricapi.com/iapi/55-637877084465746618.webp?w=96"
-      },
-      "teamB": {
-        "name": "Oman",
-        "code": "OMAN",
-        "color": "#86198f",
-        "logo": "https://g.cricapi.com/iapi/64-637877083212505394.webp?w=96"
-      },
-      "venue": "",
-      "time": "2026-10-27T05:30:00.000Z",
-      "prediction": "",
-      "confidence": null,
-      "status": "live",
-      "result": "pending"
-    },
-    {
-      "id": "1962f911-9e43-4b49-9e02-f3ef74b76fe6",
-      "series": "India tour of New Zealand",
+      "id": "7dc5c9c9-4924-4e36-a7a2-1f7eda3d5080",
+      "series": "Zimbabwe Women tour of India",
       "matchNo": "",
       "format": "T20",
       "teamA": {
-        "name": "India",
-        "code": "IND",
-        "color": "#ea580c",
-        "logo": "https://g.cricapi.com/iapi/31-637877061080567215.webp?w=96"
+        "name": "India Women",
+        "code": "INDW",
+        "color": "#0369a1",
+        "logo": "https://g.cricapi.com/iapi/32-637877061328728555.webp?w=96"
       },
       "teamB": {
-        "name": "New Zealand",
-        "code": "NZ",
+        "name": "Zimbabwe Women",
+        "code": "ZIMW",
         "color": "#b91c1c",
-        "logo": "https://g.cricapi.com/iapi/57-637877076980737903.webp?w=96"
+        "logo": "https://g.cricapi.com/iapi/1141-637877080090615236.webp?w=96"
       },
       "venue": "",
-      "time": "2026-10-27T07:00:00.000Z",
+      "time": "2026-10-28T08:30:00.000Z",
       "prediction": "",
       "confidence": null,
       "status": "live",
-      "result": "pending"
-    },
-    {
-      "id": "339bd1c4-ccc3-44ba-9ad3-5dac79401d40",
-      "series": "Ireland tour of Namibia",
-      "matchNo": "",
-      "format": "ODI",
-      "teamA": {
-        "name": "Ireland",
-        "code": "IRE",
-        "color": "#ea580c",
-        "logo": "https://g.cricapi.com/iapi/33-637926315578500224.png?w=96"
-      },
-      "teamB": {
-        "name": "Namibia",
-        "code": "NAM",
-        "color": "#86198f",
-        "logo": "https://g.cricapi.com/iapi/53-637877082656229722.webp?w=96"
-      },
-      "venue": "",
-      "time": "2026-10-27T08:00:00.000Z",
-      "prediction": "",
-      "confidence": null,
-      "status": "live",
-      "result": "pending"
-    },
-    {
-      "id": "bf282a4a-7348-487c-8b5c-12f2ac3f4237",
-      "series": "Pakistan ODI Tri-Series",
-      "matchNo": "",
-      "format": "ODI",
-      "teamA": {
-        "name": "Pakistan",
-        "code": "PAK",
-        "color": "#1e3a8a",
-        "logo": "https://g.cricapi.com/iapi/66-637877075103236690.webp?w=96"
-      },
-      "teamB": {
-        "name": "Sri Lanka",
-        "code": "SL",
-        "color": "#4338ca",
-        "logo": "https://g.cricapi.com/iapi/4191-638101639309122979.webp?w=96"
-      },
-      "venue": "",
-      "time": "2026-10-27T08:00:00.000Z",
-      "prediction": "",
-      "confidence": null,
-      "status": "live",
-      "result": "pending"
-    },
-    {
-      "id": "e50a9d29-3043-47ef-b9ed-034f79cc6b0b",
-      "series": "Australia tour of South Africa",
-      "matchNo": "",
-      "format": "T20",
-      "teamA": {
-        "name": "Australia",
-        "code": "AUS",
-        "color": "#1d4ed8",
-        "logo": "https://g.cricapi.com/iapi/6-637877070670541994.webp?w=96"
-      },
-      "teamB": {
-        "name": "South Africa",
-        "code": "RSA",
-        "color": "#1e3a8a",
-        "logo": "https://g.cricapi.com/iapi/82-637877071839088912.webp?w=96"
-      },
-      "venue": "",
-      "time": "2026-10-27T08:30:00.000Z",
-      "prediction": "",
-      "confidence": null,
-      "status": "live",
-      "result": "pending"
-    },
-    {
-      "id": "1950e564-6c89-4a51-bd21-4b7413137434",
-      "series": "Afghanistan vs Zimbabwe in UAE",
-      "matchNo": "",
-      "format": "T20",
-      "teamA": {
-        "name": "Afghanistan",
-        "code": "AFG",
-        "color": "#ca8a04",
-        "logo": "https://g.cricapi.com/iapi/1-637877075587179422.webp?w=96"
-      },
-      "teamB": {
-        "name": "Zimbabwe",
-        "code": "ZIM",
-        "color": "#7c3aed",
-        "logo": "https://g.cricapi.com/iapi/575-637877079629985215.webp?w=96"
-      },
-      "venue": "",
-      "time": "2026-10-27T14:30:00.000Z",
-      "prediction": "",
-      "confidence": null,
-      "status": "upcoming",
       "result": "pending"
     }
   ]
