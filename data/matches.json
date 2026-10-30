@@ -1,110 +1,40 @@
 {
-  "updated": "2026-10-29T09:15:34.739Z",
+  "updated": "2026-10-30T09:31:29.662Z",
   "matches": [
     {
-      "id": "e8aa2cac-2d06-4411-9bd5-e28886838071",
-      "series": "The Ford Trophy",
-      "matchNo": "",
-      "format": "ODI",
-      "teamA": {
-        "name": "Otago",
-        "code": "OTG",
-        "color": "#ca8a04",
-        "logo": "https://g.cricapi.com/iapi/65-637992667637799448.webp?w=96"
-      },
-      "teamB": {
-        "name": "Wellington",
-        "code": "WEL",
-        "color": "#16a34a",
-        "logo": "https://g.cricapi.com/iapi/99-637987556014883021.webp?w=96"
-      },
-      "venue": "",
-      "time": "2026-10-28T21:30:00.000Z",
-      "prediction": "",
-      "confidence": null,
-      "status": "done",
-      "result": "pending"
-    },
-    {
-      "id": "082407a8-19d9-40f7-8d40-a269f1f85c67",
-      "series": "The Ford Trophy",
-      "matchNo": "",
-      "format": "ODI",
-      "teamA": {
-        "name": "Central Stags",
-        "code": "CS",
-        "color": "#b91c1c"
-      },
-      "teamB": {
-        "name": "Northern Districts",
-        "code": "ND",
-        "color": "#b91c1c"
-      },
-      "venue": "",
-      "time": "2026-10-28T21:30:00.000Z",
-      "prediction": "",
-      "confidence": null,
-      "status": "done",
-      "result": "pending"
-    },
-    {
-      "id": "024a059a-f2d5-4af0-b051-3188967e4785",
-      "series": "The Ford Trophy",
-      "matchNo": "",
-      "format": "ODI",
-      "teamA": {
-        "name": "Auckland",
-        "code": "AKL",
-        "color": "#ea580c",
-        "logo": "https://g.cricapi.com/iapi/5-637993557414710285.webp?w=96"
-      },
-      "teamB": {
-        "name": "Canterbury",
-        "code": "CAN",
-        "color": "#86198f",
-        "logo": "https://g.cricapi.com/iapi/15-637993523929449827.webp?w=96"
-      },
-      "venue": "",
-      "time": "2026-10-28T21:30:00.000Z",
-      "prediction": "",
-      "confidence": null,
-      "status": "done",
-      "result": "pending"
-    },
-    {
-      "id": "e5243dfc-be2f-4aa9-a7fb-c868fbb3a146",
-      "series": "Womens Big Bash League",
+      "id": "80990f9d-9b88-4acc-8435-615e80942daf",
+      "series": "Hong Kong Sixes",
       "matchNo": "",
       "format": "T20",
       "teamA": {
-        "name": "Melbourne Renegades Women",
-        "code": "MR-W",
-        "color": "#b91c1c",
-        "logo": "https://g.cricapi.com/iapi/2655-638040167731668168.webp?w=96"
+        "name": "Bangladesh",
+        "code": "BAN",
+        "color": "#7c3aed",
+        "logo": "https://g.cricapi.com/iapi/9-637877074109248302.webp?w=96"
       },
       "teamB": {
-        "name": "Sydney Thunder Women",
-        "code": "ST-W",
-        "color": "#be185d",
-        "logo": "https://g.cricapi.com/iapi/2636-638040169751591741.webp?w=96"
+        "name": "Scotland",
+        "code": "SCO",
+        "color": "#1d4ed8",
+        "logo": "https://g.cricapi.com/iapi/79-637877081763746652.webp?w=96"
       },
       "venue": "",
-      "time": "2026-10-29T04:40:00.000Z",
+      "time": "2026-10-30T01:40:00.000Z",
       "prediction": "",
       "confidence": null,
       "status": "done",
       "result": "pending"
     },
     {
-      "id": "5dfe214e-3c24-4553-a0eb-a8d6ae12c063",
-      "series": "ICC Cricket World Cup League Two",
+      "id": "9529d714-ca37-4617-9510-b7a1e3719ccf",
+      "series": "Hong Kong Sixes",
       "matchNo": "",
-      "format": "ODI",
+      "format": "T20",
       "teamA": {
-        "name": "Oman",
-        "code": "OMAN",
-        "color": "#86198f",
-        "logo": "https://g.cricapi.com/iapi/64-637877083212505394.webp?w=96"
+        "name": "Pakistan",
+        "code": "PAK",
+        "color": "#1e3a8a",
+        "logo": "https://g.cricapi.com/iapi/66-637877075103236690.webp?w=96"
       },
       "teamB": {
         "name": "United Arab Emirates",
@@ -113,22 +43,46 @@
         "logo": "https://g.cricapi.com/iapi/92-637877081068315608.webp?w=96"
       },
       "venue": "",
-      "time": "2026-10-29T05:30:00.000Z",
+      "time": "2026-10-30T02:35:00.000Z",
       "prediction": "",
       "confidence": null,
-      "status": "live",
+      "status": "done",
       "result": "pending"
     },
     {
-      "id": "074cb065-c64b-476a-89df-b6bcde4da715",
-      "series": "Pakistan ODI Tri-Series",
+      "id": "6183dcb0-d1a0-420f-8add-72c716fc11b9",
+      "series": "Hong Kong Sixes",
       "matchNo": "",
-      "format": "ODI",
+      "format": "T20",
       "teamA": {
-        "name": "England",
-        "code": "ENG",
-        "color": "#4338ca",
-        "logo": "https://g.cricapi.com/iapi/23-637877072894080569.webp?w=96"
+        "name": "Oman",
+        "code": "OMAN",
+        "color": "#86198f",
+        "logo": "https://g.cricapi.com/iapi/64-637877083212505394.webp?w=96"
+      },
+      "teamB": {
+        "name": "South Africa",
+        "code": "RSA",
+        "color": "#1e3a8a",
+        "logo": "https://g.cricapi.com/iapi/82-637877071839088912.webp?w=96"
+      },
+      "venue": "",
+      "time": "2026-10-30T03:30:00.000Z",
+      "prediction": "",
+      "confidence": null,
+      "status": "done",
+      "result": "pending"
+    },
+    {
+      "id": "edbad102-f51e-4600-a73f-2aa80094a237",
+      "series": "Hong Kong Sixes",
+      "matchNo": "",
+      "format": "T20",
+      "teamA": {
+        "name": "Bangladesh",
+        "code": "BAN",
+        "color": "#7c3aed",
+        "logo": "https://g.cricapi.com/iapi/9-637877074109248302.webp?w=96"
       },
       "teamB": {
         "name": "Sri Lanka",
@@ -137,39 +91,111 @@
         "logo": "https://g.cricapi.com/iapi/4191-638101639309122979.webp?w=96"
       },
       "venue": "",
-      "time": "2026-10-29T08:00:00.000Z",
+      "time": "2026-10-30T05:20:00.000Z",
+      "prediction": "",
+      "confidence": null,
+      "status": "done",
+      "result": "pending"
+    },
+    {
+      "id": "0d8232bd-00c0-4d63-b647-ef8773fcd19a",
+      "series": "ICC CWC Challenge League A",
+      "matchNo": "",
+      "format": "ODI",
+      "teamA": {
+        "name": "Kuwait",
+        "code": "KUW",
+        "color": "#16a34a",
+        "logo": "https://g.cricapi.com/iapi/621-637864920257551899.webp?w=96"
+      },
+      "teamB": {
+        "name": "Papua New Guinea",
+        "code": "PNG",
+        "color": "#ca8a04",
+        "logo": "https://g.cricapi.com/iapi/68-637877083835752068.webp?w=96"
+      },
+      "venue": "",
+      "time": "2026-10-30T05:30:00.000Z",
       "prediction": "",
       "confidence": null,
       "status": "live",
       "result": "pending"
     },
     {
-      "id": "5c425afe-2de9-4063-bc5c-123d1f2495a3",
-      "series": "Womens Big Bash League",
+      "id": "27c5b49c-f9d5-4114-bf83-e0ce1fd50141",
+      "series": "ICC CWC Challenge League A",
+      "matchNo": "",
+      "format": "ODI",
+      "teamA": {
+        "name": "Denmark",
+        "code": "DEN",
+        "color": "#a16207",
+        "logo": "https://g.cricapi.com/iapi/599-637867438645047537.webp?w=96"
+      },
+      "teamB": {
+        "name": "Jersey",
+        "code": "JER",
+        "color": "#1d4ed8",
+        "logo": "https://g.cricapi.com/iapi/619-637877088641021958.webp?w=96"
+      },
+      "venue": "",
+      "time": "2026-10-30T05:30:00.000Z",
+      "prediction": "",
+      "confidence": null,
+      "status": "live",
+      "result": "pending"
+    },
+    {
+      "id": "f34af7e2-9ab9-434b-9586-549a41e0744d",
+      "series": "Hong Kong Sixes",
       "matchNo": "",
       "format": "T20",
       "teamA": {
-        "name": "Hobart Hurricanes Women",
-        "code": "HB-W",
-        "color": "#0f766e",
-        "logo": "https://g.cricapi.com/iapi/2635-638040172943294988.webp?w=96"
+        "name": "India",
+        "code": "IND",
+        "color": "#ea580c",
+        "logo": "https://g.cricapi.com/iapi/31-637877061080567215.webp?w=96"
       },
       "teamB": {
-        "name": "Melbourne Stars Women",
-        "code": "MS-W",
-        "color": "#ca8a04",
-        "logo": "https://g.cricapi.com/iapi/2646-638040168260625211.webp?w=96"
+        "name": "Pakistan",
+        "code": "PAK",
+        "color": "#1e3a8a",
+        "logo": "https://g.cricapi.com/iapi/66-637877075103236690.webp?w=96"
       },
       "venue": "",
-      "time": "2026-10-29T08:10:00.000Z",
+      "time": "2026-10-30T06:15:00.000Z",
+      "prediction": "",
+      "confidence": null,
+      "status": "done",
+      "result": "pending"
+    },
+    {
+      "id": "2445a90a-eef7-467e-8cb6-75c4203a8e2c",
+      "series": "India tour of New Zealand",
+      "matchNo": "",
+      "format": "T20",
+      "teamA": {
+        "name": "India",
+        "code": "IND",
+        "color": "#ea580c",
+        "logo": "https://g.cricapi.com/iapi/31-637877061080567215.webp?w=96"
+      },
+      "teamB": {
+        "name": "New Zealand",
+        "code": "NZ",
+        "color": "#b91c1c",
+        "logo": "https://g.cricapi.com/iapi/57-637877076980737903.webp?w=96"
+      },
+      "venue": "",
+      "time": "2026-10-30T07:00:00.000Z",
       "prediction": "",
       "confidence": null,
       "status": "live",
       "result": "pending"
     },
     {
-      "id": "d153b19d-6528-4b07-9dc1-5c03c8112df1",
-      "series": "Afghanistan vs Zimbabwe in UAE",
+      "id": "5f6b32d1-4dcb-468c-a5a9-8445c688ed8d",
+      "series": "Hong Kong Sixes",
       "matchNo": "",
       "format": "T20",
       "teamA": {
@@ -179,16 +205,88 @@
         "logo": "https://g.cricapi.com/iapi/1-637877075587179422.webp?w=96"
       },
       "teamB": {
-        "name": "Zimbabwe",
-        "code": "ZIM",
-        "color": "#7c3aed",
-        "logo": "https://g.cricapi.com/iapi/575-637877079629985215.webp?w=96"
+        "name": "South Africa",
+        "code": "RSA",
+        "color": "#1e3a8a",
+        "logo": "https://g.cricapi.com/iapi/82-637877071839088912.webp?w=96"
       },
       "venue": "",
-      "time": "2026-10-29T14:30:00.000Z",
+      "time": "2026-10-30T07:10:00.000Z",
       "prediction": "",
       "confidence": null,
-      "status": "upcoming",
+      "status": "done",
+      "result": "pending"
+    },
+    {
+      "id": "ea3f4407-fbeb-4929-ba18-e7511175200b",
+      "series": "Ireland tour of Namibia",
+      "matchNo": "",
+      "format": "ODI",
+      "teamA": {
+        "name": "Ireland",
+        "code": "IRE",
+        "color": "#ea580c",
+        "logo": "https://g.cricapi.com/iapi/33-637926315578500224.png?w=96"
+      },
+      "teamB": {
+        "name": "Namibia",
+        "code": "NAM",
+        "color": "#86198f",
+        "logo": "https://g.cricapi.com/iapi/53-637877082656229722.webp?w=96"
+      },
+      "venue": "",
+      "time": "2026-10-30T08:00:00.000Z",
+      "prediction": "",
+      "confidence": null,
+      "status": "live",
+      "result": "pending"
+    },
+    {
+      "id": "8423f37a-7e8b-4509-a5ce-68ba23aca74c",
+      "series": "Hong Kong Sixes",
+      "matchNo": "",
+      "format": "T20",
+      "teamA": {
+        "name": "Australia",
+        "code": "AUS",
+        "color": "#1d4ed8",
+        "logo": "https://g.cricapi.com/iapi/6-637877070670541994.webp?w=96"
+      },
+      "teamB": {
+        "name": "England",
+        "code": "ENG",
+        "color": "#4338ca",
+        "logo": "https://g.cricapi.com/iapi/23-637877072894080569.webp?w=96"
+      },
+      "venue": "",
+      "time": "2026-10-30T08:05:00.000Z",
+      "prediction": "",
+      "confidence": null,
+      "status": "live",
+      "result": "pending"
+    },
+    {
+      "id": "7d23b2d0-3b85-49cb-9c35-568cc4c300fb",
+      "series": "Womens Big Bash League",
+      "matchNo": "",
+      "format": "T20",
+      "teamA": {
+        "name": "Brisbane Heat Women",
+        "code": "BH-W",
+        "color": "#dc2626",
+        "logo": "https://g.cricapi.com/iapi/2625-638040173617905942.webp?w=96"
+      },
+      "teamB": {
+        "name": "Sydney Sixers Women",
+        "code": "SS-W",
+        "color": "#dc2626",
+        "logo": "https://g.cricapi.com/iapi/2626-638040170781201689.webp?w=96"
+      },
+      "venue": "",
+      "time": "2026-10-30T08:10:00.000Z",
+      "prediction": "",
+      "confidence": null,
+      "status": "live",
       "result": "pending"
     }
   ]
