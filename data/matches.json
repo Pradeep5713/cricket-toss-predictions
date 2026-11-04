@@ -1,52 +1,102 @@
 {
-  "updated": "2026-11-03T10:25:14.284Z",
+  "updated": "2026-11-04T10:21:20.991Z",
   "matches": [
     {
-      "id": "aa12a4ba-eb86-40d4-9c5b-e0ae8936824b",
-      "series": "Nepal Premier League",
+      "id": "c547eb46-2025-413a-b7f2-6d1584daa42f",
+      "series": "India tour of New Zealand",
       "matchNo": "",
       "format": "T20",
       "teamA": {
-        "name": "Biratnagar Kings",
-        "code": "BIR",
-        "color": "#7c3aed"
+        "name": "India",
+        "code": "IND",
+        "color": "#ea580c",
+        "logo": "https://g.cricapi.com/iapi/31-637877061080567215.webp?w=96"
       },
       "teamB": {
-        "name": "Janakpur Bolts",
-        "code": "JAN",
-        "color": "#a16207"
+        "name": "New Zealand",
+        "code": "NZ",
+        "color": "#b91c1c",
+        "logo": "https://g.cricapi.com/iapi/57-637877076980737903.webp?w=96"
       },
       "venue": "",
-      "time": "2026-11-03T06:45:00.000Z",
+      "time": "2026-11-04T02:00:00.000Z",
+      "prediction": "",
+      "confidence": null,
+      "status": "done",
+      "result": "pending"
+    },
+    {
+      "id": "e94f6544-143e-4fdb-ac41-a922022899ed",
+      "series": "Sri Lanka tour of Pakistan",
+      "matchNo": "",
+      "format": "T20",
+      "teamA": {
+        "name": "Pakistan Cricket Board Patrons XI",
+        "code": "PAK",
+        "color": "#0f766e"
+      },
+      "teamB": {
+        "name": "Sri Lanka",
+        "code": "SL",
+        "color": "#4338ca"
+      },
+      "venue": "",
+      "time": "2026-11-04T05:00:00.000Z",
       "prediction": "",
       "confidence": null,
       "status": "live",
       "result": "pending"
     },
     {
-      "id": "e743011d-9258-4036-ae9e-e205c96c917f",
-      "series": "Nepal Premier League",
+      "id": "8d8e9784-d2ad-4663-a079-3df4db0a0a71",
+      "series": "ICC Cricket World Cup League Two",
       "matchNo": "",
-      "format": "T20",
+      "format": "ODI",
       "teamA": {
-        "name": "Lumbini Lions",
-        "code": "LUM",
-        "color": "#1e3a8a"
+        "name": "Oman",
+        "code": "OMAN",
+        "color": "#86198f",
+        "logo": "https://g.cricapi.com/iapi/64-637877083212505394.webp?w=96"
       },
       "teamB": {
-        "name": "Pokhara Avengers",
-        "code": "POK",
-        "color": "#4338ca"
+        "name": "United Arab Emirates",
+        "code": "UAE",
+        "color": "#7c3aed",
+        "logo": "https://g.cricapi.com/iapi/92-637877081068315608.webp?w=96"
       },
       "venue": "",
-      "time": "2026-11-03T10:45:00.000Z",
+      "time": "2026-11-04T05:30:00.000Z",
       "prediction": "",
       "confidence": null,
-      "status": "upcoming",
+      "status": "live",
       "result": "pending"
     },
     {
-      "id": "537ccc9a-901e-4ab0-90e8-eda0d1a9960a",
+      "id": "786781a5-0548-479e-b268-a87521ea2e36",
+      "series": "Womens Big Bash League",
+      "matchNo": "",
+      "format": "T20",
+      "teamA": {
+        "name": "Hobart Hurricanes Women",
+        "code": "HB-W",
+        "color": "#0f766e",
+        "logo": "https://g.cricapi.com/iapi/2635-638040172943294988.webp?w=96"
+      },
+      "teamB": {
+        "name": "Melbourne Renegades Women",
+        "code": "MR-W",
+        "color": "#b91c1c",
+        "logo": "https://g.cricapi.com/iapi/2655-638040167731668168.webp?w=96"
+      },
+      "venue": "",
+      "time": "2026-11-04T08:10:00.000Z",
+      "prediction": "",
+      "confidence": null,
+      "status": "live",
+      "result": "pending"
+    },
+    {
+      "id": "d2eca8a2-ed50-46fc-8369-e48cc1c757e0",
       "series": "England Lions tour of West Indies",
       "matchNo": "",
       "format": "T20",
@@ -63,7 +113,7 @@
         "logo": "https://g.cricapi.com/iapi/100-637877077978319234.webp?w=96"
       },
       "venue": "",
-      "time": "2026-11-03T18:00:00.000Z",
+      "time": "2026-11-04T18:00:00.000Z",
       "prediction": "",
       "confidence": null,
       "status": "upcoming",
