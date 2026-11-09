@@ -1,216 +1,146 @@
 {
-  "updated": "2026-11-08T09:48:36.611Z",
+  "updated": "2026-11-09T10:50:21.400Z",
   "matches": [
     {
-      "id": "9bdb29a3-e23d-4400-b4d9-86a8f857d0ba",
-      "series": "India A tour of New Zealand",
+      "id": "03fa5b0e-8c0a-45c7-b998-d2082fa85673",
+      "series": "The Ford Trophy",
       "matchNo": "",
-      "format": "Test",
+      "format": "ODI",
       "teamA": {
-        "name": "India A",
-        "code": "INA",
-        "color": "#0f766e",
-        "logo": "https://g.cricapi.com/iapi/2206-637976248888288069.webp?w=96"
+        "name": "Canterbury",
+        "code": "CAN",
+        "color": "#86198f",
+        "logo": "https://g.cricapi.com/iapi/15-637993523929449827.webp?w=96"
       },
       "teamB": {
-        "name": "New Zealand A",
-        "code": "NZA",
-        "color": "#15803d",
-        "logo": "https://g.cricapi.com/iapi/2180-637982269820638615.webp?w=96"
+        "name": "Central Stags",
+        "code": "CS",
+        "color": "#b91c1c",
+        "logo": "https://g.cricapi.com/iapi/133-637957472586275153.webp?w=96"
       },
       "venue": "",
-      "time": "2026-11-07T21:30:00.000Z",
-      "prediction": "",
-      "confidence": null,
-      "status": "live",
-      "result": "pending"
-    },
-    {
-      "id": "f9366950-2ae6-4b00-968c-4c6c8462e489",
-      "series": "Womens Big Bash League",
-      "matchNo": "",
-      "format": "T20",
-      "teamA": {
-        "name": "Sydney Sixers Women",
-        "code": "SS-W",
-        "color": "#dc2626",
-        "logo": "https://g.cricapi.com/iapi/2626-638040170781201689.webp?w=96"
-      },
-      "teamB": {
-        "name": "Sydney Thunder Women",
-        "code": "ST-W",
-        "color": "#be185d",
-        "logo": "https://g.cricapi.com/iapi/2636-638040169751591741.webp?w=96"
-      },
-      "venue": "",
-      "time": "2026-11-08T02:40:00.000Z",
+      "time": "2026-11-08T21:30:00.000Z",
       "prediction": "",
       "confidence": null,
       "status": "done",
       "result": "pending"
     },
     {
-      "id": "8d42f9d6-64ba-40b9-80fc-d9b5f3b7c076",
-      "series": "ACC Men's U19 Asia Cup",
+      "id": "000cee00-1deb-409b-a5f6-bd44c3d571b7",
+      "series": "The Ford Trophy",
       "matchNo": "",
       "format": "ODI",
       "teamA": {
-        "name": "India U19",
-        "code": "IN19",
+        "name": "Northern Districts",
+        "code": "ND",
+        "color": "#b91c1c"
+      },
+      "teamB": {
+        "name": "Otago",
+        "code": "OTG",
         "color": "#ca8a04"
       },
-      "teamB": {
-        "name": "Pakistan U19",
-        "code": "PK19",
-        "color": "#a16207"
-      },
       "venue": "",
-      "time": "2026-11-08T05:00:00.000Z",
-      "prediction": "",
-      "confidence": null,
-      "status": "live",
-      "result": "pending"
-    },
-    {
-      "id": "322865ca-688c-40d4-a7f0-275bd612abf2",
-      "series": "ACC Men's U19 Asia Cup",
-      "matchNo": "",
-      "format": "ODI",
-      "teamA": {
-        "name": "Nepal U19",
-        "code": "NE19",
-        "color": "#b91c1c"
-      },
-      "teamB": {
-        "name": "United Arab Emirates U19",
-        "code": "AE19",
-        "color": "#1d4ed8"
-      },
-      "venue": "",
-      "time": "2026-11-08T05:00:00.000Z",
-      "prediction": "",
-      "confidence": null,
-      "status": "live",
-      "result": "pending"
-    },
-    {
-      "id": "6f39b06b-e2b7-4a2b-ad14-88b29a3769f2",
-      "series": "Womens Big Bash League",
-      "matchNo": "",
-      "format": "T20",
-      "teamA": {
-        "name": "Melbourne Stars Women",
-        "code": "MS-W",
-        "color": "#ca8a04",
-        "logo": "https://g.cricapi.com/iapi/2646-638040168260625211.webp?w=96"
-      },
-      "teamB": {
-        "name": "Perth Scorchers Women",
-        "code": "PS-W",
-        "color": "#1e3a8a",
-        "logo": "https://g.cricapi.com/iapi/2656-638040167042932787.webp?w=96"
-      },
-      "venue": "",
-      "time": "2026-11-08T06:10:00.000Z",
+      "time": "2026-11-08T21:30:00.000Z",
       "prediction": "",
       "confidence": null,
       "status": "done",
       "result": "pending"
     },
     {
-      "id": "df484f6c-3c1d-4128-9f3e-4520ad03ba3c",
-      "series": "Women's Victoria T20I Series",
+      "id": "577521e3-11da-4afc-b9cc-48f961d8497c",
+      "series": "The Ford Trophy",
       "matchNo": "",
-      "format": "T20",
+      "format": "ODI",
       "teamA": {
-        "name": "Namibia Women",
-        "code": "NAMW",
-        "color": "#4338ca",
-        "logo": "https://g.cricapi.com/iapi/1128-637877082812217889.webp?w=96"
+        "name": "Auckland",
+        "code": "AKL",
+        "color": "#ea580c",
+        "logo": "https://g.cricapi.com/iapi/5-637993557414710285.webp?w=96"
       },
       "teamB": {
-        "name": "Rwanda Women",
-        "code": "RW",
-        "color": "#1e3a8a",
-        "logo": "https://g.cricapi.com/iapi/4218-638101636238742992.webp?w=96"
+        "name": "Wellington",
+        "code": "WEL",
+        "color": "#16a34a",
+        "logo": "https://g.cricapi.com/iapi/99-637987556014883021.webp?w=96"
       },
       "venue": "",
-      "time": "2026-11-08T06:30:00.000Z",
+      "time": "2026-11-08T21:30:00.000Z",
+      "prediction": "",
+      "confidence": null,
+      "status": "done",
+      "result": "pending"
+    },
+    {
+      "id": "db346523-43d0-4221-b092-eb6a64f7915b",
+      "series": "ACC Men's U19 Asia Cup",
+      "matchNo": "",
+      "format": "ODI",
+      "teamA": {
+        "name": "Afghanistan U19",
+        "code": "AF19",
+        "color": "#b91c1c"
+      },
+      "teamB": {
+        "name": "Sri Lanka U19",
+        "code": "SL19",
+        "color": "#be185d"
+      },
+      "venue": "",
+      "time": "2026-11-09T05:00:00.000Z",
       "prediction": "",
       "confidence": null,
       "status": "live",
       "result": "pending"
     },
     {
-      "id": "958aa945-930f-4e17-af8a-c8966226ec1e",
-      "series": "Women's Victoria T20I Series",
+      "id": "8b442300-13c3-4567-a9b8-43b746468bb5",
+      "series": "ACC Men's U19 Asia Cup",
+      "matchNo": "",
+      "format": "ODI",
+      "teamA": {
+        "name": "Bangladesh U19",
+        "code": "BAN",
+        "color": "#1d4ed8"
+      },
+      "teamB": {
+        "name": "Malaysia U19",
+        "code": "MAL",
+        "color": "#0f766e"
+      },
+      "venue": "",
+      "time": "2026-11-09T05:00:00.000Z",
+      "prediction": "",
+      "confidence": null,
+      "status": "live",
+      "result": "pending"
+    },
+    {
+      "id": "0c09b5c9-b9dc-46a4-884b-c9d546ba3b10",
+      "series": "Sri Lanka tour of Pakistan",
       "matchNo": "",
       "format": "T20",
       "teamA": {
-        "name": "Uganda Women",
-        "code": "UGAW",
-        "color": "#a16207",
-        "logo": "https://g.cricapi.com/iapi/1135-637877086844153505.webp?w=96"
+        "name": "Pakistan",
+        "code": "PAK",
+        "color": "#1e3a8a",
+        "logo": "https://g.cricapi.com/iapi/66-637877075103236690.webp?w=96"
       },
       "teamB": {
-        "name": "United States of America Women",
-        "code": "USW",
-        "color": "#ca8a04",
-        "logo": "https://g.cricapi.com/iapi/93-637877085206398451.webp?w=96"
+        "name": "Sri Lanka",
+        "code": "SL",
+        "color": "#4338ca",
+        "logo": "https://g.cricapi.com/iapi/4191-638101639309122979.webp?w=96"
       },
       "venue": "",
-      "time": "2026-11-08T11:00:00.000Z",
+      "time": "2026-11-09T05:00:00.000Z",
       "prediction": "",
       "confidence": null,
-      "status": "upcoming",
+      "status": "live",
       "result": "pending"
     },
     {
-      "id": "a172aa1d-a718-473e-8df2-5be778936b9d",
-      "series": "Abu Dhabi T10 League",
-      "matchNo": "",
-      "format": "T10",
-      "teamA": {
-        "name": "Emirates Eagles",
-        "code": "EMI",
-        "color": "#1e3a8a"
-      },
-      "teamB": {
-        "name": "Yas Lions",
-        "code": "YAS",
-        "color": "#15803d"
-      },
-      "venue": "",
-      "time": "2026-11-08T11:30:00.000Z",
-      "prediction": "",
-      "confidence": null,
-      "status": "upcoming",
-      "result": "pending"
-    },
-    {
-      "id": "34fcd8aa-3b5e-4dd8-b520-1595e878ed0b",
-      "series": "Abu Dhabi T10 League",
-      "matchNo": "",
-      "format": "T10",
-      "teamA": {
-        "name": "Uae Bulls",
-        "code": "UAE",
-        "color": "#4338ca"
-      },
-      "teamB": {
-        "name": "United Tigers",
-        "code": "UNI",
-        "color": "#b91c1c"
-      },
-      "venue": "",
-      "time": "2026-11-08T13:45:00.000Z",
-      "prediction": "",
-      "confidence": null,
-      "status": "upcoming",
-      "result": "pending"
-    },
-    {
-      "id": "8fab1286-a770-4021-af36-e469c49f9f1b",
+      "id": "5800456f-470d-46f8-a6dd-f1fd75da4de2",
       "series": "Abu Dhabi T10 League",
       "matchNo": "",
       "format": "T10",
@@ -220,12 +150,58 @@
         "color": "#9f1239"
       },
       "teamB": {
+        "name": "Emirates Eagles",
+        "code": "EMI",
+        "color": "#1e3a8a"
+      },
+      "venue": "",
+      "time": "2026-11-09T13:45:00.000Z",
+      "prediction": "",
+      "confidence": null,
+      "status": "upcoming",
+      "result": "pending"
+    },
+    {
+      "id": "b113553a-e5cd-439b-a55e-dcc8be5de897",
+      "series": "Abu Dhabi T10 League",
+      "matchNo": "",
+      "format": "T10",
+      "teamA": {
         "name": "Royal Desert Champions",
         "code": "ROY",
         "color": "#0f766e"
       },
+      "teamB": {
+        "name": "United Tigers",
+        "code": "UNI",
+        "color": "#b91c1c"
+      },
       "venue": "",
-      "time": "2026-11-08T16:00:00.000Z",
+      "time": "2026-11-09T16:00:00.000Z",
+      "prediction": "",
+      "confidence": null,
+      "status": "upcoming",
+      "result": "pending"
+    },
+    {
+      "id": "019bf199-0d5a-491c-8056-20e89323e124",
+      "series": "England Lions tour of West Indies",
+      "matchNo": "",
+      "format": "T20",
+      "teamA": {
+        "name": "England Lions",
+        "code": "ENGL",
+        "color": "#1d4ed8",
+        "logo": "https://g.cricapi.com/iapi/1739-637934886041420623.webp?w=96"
+      },
+      "teamB": {
+        "name": "West Indies A",
+        "code": "WIA",
+        "color": "#a16207",
+        "logo": "https://g.cricapi.com/iapi/100-637877077978319234.webp?w=96"
+      },
+      "venue": "",
+      "time": "2026-11-09T18:00:00.000Z",
       "prediction": "",
       "confidence": null,
       "status": "upcoming",
