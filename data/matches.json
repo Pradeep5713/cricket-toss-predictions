@@ -1,168 +1,266 @@
 {
-  "updated": "2026-11-11T10:13:31.044Z",
+  "updated": "2026-11-12T10:35:12.768Z",
   "matches": [
     {
-      "id": "e46111e9-6e96-4447-87c1-edbe892b222f",
+      "id": "b8010e85-796f-472d-bc57-ce716405834a",
       "series": "Sheffield Shield",
       "matchNo": "",
       "format": "Test",
       "teamA": {
-        "name": "Queensland",
-        "code": "QL",
-        "color": "#ca8a04",
-        "logo": "https://g.cricapi.com/iapi/73-637992667453177840.webp?w=96"
+        "name": "Victoria",
+        "code": "VIC",
+        "color": "#16a34a",
+        "logo": "https://g.cricapi.com/iapi/96-637987557199223762.webp?w=96"
       },
       "teamB": {
-        "name": "Tasmania",
-        "code": "TAS",
-        "color": "#9f1239",
-        "logo": "https://g.cricapi.com/iapi/88-637987559070396403.webp?w=96"
+        "name": "Western Australia",
+        "code": "WA",
+        "color": "#15803d",
+        "logo": "https://g.cricapi.com/iapi/103-637987555730367982.webp?w=96"
       },
       "venue": "",
-      "time": "2026-11-11T00:30:00.000Z",
+      "time": "2026-11-11T23:30:00.000Z",
       "prediction": "",
       "confidence": null,
       "status": "live",
       "result": "pending"
     },
     {
-      "id": "41a2b361-72c1-43a8-919a-eb7f68e50ef0",
-      "series": "Women's Victoria T20I Series",
+      "id": "28620c9b-4a53-4276-bdf6-2e81813ea69f",
+      "series": "Sheffield Shield",
+      "matchNo": "",
+      "format": "Test",
+      "teamA": {
+        "name": "New South Wales",
+        "code": "NSW",
+        "color": "#1e3a8a",
+        "logo": "https://g.cricapi.com/iapi/56-637991992698313262.webp?w=96"
+      },
+      "teamB": {
+        "name": "South Australia",
+        "code": "SAUS",
+        "color": "#1e3a8a",
+        "logo": "https://g.cricapi.com/iapi/84-637993500332119314.webp?w=96"
+      },
+      "venue": "",
+      "time": "2026-11-11T23:30:00.000Z",
+      "prediction": "",
+      "confidence": null,
+      "status": "live",
+      "result": "pending"
+    },
+    {
+      "id": "558f2771-a71f-4328-b84e-6ecf5b0eb18d",
+      "series": "England tour of Australia",
       "matchNo": "",
       "format": "T20",
       "teamA": {
-        "name": "Rwanda Women",
-        "code": "RW",
-        "color": "#1e3a8a",
-        "logo": "https://g.cricapi.com/iapi/4218-638101636238742992.webp?w=96"
+        "name": "Australia",
+        "code": "AUS",
+        "color": "#1d4ed8",
+        "logo": "https://g.cricapi.com/iapi/6-637877070670541994.webp?w=96"
       },
       "teamB": {
-        "name": "Uganda Women",
-        "code": "UGAW",
-        "color": "#a16207",
-        "logo": "https://g.cricapi.com/iapi/1135-637877086844153505.webp?w=96"
+        "name": "England",
+        "code": "ENG",
+        "color": "#4338ca",
+        "logo": "https://g.cricapi.com/iapi/23-637877072894080569.webp?w=96"
       },
       "venue": "",
-      "time": "2026-11-11T06:30:00.000Z",
+      "time": "2026-11-12T03:30:00.000Z",
       "prediction": "",
       "confidence": null,
       "status": "live",
       "result": "pending"
     },
     {
-      "id": "555337b0-04e8-4e3f-870a-8a8a0896b101",
+      "id": "0e094a86-1a1e-4a3e-9f41-4cf61c748b7e",
       "series": "Womens Big Bash League",
       "matchNo": "",
       "format": "T20",
       "teamA": {
-        "name": "Perth Scorchers Women",
-        "code": "PS-W",
-        "color": "#1e3a8a",
-        "logo": "https://g.cricapi.com/iapi/2656-638040167042932787.webp?w=96"
+        "name": "Brisbane Heat Women",
+        "code": "BH-W",
+        "color": "#dc2626",
+        "logo": "https://g.cricapi.com/iapi/2625-638040173617905942.webp?w=96"
       },
       "teamB": {
-        "name": "Sydney Thunder Women",
-        "code": "ST-W",
-        "color": "#be185d",
-        "logo": "https://g.cricapi.com/iapi/2636-638040169751591741.webp?w=96"
+        "name": "Melbourne Stars Women",
+        "code": "MS-W",
+        "color": "#ca8a04",
+        "logo": "https://g.cricapi.com/iapi/2646-638040168260625211.webp?w=96"
       },
       "venue": "",
-      "time": "2026-11-11T08:10:00.000Z",
+      "time": "2026-11-12T04:40:00.000Z",
+      "prediction": "",
+      "confidence": null,
+      "status": "done",
+      "result": "pending"
+    },
+    {
+      "id": "b8a5db46-e867-432c-b24f-46539d720c3c",
+      "series": "ACC Men's U19 Asia Cup",
+      "matchNo": "",
+      "format": "ODI",
+      "teamA": {
+        "name": "Bangladesh U19",
+        "code": "BAN",
+        "color": "#1d4ed8"
+      },
+      "teamB": {
+        "name": "Pakistan U19",
+        "code": "PK19",
+        "color": "#a16207"
+      },
+      "venue": "",
+      "time": "2026-11-12T05:00:00.000Z",
+      "prediction": "",
+      "confidence": null,
+      "status": "done",
+      "result": "pending"
+    },
+    {
+      "id": "d1b15e05-287b-4a51-a115-2e6ea555f783",
+      "series": "ACC Men's U19 Asia Cup",
+      "matchNo": "",
+      "format": "ODI",
+      "teamA": {
+        "name": "Afghanistan U19",
+        "code": "AF19",
+        "color": "#b91c1c",
+        "logo": "https://g.cricapi.com/iapi/1-637877075587179422.webp?w=96"
+      },
+      "teamB": {
+        "name": "India U19",
+        "code": "IN19",
+        "color": "#ca8a04",
+        "logo": "https://g.cricapi.com/iapi/32-637877061328728555.webp?w=96"
+      },
+      "venue": "",
+      "time": "2026-11-12T05:00:00.000Z",
       "prediction": "",
       "confidence": null,
       "status": "live",
       "result": "pending"
     },
     {
-      "id": "e2f98e6f-8267-433a-a915-f4d4b3b73ad0",
-      "series": "Women's Victoria T20I Series",
+      "id": "487a116a-24df-41d2-80b1-692b855df4dc",
+      "series": "ICC Women's Emerging Nations Trophy",
       "matchNo": "",
       "format": "T20",
       "teamA": {
-        "name": "Namibia Women",
-        "code": "NAMW",
-        "color": "#4338ca",
-        "logo": "https://g.cricapi.com/iapi/1128-637877082812217889.webp?w=96"
+        "name": "Papua New Guinea Women",
+        "code": "PN -",
+        "color": "#15803d",
+        "logo": "https://g.cricapi.com/iapi/2425-637991983542500362.webp?w=96"
       },
       "teamB": {
-        "name": "United States of America Women",
-        "code": "USW",
-        "color": "#ca8a04",
-        "logo": "https://g.cricapi.com/iapi/93-637877085206398451.webp?w=96"
+        "name": "Scotland Women",
+        "code": "SCOW",
+        "color": "#dc2626",
+        "logo": "https://g.cricapi.com/iapi/2216-637981637047617665.webp?w=96"
       },
       "venue": "",
-      "time": "2026-11-11T11:00:00.000Z",
+      "time": "2026-11-12T05:30:00.000Z",
       "prediction": "",
       "confidence": null,
-      "status": "upcoming",
+      "status": "done",
       "result": "pending"
     },
     {
-      "id": "191f8d98-f583-47aa-bd09-38f7f52a36c7",
-      "series": "England Lions tour of West Indies",
+      "id": "981e8508-63fe-4ac4-b92c-655fef836ae5",
+      "series": "ICC Women's Emerging Nations Trophy",
       "matchNo": "",
       "format": "T20",
       "teamA": {
-        "name": "England Lions",
-        "code": "ENGL",
-        "color": "#1d4ed8",
-        "logo": "https://g.cricapi.com/iapi/1739-637934886041420623.webp?w=96"
+        "name": "Ireland Women",
+        "code": "IRW",
+        "color": "#0369a1",
+        "logo": "https://g.cricapi.com/iapi/1420-637926315409640205.png?w=96"
       },
       "teamB": {
-        "name": "West Indies A",
-        "code": "WIA",
-        "color": "#a16207",
-        "logo": "https://g.cricapi.com/iapi/100-637877077978319234.webp?w=96"
+        "name": "Sri Lanka Women",
+        "code": "SLW",
+        "color": "#ea580c",
+        "logo": "https://g.cricapi.com/iapi/4191-638101639309122979.webp?w=96"
       },
       "venue": "",
-      "time": "2026-11-11T13:30:00.000Z",
+      "time": "2026-11-12T05:30:00.000Z",
       "prediction": "",
       "confidence": null,
-      "status": "upcoming",
+      "status": "done",
       "result": "pending"
     },
     {
-      "id": "3482d510-ad84-4730-a5c9-85431352162f",
-      "series": "Abu Dhabi T10 League",
+      "id": "2643e1b7-5921-4c4f-8805-32a3defbae85",
+      "series": "Womens Big Bash League",
       "matchNo": "",
-      "format": "T10",
+      "format": "T20",
       "teamA": {
-        "name": "Royal Desert Champions",
-        "code": "ROY",
-        "color": "#0f766e"
+        "name": "Melbourne Renegades Women",
+        "code": "MR-W",
+        "color": "#b91c1c",
+        "logo": "https://g.cricapi.com/iapi/2655-638040167731668168.webp?w=96"
       },
       "teamB": {
-        "name": "Uae Bulls",
-        "code": "UAE",
-        "color": "#4338ca"
+        "name": "Sydney Sixers Women",
+        "code": "SS-W",
+        "color": "#dc2626",
+        "logo": "https://g.cricapi.com/iapi/2626-638040170781201689.webp?w=96"
       },
       "venue": "",
-      "time": "2026-11-11T13:45:00.000Z",
+      "time": "2026-11-12T08:10:00.000Z",
       "prediction": "",
       "confidence": null,
-      "status": "upcoming",
+      "status": "live",
       "result": "pending"
     },
     {
-      "id": "a370e183-65df-43dd-83d0-ff872ca35eab",
-      "series": "Abu Dhabi T10 League",
+      "id": "d374d074-eb3b-428e-abab-9a6e94b83e5b",
+      "series": "ICC Women's Emerging Nations Trophy",
       "matchNo": "",
-      "format": "T10",
+      "format": "T20",
       "teamA": {
-        "name": "Arabian Aces",
-        "code": "ARA",
-        "color": "#9f1239"
+        "name": "Netherlands Women",
+        "code": "NET-",
+        "color": "#dc2626",
+        "logo": "https://g.cricapi.com/iapi/1639-637926301346986959.webp?w=96"
       },
       "teamB": {
-        "name": "Yas Lions",
-        "code": "YAS",
-        "color": "#15803d"
+        "name": "Thailand Women",
+        "code": "THW",
+        "color": "#0369a1",
+        "logo": "https://g.cricapi.com/iapi/2351-637985730472466346.webp?w=96"
       },
       "venue": "",
-      "time": "2026-11-11T16:00:00.000Z",
+      "time": "2026-11-12T09:15:00.000Z",
       "prediction": "",
       "confidence": null,
-      "status": "upcoming",
+      "status": "live",
+      "result": "pending"
+    },
+    {
+      "id": "48c5e2f6-e4e4-4c45-b4b8-4ec66635a835",
+      "series": "ICC Women's Emerging Nations Trophy",
+      "matchNo": "",
+      "format": "T20",
+      "teamA": {
+        "name": "Bangladesh Women",
+        "code": "BANW",
+        "color": "#b91c1c",
+        "logo": "https://g.cricapi.com/iapi/10-637877074628008258.webp?w=96"
+      },
+      "teamB": {
+        "name": "Pakistan Women",
+        "code": "PAKW",
+        "color": "#86198f",
+        "logo": "https://g.cricapi.com/iapi/67-637877074931980375.webp?w=96"
+      },
+      "venue": "",
+      "time": "2026-11-12T09:15:00.000Z",
+      "prediction": "",
+      "confidence": null,
+      "status": "live",
       "result": "pending"
     }
   ]
