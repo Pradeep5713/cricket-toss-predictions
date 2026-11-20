@@ -1,260 +1,630 @@
 {
-  "updated": "2026-11-19T11:03:10.212Z",
+  "updated": "2026-11-20T10:51:31.247Z",
   "matches": [
     {
-      "id": "0f63b918-a76b-422c-9019-04219f5aec34",
-      "series": "Womens Big Bash League",
-      "matchNo": "",
-      "format": "T20",
-      "teamA": {
-        "name": "Hobart Hurricanes Women",
-        "code": "HB-W",
-        "color": "#0f766e",
-        "logo": "https://g.cricapi.com/iapi/2635-638040172943294988.webp?w=96"
-      },
-      "teamB": {
-        "name": "Perth Scorchers Women",
-        "code": "PS-W",
-        "color": "#1e3a8a",
-        "logo": "https://g.cricapi.com/iapi/2656-638040167042932787.webp?w=96"
-      },
-      "venue": "",
-      "time": "2026-11-19T04:40:00.000Z",
-      "prediction": "",
-      "confidence": null,
-      "status": "done",
-      "result": "pending"
-    },
-    {
-      "id": "c9701e3b-c010-4de1-8e65-7d309e53a9d0",
-      "series": "Ireland A tour of Zimbabwe",
-      "matchNo": "",
-      "format": "T20",
-      "teamA": {
-        "name": "Ireland A",
-        "code": "IRA",
-        "color": "#0f766e"
-      },
-      "teamB": {
-        "name": "Zimbabwe A",
-        "code": "ZIM-",
-        "color": "#ca8a04"
-      },
-      "venue": "",
-      "time": "2026-11-19T07:30:00.000Z",
-      "prediction": "",
-      "confidence": null,
-      "status": "done",
-      "result": "pending"
-    },
-    {
-      "id": "ae5392dd-571b-461b-9064-53137546b7a3",
-      "series": "CSA Four-Day Series Division One",
+      "id": "42eb1bd1-bb5f-460a-8fa3-9de034893e30",
+      "series": "Plunket Shield",
       "matchNo": "",
       "format": "Test",
       "teamA": {
-        "name": "Titans",
-        "code": "TITN",
-        "color": "#ea580c",
-        "logo": "https://g.cricapi.com/iapi/89-637987557693726758.webp?w=96"
+        "name": "Canterbury",
+        "code": "CAN",
+        "color": "#86198f",
+        "logo": "https://g.cricapi.com/iapi/15-637993523929449827.webp?w=96"
       },
       "teamB": {
-        "name": "Warriors",
-        "code": "WAR",
-        "color": "#b91c1c",
-        "logo": "https://g.cricapi.com/iapi/98-637987556857963180.webp?w=96"
+        "name": "Otago",
+        "code": "OTG",
+        "color": "#ca8a04",
+        "logo": "https://g.cricapi.com/iapi/65-637992667637799448.webp?w=96"
       },
       "venue": "",
-      "time": "2026-11-19T08:00:00.000Z",
+      "time": "2026-11-19T21:30:00.000Z",
       "prediction": "",
       "confidence": null,
       "status": "live",
       "result": "pending"
     },
     {
-      "id": "c038aabe-bcd8-4198-ba18-26572f666880",
-      "series": "CSA Four-Day Series Division One",
+      "id": "d6a32863-2b67-47fd-9c2f-53ae0ab566d2",
+      "series": "Plunket Shield",
       "matchNo": "",
       "format": "Test",
       "teamA": {
-        "name": "Boland",
-        "code": "BL",
-        "color": "#0f766e"
-      },
-      "teamB": {
-        "name": "Knights",
-        "code": "KNG",
-        "color": "#be185d"
-      },
-      "venue": "",
-      "time": "2026-11-19T08:00:00.000Z",
-      "prediction": "",
-      "confidence": null,
-      "status": "live",
-      "result": "pending"
-    },
-    {
-      "id": "3082f812-4c40-4199-9353-f2352e6ebce0",
-      "series": "CSA Four-Day Series Division One",
-      "matchNo": "",
-      "format": "Test",
-      "teamA": {
-        "name": "Dolphins",
-        "code": "DOL",
-        "color": "#0369a1",
-        "logo": "https://g.cricapi.com/iapi/20-637993514627926036.webp?w=96"
-      },
-      "teamB": {
-        "name": "Western Province",
-        "code": "WPR",
-        "color": "#dc2626",
-        "logo": "https://g.cricapi.com/iapi/104-637987555401464222.webp?w=96"
-      },
-      "venue": "",
-      "time": "2026-11-19T08:00:00.000Z",
-      "prediction": "",
-      "confidence": null,
-      "status": "live",
-      "result": "pending"
-    },
-    {
-      "id": "717cf4eb-02f0-4148-9ee7-c32e85cb9acc",
-      "series": "CSA Four-Day Series Division One",
-      "matchNo": "",
-      "format": "Test",
-      "teamA": {
-        "name": "Lions",
-        "code": "LION",
+        "name": "Auckland",
+        "code": "AKL",
         "color": "#ea580c"
       },
       "teamB": {
-        "name": "North West - Eastvaal Renault Dragons",
-        "code": "ERD",
-        "color": "#7c3aed"
+        "name": "Northern Districts",
+        "code": "ND",
+        "color": "#b91c1c"
       },
       "venue": "",
-      "time": "2026-11-19T08:00:00.000Z",
+      "time": "2026-11-19T21:30:00.000Z",
       "prediction": "",
       "confidence": null,
       "status": "live",
       "result": "pending"
     },
     {
-      "id": "869e8a21-fab7-4709-9d97-f446031f7e88",
-      "series": "CSA Three-Day Series Division Two",
+      "id": "163a0512-5f23-4446-b450-fa888e36038e",
+      "series": "India tour of New Zealand",
       "matchNo": "",
       "format": "T20",
       "teamA": {
-        "name": "Eastern Storm",
-        "code": "ESTO",
-        "color": "#1e3a8a",
-        "logo": "https://g.cricapi.com/iapi/22-637992689531725146.webp?w=96"
-      },
-      "teamB": {
-        "name": "Northern Cape",
-        "code": "NCAP",
+        "name": "India",
+        "code": "IND",
         "color": "#ea580c",
-        "logo": "https://g.cricapi.com/iapi/61-637991981464151764.webp?w=96"
+        "logo": "https://g.cricapi.com/iapi/31-637877061080567215.webp?w=96"
+      },
+      "teamB": {
+        "name": "New Zealand",
+        "code": "NZ",
+        "color": "#b91c1c",
+        "logo": "https://g.cricapi.com/iapi/57-637877076980737903.webp?w=96"
       },
       "venue": "",
-      "time": "2026-11-19T08:00:00.000Z",
+      "time": "2026-11-19T22:00:00.000Z",
       "prediction": "",
       "confidence": null,
       "status": "live",
       "result": "pending"
     },
     {
-      "id": "13013357-fdce-4425-b993-34cffc54e4aa",
-      "series": "CSA Three-Day Series Division Two",
+      "id": "8d7a8c7b-4ba4-4b67-89e1-eeb517ed71f8",
+      "series": "Syed Mushtaq Ali Trophy Elite",
       "matchNo": "",
       "format": "T20",
       "teamA": {
-        "name": "KwaZulu-Natal Inland Tuskers",
-        "code": "KWA",
-        "color": "#0369a1"
+        "name": "Chandigarh",
+        "code": "CDG",
+        "color": "#ea580c",
+        "logo": "https://g.cricapi.com/iapi/17-637897790786615930.png?w=96"
       },
       "teamB": {
-        "name": "Limpopo",
-        "code": "LIMP",
-        "color": "#dc2626"
+        "name": "Uttar Pradesh",
+        "code": "UP",
+        "color": "#86198f",
+        "logo": "https://g.cricapi.com/iapi/94-637897806676935322.png?w=96"
       },
       "venue": "",
-      "time": "2026-11-19T08:00:00.000Z",
+      "time": "2026-11-20T03:30:00.000Z",
       "prediction": "",
       "confidence": null,
-      "status": "live",
+      "status": "done",
       "result": "pending"
     },
     {
-      "id": "72085336-9f9e-4ebe-9b48-8abfc42f833c",
-      "series": "CSA Three-Day Series Division Two",
+      "id": "a5116a4f-a501-47ed-9dd1-ec82be7567fb",
+      "series": "Syed Mushtaq Ali Trophy Elite",
       "matchNo": "",
       "format": "T20",
       "teamA": {
-        "name": "Border",
-        "code": "BR",
-        "color": "#9f1239"
+        "name": "Assam",
+        "code": "ASM",
+        "color": "#1e3a8a",
+        "logo": "https://g.cricapi.com/iapi/4-637897788303626448.png?w=96"
       },
       "teamB": {
-        "name": "South Western Districts",
-        "code": "SWD",
-        "color": "#ca8a04"
+        "name": "Maharashtra",
+        "code": "MAH",
+        "color": "#15803d",
+        "logo": "https://g.cricapi.com/iapi/45-637897797960178569.png?w=96"
       },
       "venue": "",
-      "time": "2026-11-19T08:00:00.000Z",
+      "time": "2026-11-20T03:30:00.000Z",
+      "prediction": "",
+      "confidence": null,
+      "status": "done",
+      "result": "pending"
+    },
+    {
+      "id": "c6733362-51f2-444c-8189-de48524c88dc",
+      "series": "Syed Mushtaq Ali Trophy Elite",
+      "matchNo": "",
+      "format": "T20",
+      "teamA": {
+        "name": "Punjab",
+        "code": "PUN",
+        "color": "#15803d",
+        "logo": "https://g.cricapi.com/iapi/72-637897801965344275.png?w=96"
+      },
+      "teamB": {
+        "name": "Tamil Nadu",
+        "code": "TN",
+        "color": "#b91c1c",
+        "logo": "https://g.cricapi.com/iapi/87-637897804625426972.png?w=96"
+      },
+      "venue": "",
+      "time": "2026-11-20T03:30:00.000Z",
+      "prediction": "",
+      "confidence": null,
+      "status": "done",
+      "result": "pending"
+    },
+    {
+      "id": "8fbe5f27-85b7-4275-8e07-b3139073ac5e",
+      "series": "Syed Mushtaq Ali Trophy Elite",
+      "matchNo": "",
+      "format": "T20",
+      "teamA": {
+        "name": "Goa",
+        "code": "GOA",
+        "color": "#4338ca",
+        "logo": "https://g.cricapi.com/iapi/26-637897792202678375.png?w=96"
+      },
+      "teamB": {
+        "name": "Hyderabad",
+        "code": "HYD",
+        "color": "#ca8a04",
+        "logo": "https://g.cricapi.com/iapi/30-637897794525321433.png?w=96"
+      },
+      "venue": "",
+      "time": "2026-11-20T03:30:00.000Z",
+      "prediction": "",
+      "confidence": null,
+      "status": "done",
+      "result": "pending"
+    },
+    {
+      "id": "d7de5ef6-247a-4e72-ba88-5e3b2bb23388",
+      "series": "Syed Mushtaq Ali Trophy Elite",
+      "matchNo": "",
+      "format": "T20",
+      "teamA": {
+        "name": "Jharkhand",
+        "code": "JHKD",
+        "color": "#86198f",
+        "logo": "https://g.cricapi.com/iapi/36-637897796049905291.png?w=96"
+      },
+      "teamB": {
+        "name": "Karnataka",
+        "code": "KAR",
+        "color": "#15803d",
+        "logo": "https://g.cricapi.com/iapi/38-637897796420763611.png?w=96"
+      },
+      "venue": "",
+      "time": "2026-11-20T03:30:00.000Z",
+      "prediction": "",
+      "confidence": null,
+      "status": "done",
+      "result": "pending"
+    },
+    {
+      "id": "4ae1d337-a9fb-4791-8e10-e3f8f802d218",
+      "series": "ICC Women's Emerging Nations Trophy",
+      "matchNo": "",
+      "format": "T20",
+      "teamA": {
+        "name": "Sri Lanka Women",
+        "code": "SLW",
+        "color": "#ea580c",
+        "logo": "https://g.cricapi.com/iapi/4191-638101639309122979.webp?w=96"
+      },
+      "teamB": {
+        "name": "Zimbabwe Women",
+        "code": "ZIMW",
+        "color": "#b91c1c",
+        "logo": "https://g.cricapi.com/iapi/1141-637877080090615236.webp?w=96"
+      },
+      "venue": "",
+      "time": "2026-11-20T05:00:00.000Z",
+      "prediction": "",
+      "confidence": null,
+      "status": "done",
+      "result": "pending"
+    },
+    {
+      "id": "b61c3067-ac06-4ade-aaaf-dc0b705174e0",
+      "series": "ICC Women's Emerging Nations Trophy",
+      "matchNo": "",
+      "format": "T20",
+      "teamA": {
+        "name": "Netherlands Women",
+        "code": "NET-",
+        "color": "#dc2626",
+        "logo": "https://g.cricapi.com/iapi/1639-637926301346986959.webp?w=96"
+      },
+      "teamB": {
+        "name": "Scotland Women",
+        "code": "SCOW",
+        "color": "#dc2626",
+        "logo": "https://g.cricapi.com/iapi/2216-637981637047617665.webp?w=96"
+      },
+      "venue": "",
+      "time": "2026-11-20T05:00:00.000Z",
+      "prediction": "",
+      "confidence": null,
+      "status": "done",
+      "result": "pending"
+    },
+    {
+      "id": "75310d52-0fe9-43a4-aaa4-afde1d3ab055",
+      "series": "Syed Mushtaq Ali Trophy Elite",
+      "matchNo": "",
+      "format": "T20",
+      "teamA": {
+        "name": "Bihar",
+        "code": "BIH",
+        "color": "#15803d",
+        "logo": "https://g.cricapi.com/iapi/13-637897789593616439.png?w=96"
+      },
+      "teamB": {
+        "name": "Jammu and Kashmir",
+        "code": "JK",
+        "color": "#1d4ed8",
+        "logo": "https://g.cricapi.com/iapi/35-637897795101008676.png?w=96"
+      },
+      "venue": "",
+      "time": "2026-11-20T05:30:00.000Z",
+      "prediction": "",
+      "confidence": null,
+      "status": "done",
+      "result": "pending"
+    },
+    {
+      "id": "beb78012-a9d3-4fa6-8071-79eecd768063",
+      "series": "Syed Mushtaq Ali Trophy Elite",
+      "matchNo": "",
+      "format": "T20",
+      "teamA": {
+        "name": "Andhra",
+        "code": "AP",
+        "color": "#1d4ed8",
+        "logo": "https://g.cricapi.com/iapi/2-637897787068768481.png?w=96"
+      },
+      "teamB": {
+        "name": "Madhya Pradesh",
+        "code": "MP",
+        "color": "#0369a1",
+        "logo": "https://g.cricapi.com/iapi/44-637897797618832180.png?w=96"
+      },
+      "venue": "",
+      "time": "2026-11-20T05:30:00.000Z",
+      "prediction": "",
+      "confidence": null,
+      "status": "done",
+      "result": "pending"
+    },
+    {
+      "id": "c046538c-b4a2-447b-aefa-5f2e25d2b355",
+      "series": "Syed Mushtaq Ali Trophy Elite",
+      "matchNo": "",
+      "format": "T20",
+      "teamA": {
+        "name": "Odisha",
+        "code": "ODSA",
+        "color": "#0f766e",
+        "logo": "https://g.cricapi.com/iapi/63-637897801546556330.png?w=96"
+      },
+      "teamB": {
+        "name": "Uttarakhand",
+        "code": "UTK",
+        "color": "#16a34a",
+        "logo": "https://g.cricapi.com/iapi/95-637897806132002810.png?w=96"
+      },
+      "venue": "",
+      "time": "2026-11-20T05:30:00.000Z",
+      "prediction": "",
+      "confidence": null,
+      "status": "done",
+      "result": "pending"
+    },
+    {
+      "id": "1d4943a0-7a83-42fd-ad37-ab7122e59e37",
+      "series": "Syed Mushtaq Ali Trophy Plate",
+      "matchNo": "",
+      "format": "T20",
+      "teamA": {
+        "name": "Arunachal Pradesh",
+        "code": "ARNP",
+        "color": "#9f1239",
+        "logo": "https://g.cricapi.com/iapi/3-637897787732978973.png?w=96"
+      },
+      "teamB": {
+        "name": "Meghalaya",
+        "code": "MGLY",
+        "color": "#0369a1",
+        "logo": "https://g.cricapi.com/iapi/47-637897799109677927.png?w=96"
+      },
+      "venue": "",
+      "time": "2026-11-20T05:30:00.000Z",
+      "prediction": "",
+      "confidence": null,
+      "status": "done",
+      "result": "pending"
+    },
+    {
+      "id": "2aa68a18-ec46-42c0-a339-3f50f1c33140",
+      "series": "Syed Mushtaq Ali Trophy Plate",
+      "matchNo": "",
+      "format": "T20",
+      "teamA": {
+        "name": "Nagaland",
+        "code": "NGL",
+        "color": "#0f766e",
+        "logo": "https://g.cricapi.com/iapi/52-637897800938942974.png?w=96"
+      },
+      "teamB": {
+        "name": "Services",
+        "code": "SER",
+        "color": "#dc2626",
+        "logo": "https://g.cricapi.com/iapi/80-637897803943638638.png?w=96"
+      },
+      "venue": "",
+      "time": "2026-11-20T05:30:00.000Z",
+      "prediction": "",
+      "confidence": null,
+      "status": "done",
+      "result": "pending"
+    },
+    {
+      "id": "eecdeb43-4ac3-4ed0-ba4f-ec5ba2e2ff1c",
+      "series": "Syed Mushtaq Ali Trophy Elite",
+      "matchNo": "",
+      "format": "T20",
+      "teamA": {
+        "name": "Chhattisgarh",
+        "code": "CG",
+        "color": "#0f766e",
+        "logo": "https://g.cricapi.com/iapi/18-637897790441171438.png?w=96"
+      },
+      "teamB": {
+        "name": "Gujarat",
+        "code": "GUJ",
+        "color": "#1d4ed8",
+        "logo": "https://g.cricapi.com/iapi/27-637897792592204662.png?w=96"
+      },
+      "venue": "",
+      "time": "2026-11-20T08:00:00.000Z",
+      "prediction": "",
+      "confidence": null,
+      "status": "done",
+      "result": "pending"
+    },
+    {
+      "id": "c1894ff7-1387-4c15-bc9f-7768dd3b641b",
+      "series": "Syed Mushtaq Ali Trophy Elite",
+      "matchNo": "",
+      "format": "T20",
+      "teamA": {
+        "name": "Delhi",
+        "code": "DEL",
+        "color": "#9f1239",
+        "logo": "https://g.cricapi.com/iapi/19-637897791252425890.png?w=96"
+      },
+      "teamB": {
+        "name": "Saurashtra",
+        "code": "SAUR",
+        "color": "#0f766e",
+        "logo": "https://g.cricapi.com/iapi/78-637897803602821716.png?w=96"
+      },
+      "venue": "",
+      "time": "2026-11-20T08:00:00.000Z",
       "prediction": "",
       "confidence": null,
       "status": "live",
       "result": "pending"
     },
     {
-      "id": "b5d34f36-f5e6-4203-b19d-9ddef4631f57",
+      "id": "9bb41601-9604-45ff-a476-352833ca26fd",
+      "series": "Syed Mushtaq Ali Trophy Elite",
+      "matchNo": "",
+      "format": "T20",
+      "teamA": {
+        "name": "Kerala",
+        "code": "KER",
+        "color": "#dc2626",
+        "logo": "https://g.cricapi.com/iapi/39-637897797224429950.png?w=96"
+      },
+      "teamB": {
+        "name": "Tripura",
+        "code": "TRI",
+        "color": "#16a34a",
+        "logo": "https://g.cricapi.com/iapi/90-637897805085647315.png?w=96"
+      },
+      "venue": "",
+      "time": "2026-11-20T08:00:00.000Z",
+      "prediction": "",
+      "confidence": null,
+      "status": "done",
+      "result": "pending"
+    },
+    {
+      "id": "83fd2244-2c22-4c67-a214-234642577363",
+      "series": "Syed Mushtaq Ali Trophy Elite",
+      "matchNo": "",
+      "format": "T20",
+      "teamA": {
+        "name": "Bengal",
+        "code": "BEN",
+        "color": "#ea580c",
+        "logo": "https://g.cricapi.com/iapi/12-637897789312826453.png?w=96"
+      },
+      "teamB": {
+        "name": "Mizoram",
+        "code": "MIZ",
+        "color": "#1e3a8a",
+        "logo": "https://g.cricapi.com/iapi/48-637897799543539926.png?w=96"
+      },
+      "venue": "",
+      "time": "2026-11-20T08:00:00.000Z",
+      "prediction": "",
+      "confidence": null,
+      "status": "live",
+      "result": "pending"
+    },
+    {
+      "id": "994c9cae-f89b-44b8-9e0f-c6f9455b1b67",
       "series": "Womens Big Bash League",
       "matchNo": "",
       "format": "T20",
       "teamA": {
-        "name": "Brisbane Heat Women",
-        "code": "BH-W",
+        "name": "Adelaide Strikers Women",
+        "code": "AS-W",
         "color": "#dc2626",
-        "logo": "https://g.cricapi.com/iapi/2625-638040173617905942.webp?w=96"
+        "logo": "https://g.cricapi.com/iapi/2645-638040168980778527.webp?w=96"
       },
       "teamB": {
-        "name": "Sydney Thunder Women",
-        "code": "ST-W",
-        "color": "#be185d",
-        "logo": "https://g.cricapi.com/iapi/2636-638040169751591741.webp?w=96"
+        "name": "Melbourne Renegades Women",
+        "code": "MR-W",
+        "color": "#b91c1c",
+        "logo": "https://g.cricapi.com/iapi/2655-638040167731668168.webp?w=96"
       },
       "venue": "",
-      "time": "2026-11-19T08:10:00.000Z",
+      "time": "2026-11-20T08:10:00.000Z",
       "prediction": "",
       "confidence": null,
       "status": "live",
       "result": "pending"
     },
     {
-      "id": "5a550de1-4b29-4109-bee2-7415416929a1",
-      "series": "Nepal Premier League",
+      "id": "f71a23e0-f244-4e76-8e6c-0655d76704c7",
+      "series": "ICC Women's Emerging Nations Trophy",
       "matchNo": "",
       "format": "T20",
       "teamA": {
-        "name": "Chitwan Rhinos",
-        "code": "CHI",
-        "color": "#86198f"
+        "name": "Ireland Women",
+        "code": "IRW",
+        "color": "#0369a1",
+        "logo": "https://g.cricapi.com/iapi/1420-637926315409640205.png?w=96"
       },
       "teamB": {
-        "name": "Sudur Paschim Royals",
-        "code": "SUD",
-        "color": "#15803d"
+        "name": "Pakistan Women",
+        "code": "PAKW",
+        "color": "#86198f",
+        "logo": "https://g.cricapi.com/iapi/67-637877074931980375.webp?w=96"
       },
       "venue": "",
-      "time": "2026-11-19T10:45:00.000Z",
+      "time": "2026-11-20T09:15:00.000Z",
       "prediction": "",
       "confidence": null,
       "status": "live",
       "result": "pending"
     },
     {
-      "id": "173955a8-1dd0-48c8-9a47-5a9514c489d2",
+      "id": "13fd81ef-3627-466c-b69d-2feeb11134a2",
+      "series": "Syed Mushtaq Ali Trophy Plate",
+      "matchNo": "",
+      "format": "T20",
+      "teamA": {
+        "name": "Manipur",
+        "code": "MNP",
+        "color": "#dc2626",
+        "logo": "https://g.cricapi.com/iapi/46-637897798559839649.png?w=96"
+      },
+      "teamB": {
+        "name": "Sikkim",
+        "code": "SKM",
+        "color": "#a16207",
+        "logo": "https://g.cricapi.com/iapi/81-637897804239198149.png?w=96"
+      },
+      "venue": "",
+      "time": "2026-11-20T11:00:00.000Z",
+      "prediction": "",
+      "confidence": null,
+      "status": "done",
+      "result": "pending"
+    },
+    {
+      "id": "2312d51c-4f77-49e7-bc96-f61dea7d1492",
+      "series": "Syed Mushtaq Ali Trophy Elite",
+      "matchNo": "",
+      "format": "T20",
+      "teamA": {
+        "name": "Himachal Pradesh",
+        "code": "HP",
+        "color": "#a16207",
+        "logo": "https://g.cricapi.com/iapi/29-637897794090988497.png?w=96"
+      },
+      "teamB": {
+        "name": "Puducherry",
+        "code": "PDC",
+        "color": "#16a34a",
+        "logo": "https://g.cricapi.com/iapi/71-637897802638820789.png?w=96"
+      },
+      "venue": "",
+      "time": "2026-11-20T11:00:00.000Z",
+      "prediction": "",
+      "confidence": null,
+      "status": "upcoming",
+      "result": "pending"
+    },
+    {
+      "id": "cb06e950-be06-4f3d-88aa-ab9c370ee50b",
+      "series": "Syed Mushtaq Ali Trophy Elite",
+      "matchNo": "",
+      "format": "T20",
+      "teamA": {
+        "name": "Haryana",
+        "code": "HAR",
+        "color": "#ca8a04",
+        "logo": "https://g.cricapi.com/iapi/28-637897793655542496.png?w=96"
+      },
+      "teamB": {
+        "name": "Railways",
+        "code": "RLYS",
+        "color": "#be185d",
+        "logo": "https://g.cricapi.com/iapi/75-637897802979231020.png?w=96"
+      },
+      "venue": "",
+      "time": "2026-11-20T11:00:00.000Z",
+      "prediction": "",
+      "confidence": null,
+      "status": "upcoming",
+      "result": "pending"
+    },
+    {
+      "id": "ba15b126-aca3-425f-94c9-37e5baa29e8f",
+      "series": "Syed Mushtaq Ali Trophy Elite",
+      "matchNo": "",
+      "format": "T20",
+      "teamA": {
+        "name": "Baroda",
+        "code": "BRD",
+        "color": "#4338ca",
+        "logo": "https://g.cricapi.com/iapi/11-637897788547716432.png?w=96"
+      },
+      "teamB": {
+        "name": "Rajasthan",
+        "code": "RAJ",
+        "color": "#dc2626",
+        "logo": "https://g.cricapi.com/iapi/76-637897803285904034.png?w=96"
+      },
+      "venue": "",
+      "time": "2026-11-20T11:00:00.000Z",
+      "prediction": "",
+      "confidence": null,
+      "status": "upcoming",
+      "result": "pending"
+    },
+    {
+      "id": "2c05b44d-8628-4589-b57d-1994393ed128",
+      "series": "Syed Mushtaq Ali Trophy Elite",
+      "matchNo": "",
+      "format": "T20",
+      "teamA": {
+        "name": "Mumbai",
+        "code": "MUM",
+        "color": "#0369a1",
+        "logo": "https://g.cricapi.com/iapi/51-637897800490404099.png?w=96"
+      },
+      "teamB": {
+        "name": "Vidarbha",
+        "code": "VID",
+        "color": "#4338ca",
+        "logo": "https://g.cricapi.com/iapi/97-637897807024164117.png?w=96"
+      },
+      "venue": "",
+      "time": "2026-11-20T11:00:00.000Z",
+      "prediction": "",
+      "confidence": null,
+      "status": "upcoming",
+      "result": "pending"
+    },
+    {
+      "id": "e00acde9-cf77-4fe7-a7fa-880872693963",
       "series": "Abu Dhabi T10 League",
       "matchNo": "",
       "format": "T20",
@@ -269,21 +639,21 @@
         "color": "#4338ca"
       },
       "venue": "",
-      "time": "2026-11-19T11:30:00.000Z",
+      "time": "2026-11-20T13:30:00.000Z",
       "prediction": "",
       "confidence": null,
       "status": "upcoming",
       "result": "pending"
     },
     {
-      "id": "619df1c5-0aef-473f-a455-e4109c120e78",
+      "id": "26ae3018-c96f-443d-8ec0-33aa9fccb54e",
       "series": "Abu Dhabi T10 League",
       "matchNo": "",
       "format": "T20",
       "teamA": {
-        "name": "Royal Desert Champions",
-        "code": "ROY",
-        "color": "#0f766e"
+        "name": "Tbc",
+        "code": "TBC",
+        "color": "#0369a1"
       },
       "teamB": {
         "name": "Yas Lions",
@@ -291,29 +661,7 @@
         "color": "#15803d"
       },
       "venue": "",
-      "time": "2026-11-19T13:45:00.000Z",
-      "prediction": "",
-      "confidence": null,
-      "status": "upcoming",
-      "result": "pending"
-    },
-    {
-      "id": "e27e77b0-57d7-4ab5-8b89-3fa231fc2619",
-      "series": "Abu Dhabi T10 League",
-      "matchNo": "",
-      "format": "T20",
-      "teamA": {
-        "name": "Emirates Eagles",
-        "code": "EMI",
-        "color": "#1e3a8a"
-      },
-      "teamB": {
-        "name": "United Tigers",
-        "code": "UNI",
-        "color": "#b91c1c"
-      },
-      "venue": "",
-      "time": "2026-11-19T16:00:00.000Z",
+      "time": "2026-11-20T15:45:00.000Z",
       "prediction": "",
       "confidence": null,
       "status": "upcoming",
